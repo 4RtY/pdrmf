@@ -1,0 +1,202 @@
+= DotA Replay Manager Change Log =
+
+
+*+* Added
+
+*-* Removed
+
+*~* Fixed/Changed
+
+*•* Comment/Info
+
+----
+
+== 26.07.2012 v6.4 *-**-**-* Public Source Code Release == 
+
+*+* Added new messenger method
+
+*+* Added ground click code
+
+*+* Changed alt*+*c macro
+
+*+* Added shift filter function
+
+*~* Disabling icons if they aren't in the folder
+
+=== 23.07.2012 v6.3 === 
+
+*-* Removed the messenger
+
+*+* Zipped an icon folder
+
+=== 20.07.2012 v6.2 === 
+
+*~* Fixed version number bug causing to create a old setting
+
+*+* Added a HTML intro GUI
+
+*~* Other little bugs and various changes
+
+
+=== 20.07.2012 v6.1 === 
+
+*+* Added a tray icon
+
+*+* Added tray icon text & menu
+
+*+* Added some restrictions (for messenger)
+
+*+* Various fixes and changes
+
+=== 19.07.2012 v6.0 === 
+
+*+* Added a menu
+
+*+* Added a settings gui for more support and easier edition
+
+*+* Added a update option and auto updates
+
+*+* Added a messenger
+
+*+* Added icons
+
+*~* Various little changes
+
+
+=== 14.07.2012 v5.2 === 
+
+*~* Hopefully fixed the damn log size bug (DRM/win wont update the filesize of the log after loading a new actionlog)
+
+*+* Added the restriction for the hotkeys to only work if Warcraft III is active
+
+*~* Alt*+*Esc to exit the exe, in case something goes wrong
+
+
+=== 03.07.2012 v5.1=== 
+
+*+* Added alt*+*c macro (ctrl*+*s to start, ctrl*+*a to abort)
+
+*~* Reload reloads the ini, chat and file size.
+
+*~* Added serval help & info boxes.
+
+
+=== 07.06.2012 v5.01=== 
+
+*~* Fixed reload button
+
+
+=== 03.06.2012 v5.0 === 
+
+*+* Added an update button.
+
+
+=== 03.06.2012 v4.3=== 
+
+*+* Added private chat options which will list every private message to a user
+
+*~* Fixed a bug with the neutral unit nsha
+
+*+* Added a reload button which will reload the chat's content and the log's filesize. From now on you dont need to restart the exe everytime, you are loading a new actionlog/new replay.
+
+*+* LogPath will now be saved if not completly new installed.
+
+
+=== 18.05.2012 v4.2=== 
+
+*+* Added an error if the logpath doesn't exist/spelled wrong
+
+*+* Added the sync removal of the first *~*3K lines in log if filtering for all users
+
+
+=== 17.05.2012 v4.0=== 
+
+*+* Added colours for text and background
+
+*+* Added multiple windows
+
+*-* Removed auto*-*positioning of the controlls
+
+*-* Removed sync (option only for one user and not all!)
+
+
+=== 16.05.2012 v3.1=== 
+
+*+* Added change selectio's IDs and made it possible to use both, subgroups and change selection at the same time
+
+*+* Added merch & demo units
+
+
+=== 15.05.2012 v3.0 === 
+
+*+* Added new tab design *+* Added another click options neutral
+
+*~* Changed the titan/builders click function to filter everything out what is part of either the titan's side or the builder's side
+
+*~* Changed the original window to only be closed when you press the X there and not in the filter window
+
+*+* Added one more mini ID *+* Fixed floating ID
+
+
+=== 13.05.2012 v2.8 *-*> v2.81 === 
+
+*+* Added spell IDs
+
+*~* Fixed the annoying name bug
+
+
+=== 12.05.2012 v2.7 *-*> v2.71=== 
+
+*+* Added item IDs
+
+*+* Added slot IDs 
+
+*+* Added new option (read readme)
+
+*~* Fixed commands/chatlog bug
+
+*+* Added a combobox of the currently players. Took me a half day for the inbuild*-*feature bug of ahk.
+
+
+=== 11.05.2012 v2.6 === 
+
+*~* Fixed erros
+
+*+* Added installtion progess 
+
+*+* Added all game itemIDs with new tool
+
+
+=== 10.05.2012 v2.5=== 
+
+*+* Added chat log/commands functions
+
+*+* Added restricions and infos 
+
+*~* Fixed bugs
+
+
+=== 09.05.2012 v2.3 === 
+
+*~* Fixed more bugs
+
+*~* Rewrote whole functions system due to technical problems
+
+
+=== 08.05.2012 v2.1=== 
+
+*+* Added most important item IDs
+
+*+* Added more filter options
+
+*~* Fixed bugs
+
+
+=== 07.05.2012 v2.0=== 
+
+*+* Added options
+
+*~* Code has been comepletly rewritten, made the script 1000% faster (no joke)
+
+
+== Started on the 06.05.2012 v1.0 *-*> v1.3 ===

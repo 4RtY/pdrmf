@@ -33,7 +33,7 @@ The copyright and all rights to this software belong to aRt)Y.
 Copyright (c)2012 by aRt)Y ProjectDRMF@gmail.com
 */
 
-; Last Edit: 31.7.12 -- 18:45
+; Last Edit: 31.7.12 -- 18:47
 
 #MaxThreadsPerHotkey 3
 #MaxThreads 2
@@ -337,7 +337,7 @@ Gui, 2: submit, nohide
 			If (FileSize2 != "0" || FileSize2 != "")
 				logpath = %A_workingdir%\log.txt
 	}
-
+	
 	If (commands = "1" || log = "1" || private = "1" || All = "1" || Allies = "1") and if (share = "1")
 	{
 		If (chatlog = "")
@@ -376,7 +376,9 @@ WinMove,DRM Filter v%version% by aRt)Y - ID,,% x1-362, % y1+6
 SyncLine := 0
 nextline := 0
 
-	If (Name2 != "" && Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "0" && share = "1" && groundclicks = "0" && shift = "0" && itemclicks = "0")
+If (Name2 != "")
+{
+	If (Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "0" && share = "1" && groundclicks = "0" && shift = "0" && itemclicks = "0")
 	{
 		Loop, parse,Chatlog,`n,`n
 		{
@@ -389,7 +391,7 @@ nextline := 0
 	}
 	
 	; ground
-	If (Name2 != "" && Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && groundclicks = "1" && shift = "0" && itemclicks = "0")
+	If (Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && groundclicks = "1" && shift = "0" && itemclicks = "0")
 	{
 	Loop, Read, %logpath%
 	{
@@ -403,7 +405,7 @@ nextline := 0
 	
 	
 	; item clicks
-	If (Name2 != "" && Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && groundclicks = "0" && shift = "0" && itemclicks = "1")
+	IF (Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && groundclicks = "0" && shift = "0" && itemclicks = "1")
 	{
 	Loop, Read, %logpath%
 	{
@@ -416,7 +418,7 @@ nextline := 0
 	}
 	
 	; shift
-	If (Name2 != "" && Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && shift = "1" && groundclicks = "0" && itemclicks = "0")
+	If (Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && shift = "1" && groundclicks = "0" && itemclicks = "0")
 	{
 	Loop, Read, %logpath%
 	{
@@ -429,7 +431,7 @@ nextline := 0
 	}
 	
 	; ground and shift
-	If (Name2 != "" && Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && groundclicks = "1" && shift = "1" && itemclicks = "0")
+	If (Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && groundclicks = "1" && shift = "1" && itemclicks = "0")
 	{
 	Loop, Read, %logpath%
 	{
@@ -442,7 +444,7 @@ nextline := 0
 	}
 	
 	; all
-	If (Name2 != "" && Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "1" && share = "0" && groundclicks = "0" && shift = "0" && itemclicks = "0")
+	If (Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "1" && share = "0" && groundclicks = "0" && shift = "0" && itemclicks = "0")
 	{	
 		Loop, parse,Chatlog,`n,`n
 		{
@@ -453,7 +455,7 @@ nextline := 0
 	}
 	
 	; allies
-	If (Name2 != "" && Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "1" && all = "0" && share = "0" && groundclicks = "0" && shift = "0" && itemclicks = "0")
+	IF (Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "1" && all = "0" && share = "0" && groundclicks = "0" && shift = "0" && itemclicks = "0")
 	{	
 		Loop, parse,Chatlog,`n,`n
 		{
@@ -464,7 +466,7 @@ nextline := 0
 	}
 	
 	; private chat
-	If (Name2 != "" && Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "1" && allies = "0" && all = "0" && share = "0" && groundclicks = "0" && shift = "0" && itemclicks = "0")
+	If (Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "1" && allies = "0" && all = "0" && share = "0" && groundclicks = "0" && shift = "0" && itemclicks = "0")
 	{
 		Loop, parse,Chatlog,`n,`n
 		{
@@ -475,20 +477,20 @@ nextline := 0
 	}
 		
 	; slot usage
-	If (Name2 != "" && Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "1" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && groundclicks = "0" && shift = "0" && itemclicks = "0")
+	If (Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && groundclicks = "0" && shift = "0" && itemclicks = "1")
 	{
+		msgbox slot usage
 	Loop, Read, %logpath%
 	{
+		msgbox debug
 		IfInString,A_loopreadline,%Name2%
 		If A_loopreadline contains 0x000D0028, 0x000D0029, 0x000D002A, 0x000D002B,0x000D002C, 0x000D002D
-		{
 			UserActions = %useractions%[%A_index%] %A_loopreadline%`n
-		}
 	}
 	}
 		
 	; scan detonate of user
-	If (Name2 != "" && Subgroup = "0" && Deto = "1" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && groundclicks = "0" && shift = "0" && itemclicks = "0")
+	If (Subgroup = "0" && Deto = "1" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && groundclicks = "0" && shift = "0" && itemclicks = "0")
 	{
 	Loop, Read, %logpath%
 	{
@@ -501,7 +503,7 @@ nextline := 0
 	}
 
 	; scan subgroup of user's titan clicks
-	If (Name2 != "" && Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "1" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && groundclicks = "0" && shift = "0" && itemclicks = "0")
+	If (Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "1" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && groundclicks = "0" && shift = "0" && itemclicks = "0")
 	{
 	Loop, Read, %logpath%
 	{
@@ -515,7 +517,7 @@ nextline := 0
 	}
 
 	; scan subgroups of user's builder clicks
-	If (Name2 != "" && Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "1" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && groundclicks = "0" && shift = "0" && itemclicks = "0")
+	If (Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "1" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && groundclicks = "0" && shift = "0" && itemclicks = "0")
 	{
 	Loop, Read, %logpath%
 	{
@@ -529,7 +531,7 @@ nextline := 0
 	}
 
 	; everything for name
-	If (Name2 != "" && Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && groundclicks = "0" && shift = "0" && itemclicks = "0")
+	If (Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && groundclicks = "0" && shift = "0" && itemclicks = "0")
 	{
 	Loop, Read, %logpath%
 	{
@@ -539,7 +541,7 @@ nextline := 0
 	}
 	
 	; scan subgroups only
-	If (Name2 != "" && Subgroup = "1" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && groundclicks = "0" && shift = "0" && itemclicks = "0")
+	If (Subgroup = "1" && change = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && groundclicks = "0" && shift = "0" && itemclicks = "0")
 	{
 	Loop, Read, %logpath%
 	{
@@ -550,7 +552,7 @@ nextline := 0
 	}
 	
 	; Change selection
-	If (Name2 != "" && change = "1" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && groundclicks = "0" && shift = "0" && itemclicks = "0")
+	If (change = "1" && Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && groundclicks = "0" && shift = "0" && itemclicks = "0")
 	{
 	Loop, Read, %logpath%
 	{
@@ -571,7 +573,7 @@ nextline := 0
 	}
 	
 	; log lines of one user
-	If (Name2 != "" && Subgroup = "0" && Deto = "0" && commands = "0" && log = "1" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && groundclicks = "0" && shift = "0" && itemclicks = "0")
+	If (Subgroup = "0" && Deto = "0" && commands = "0" && log = "1" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && groundclicks = "0" && shift = "0" && itemclicks = "0")
 	{
 		Loop, Parse,chatlog,`n,`n
 		{
@@ -583,7 +585,7 @@ nextline := 0
 	}
 	
 	; commands of one user
-	If (Name2 != "" && Subgroup = "0" && Deto = "0" && commands = "1" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && groundclicks = "0" && shift = "0" && itemclicks = "0")
+	IF (Subgroup = "0" && Deto = "0" && commands = "1" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && groundclicks = "0" && shift = "0" && itemclicks = "0")
 	{
 		Loop, parse,Chatlog,`n,`n
 		{
@@ -597,7 +599,7 @@ nextline := 0
 	} 
 	
 	; scan subgroup of user's building clicks
-	If (Name2 != "" && Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "1" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && groundclicks = "0" && shift = "0" && itemclicks = "0")
+	IF (Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "1" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && groundclicks = "0" && shift = "0" && itemclicks = "0")
 	{
 	Loop, Read, %logpath%
 	{
@@ -611,7 +613,7 @@ nextline := 0
 	}
 	
 	; scan subgroup of user's neutral clicks
-	If (Name2 != "" && Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "1" && change = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && groundclicks = "0" && shift = "0" && itemclicks = "0")
+	IF (Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "1" && change = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && groundclicks = "0" && shift = "0" && itemclicks = "0")
 	{
 	Loop, Read, %logpath%
 	{
@@ -626,7 +628,7 @@ nextline := 0
 	
 	
 	; scan ww,heal,nuke
-	If (Name2 != "" && Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "1" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && groundclicks = "0" && shift = "0" && itemclicks = "0")
+	IF (Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "1" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && groundclicks = "0" && shift = "0" && itemclicks = "0")
 	{
 	Loop, Read, %logpath%
 	{
@@ -636,117 +638,101 @@ nextline := 0
 			UserActions = %useractions%[%A_index%] %A_loopreadline%`n
 	}
 	}
-;} ; end if Name2 != ""
+} ; end if Name2 != ""
 
 
 
-	If (Name2 = "" && Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "0" && groundclicks = "0" && share = "1" && shift = "0" && itemclicks = "0")
+If (Name2 = "")
+{
+	If (Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "0" && groundclicks = "0" && share = "1" && shift = "0" && itemclicks = "0")
 	{
 		Loop, parse,Chatlog,`n,`n
 		{
 			If a_loopfield contains shares control with
-			{
 				UserActions = %useractions%[%A_index%] %a_loopfield%`n
-			}
 		}
 	}
 
 	; all
-	If (Name2 = "" && Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "1" && groundclicks = "0" && share = "0" && shift = "0" && itemclicks = "0")
+	If (Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "1" && groundclicks = "0" && share = "0" && shift = "0" && itemclicks = "0")
 	{	
 		Loop, parse,Chatlog,`n,`n
 		{
 			If a_loopfield contains [All]
-			{
 				UserActions = %useractions%[%A_index%] %a_loopfield%`n
-			}
 		}
 	}
 	
 	; allies
-	If (Name2 = "" && Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "1" && All = "0" && groundclicks = "0" && share = "0" && shift = "0" && itemclicks = "0")
+	If (Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "1" && All = "0" && groundclicks = "0" && share = "0" && shift = "0" && itemclicks = "0")
 	{	
 		Loop, parse,Chatlog,`n,`n
 		{
 			If a_loopfield contains [Allies]
-			{
 				UserActions = %useractions%[%A_index%] %a_loopfield%`n
-			}
 		}
 	}
 	
 	; private chat
-	If (Name2 = "" && Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "1" && allies = "0" && All = "0" && groundclicks = "0" && share = "0" && shift = "0" && itemclicks = "0")	
+	If (Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "1" && allies = "0" && All = "0" && groundclicks = "0" && share = "0" && shift = "0" && itemclicks = "0")	
 	{
 		Loop, parse,Chatlog,`n,`n
 		{
 			If a_loopfield contains [Private]
-			{
 				UserActions = %useractions%[%A_index%] %a_loopfield%`n
-			}
 		}
 	}
 	
 		; slot usage
-	If (Name2 = "" && Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "1" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && All = "0" && groundclicks = "0" && share = "0" && shift = "0" && itemclicks = "0")
+	If (Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "1" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && All = "0" && groundclicks = "0" && share = "0" && shift = "0" && itemclicks = "0")
 	{
 	Loop, Read, %logpath%
 	{
 		If A_loopreadline contains 0x000D0028, 0x000D0029, 0x000D002A, 0x000D002B,0x000D002C, 0x000D002D
-		{
 			UserActions = %useractions%[%A_index%] %A_loopreadline%`n
-		}
 	}
 	}
 		
 	; scan detonate of user
-	If (Name2 = "" && Subgroup = "0" && Deto = "1" && Commands = "0" && Log = "0" && Titan = "0" && Builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && All = "0" && groundclicks = "0" && share = "0" && shift = "0" && itemclicks = "0")
+	If (Subgroup = "0" && Deto = "1" && Commands = "0" && Log = "0" && Titan = "0" && Builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && All = "0" && groundclicks = "0" && share = "0" && shift = "0" && itemclicks = "0")
 	{
 	Loop, Read, %logpath%
 	{
 		IfInString,A_loopreadline,0x000D00B1
-		{
 			UserActions = %UserActions%[%A_Index%] %A_loopreadline%`n
-		} 
 	}
 	}
 
 	; scan subgroup of user's titan clicks
-	If (Name2 = "" && deto = "0" && Commands = "0" && Log = "0" && Titan = "1" && Builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && All = "0" && groundclicks = "0" && share = "0" && shift = "0" && itemclicks = "0")
+	If (deto = "0" && Commands = "0" && Log = "0" && Titan = "1" && Builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && All = "0" && groundclicks = "0" && share = "0" && shift = "0" && itemclicks = "0")
 	{
 	Loop, Read, %logpath%
 	{
 		IFInString,A_loopreadline,0x19: Select Subgroup
 		If A_loopreadline contains %titanforce%
-		{
 			UserActions = %UserActions%[%A_Index%] %A_loopreadline%`n
-		}
 	}
 	}
 
 	; scan subgroups of user's builder clicks
-	If (Name2 = "" && deto = "0" && Commands = "0" && Log = "0" && Titan = "0" && Builders = "1" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && All = "0" && groundclicks = "0" && share = "0" && shift = "0" && itemclicks = "0")
+	If (deto = "0" && Commands = "0" && Log = "0" && Titan = "0" && Builders = "1" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && All = "0" && groundclicks = "0" && share = "0" && shift = "0" && itemclicks = "0")
 	{
 	Loop, Read, %logpath%
 	{
 		If A_loopreadline not contains %titanforce%,%neutralforce%
-		IfInString,A_LoopReadLine,0x19: Select Subgroup
-		;If A_Loopreadline contains %builderlist%
 			UserActions = %UserActions%[%A_Index%] %A_loopreadline%`n
 	}
 	}
 
 	; everything for name
-	If (Name2 = "" && subgroup = "0" && Deto = "0" && Commands = "0" && Log = "0" && Titan = "0" && Builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && groundclicks = "0" && All = "0" && share = "0" && shift = "0" && itemclicks = "0")
+	If (subgroup = "0" && Deto = "0" && Commands = "0" && Log = "0" && Titan = "0" && Builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && groundclicks = "0" && All = "0" && share = "0" && shift = "0" && itemclicks = "0")
 	{
 	Loop, Read, %logpath%
-	{
 		UserActions = %UserActions%[%A_Index%] %A_loopreadline%`n
-	}
 	}
 	
 	; scan subgroups only
-	If (Name2 = "" && subgroup = "1" && Deto = "0" && Commands = "0" && Log = "0" && Titan = "0" && Builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && private = "0" && allies = "0" && All = "0" && groundclicks = "0" && share = "0" && shift = "0" && itemclicks = "0") ;and if (change = "0")
+	If (subgroup = "1" && Deto = "0" && Commands = "0" && Log = "0" && Titan = "0" && Builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && private = "0" && allies = "0" && All = "0" && groundclicks = "0" && share = "0" && shift = "0" && itemclicks = "0" && change = "0")
 	{
 	Loop, Read, %logpath%
 	{
@@ -756,7 +742,7 @@ nextline := 0
 	}
 	
 	; Change selection
-	If (Name2 = "" && deto = "0" && Commands = "0" && Log = "0" && Titan = "0" && Builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "1" && private = "0" && allies = "0" && All = "0" && groundclicks = "0" && share = "0" && shift = "0" && itemclicks = "0") ; and If (subgroup = "0") 
+	If (deto = "0" && Commands = "0" && Log = "0" && Titan = "0" && Builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "1" && private = "0" && allies = "0" && All = "0" && groundclicks = "0" && share = "0" && shift = "0" && itemclicks = "0" && subgroup = "0") 
 	{
 	Loop, Read, %logpath%
 	{
@@ -769,37 +755,30 @@ nextline := 0
 		IfInString,A_loopreadline,0x16: Change selection
 		{
 			oldline := A_loopreadline
-			;UserActions = %useractions%[%A_index%] %A_loopreadline%`n
 			thisline := 1
 		}
 	}
 	}
 	
 	; log lines of one user
-	If (Name2 = "" && Subgroup = "0" && Commands = "0" && Log = "1" && deto = "0" && Titan = "0" && Builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && groundclicks = "0" && All = "0" && share = "0" && shift = "0" && itemclicks = "0")
+	If (Subgroup = "0" && Commands = "0" && Log = "1" && deto = "0" && Titan = "0" && Builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && groundclicks = "0" && All = "0" && share = "0" && shift = "0" && itemclicks = "0")
 	{
 		Loop, Parse,chatlog,`n,`n
-		{
-			{
 			UserActions = %UserActions%[%A_Index%] %a_loopfield%`n
-			}
-		}
 	}
 	
 	; commands of one user
-	If (Name2 = "" && subgroup = "0" && commands = "1" && log = "0" && deto = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && groundclicks = "0" && All = "0" && share = "0" && shift = "0" && itemclicks = "0")
+	If (subgroup = "0" && commands = "1" && log = "0" && deto = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && groundclicks = "0" && All = "0" && share = "0" && shift = "0" && itemclicks = "0")
 	{
 		Loop, parse,Chatlog,`n,`n
 		{
 			If a_loopfield contains %commandslist%
-			{
 				UserActions = %useractions%[%A_index%] %a_loopfield%`n
-			}
 		}
 	} 
 	
 	; scan subgroup of user's building clicks
-	If (Name2 = "" && subgroup = "0" && deto = "0" && Commands = "0" && Log = "0" && Titan = "0" && Builders = "0" && items = "0" && buildings = "1" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && groundclicks = "0" && All = "0" && share = "0" && shift = "0" && itemclicks = "0")
+	If (subgroup = "0" && deto = "0" && Commands = "0" && Log = "0" && Titan = "0" && Builders = "0" && items = "0" && buildings = "1" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && groundclicks = "0" && All = "0" && share = "0" && shift = "0" && itemclicks = "0")
 	{
 	Loop, Read, %logpath%
 	{
@@ -812,7 +791,7 @@ nextline := 0
 	}
 	
 	; scan subgroup of user's neutral clicks
-	If (Name2 = "" && subgroup = "0" && deto = "0" && Commands = "0" && Log = "0" && Titan = "0" && Builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "1" && change = "0" && private = "0" && allies = "0" && groundclicks = "0" && All = "0" && share = "0" && shift = "0" && itemclicks = "0")
+	If (subgroup = "0" && deto = "0" && Commands = "0" && Log = "0" && Titan = "0" && Builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "1" && change = "0" && private = "0" && allies = "0" && groundclicks = "0" && All = "0" && share = "0" && shift = "0" && itemclicks = "0")
 	{
 	Loop, Read, %logpath%
 	{
@@ -825,18 +804,17 @@ nextline := 0
 	}
 
 	; scan ww,heal,nuke
-	If (Name2 = "" && subgroup = "0" && deto = "0" && Commands = "0" && Log = "0" && Titan = "0" && Builders = "0" && items = "0" && buildings = "0" && spells = "1" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && groundclicks = "0" && All = "0" && share = "0" && shift = "0" && itemclicks = "0")
+	If (subgroup = "0" && deto = "0" && Commands = "0" && Log = "0" && Titan = "0" && Builders = "0" && items = "0" && buildings = "0" && spells = "1" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && groundclicks = "0" && All = "0" && share = "0" && shift = "0" && itemclicks = "0")
 	{
 	Loop, Read, %logpath%
 	{
 		IfInString,A_loopreadline,0x10: Ability. flags: 0x0042
-		;If A_loopreadline contains %titannuke%,%titanheal%,%titanulti%
 			UserActions = %useractions%[%A_index%] %A_loopreadline%`n
 	}
 	}	
 	
 	; ground
-	If (Name2 = "" && Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && groundclicks = "1" && shift = "0" && itemclicks = "0")
+	If (Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && groundclicks = "1" && shift = "0" && itemclicks = "0")
 	{
 	Loop, Read, %logpath%
 	{
@@ -850,7 +828,7 @@ nextline := 0
 	
 	
 	; item clicks
-	If (Name2 = "" && Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && groundclicks = "0" && shift = "0" && itemclicks = "1")
+	If (Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && groundclicks = "0" && shift = "0" && itemclicks = "1")
 	{
 	Loop, Read, %logpath%
 	{
@@ -863,7 +841,7 @@ nextline := 0
 	}
 	
 	; shift
-	If (Name2 = "" && Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && shift = "1" && groundclicks = "0" && itemclicks = "0")
+	If (Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && shift = "1" && groundclicks = "0" && itemclicks = "0")
 	{
 	Loop, Read, %logpath%
 	{
@@ -876,7 +854,7 @@ nextline := 0
 	}
 	
 	; ground and shift
-	If (Name2 = "" && Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && groundclicks = "1" && shift = "1" && itemclicks = "0")
+	If (Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && groundclicks = "1" && shift = "1" && itemclicks = "0")
 	{
 	Loop, Read, %logpath%
 	{
@@ -890,17 +868,15 @@ nextline := 0
 	
 	
 	; 0x12: Ability. flags: 0x0000, Ground click
-	If (Name2 = "" && Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && groundclicks = "1" && shift = "0" && itemclicks = "0")
+	If (Subgroup = "0" && Deto = "0" && commands = "0" && log = "0" && titan = "0" && builders = "0" && items = "0" && buildings = "0" && spells = "0" && Neutrals = "0" && change = "0" && private = "0" && allies = "0" && all = "0" && share = "0" && groundclicks = "1" && shift = "0" && itemclicks = "0")
 	{
 	Loop, Read, %logpath%
 	{
 		IFInString,A_loopreadline,0x12: Ability.
-		{
 			UserActions = %UserActions%[%A_Index%] %A_Loopreadline%`n
-		}
 	}
 	}
-;} ; end test = ""
+} ; end test = ""
 	
 If (Useractions = "")
 {
@@ -3010,7 +2986,7 @@ FileDelete,%readmepath%
 
 	; *** info
 	IniWrite,--------------------------------------------------------------------------,%readmepath%,>>>>>> DotA Replay Manager Filter Info <<<<<<
-	IniWrite,http://code.google.com/p/pdrmf/ -- ProjectDRMF@gmail.com,%readmepath%,Contact and Info
+	IniWrite,http://stid.userboard.org/ahk/drmf-t39.html -- ProjectDRMF@gmail.com,%readmepath%,Contact and Info
 	IniWrite,This programm does not automatically find fogclicks and wont automatically detect any maphackers.,%readmepath%,Attention
 	IniWrite,The programm's purpose is only to filter and scan the replay's content with the help of the main programm (DotA Replay Manager) which will make the work a way easier.,%readmepath%,Notes
 	IniWrite,The program now contains an in-build c-macro. Alt+c to start and alt+c to abort it. The speed can be set in the settings.ini.,%readmepath%,Macro
@@ -3065,7 +3041,7 @@ FileDelete,%readmepath%
 	IniWrite,Will update the DRMF each month (1th of the month) if set to 1.,%readmepath%,Monthly
 	
 	; change log
-IniWrite,Visit http://code.google.com/p/pdrmf/w/list to read the changelog.,%readmepath%,>>>>>> DotA Replay Manager Change Log <<<<<<
+IniWrite,Visit http://stid.userboard.org/ahk/drmf-t39.html#p139 to read the changelog.,%readmepath%,>>>>>> DotA Replay Manager Change Log <<<<<<
 }
 return
 
@@ -3306,7 +3282,7 @@ return
 DRM:
 {
 	StringTrimRight,DRMpath,logpath,7
-	Run, %drmpath%DotAReplay.exe
+	Run, %drmpath%DotAReplay.exe,%drmpath%,useerrorlevel
 }
 return
 

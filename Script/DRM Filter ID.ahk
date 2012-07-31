@@ -186,10 +186,10 @@ So since this is probably your first time using the DRMF, i will explain you som
 - Furthermore, you can filter out all deto actions, slots usages, spells usages and the user's chatlog.<br />
 - If you want, you can also list all the commands which the player(s) use...and much more.
 </p>
-For more details on how the options work and which you can/should use, check out the <a HREF="http://stid.userboard.org/ahk/drmf-t39.html#p140">readme</a> on the DRMF's site or the readme.ini (%readmepath%).
+For more details on how the options work and which you can/should use, check out the <a HREF="http://code.google.com/p/pdrmf/w/list">wiki</a> on the DRMF's site or the readme.ini (%readmepath%).
 </p>
 To use this tool, it's important to download the DotA Replay Manager here: <a HREF="http://www.mediafire.com/?i4qmz214i50fwfu">download</a><br />
-The DotA Replay Manager was created by <b>d07.RiV</b> and the DotA Replay Manager Filter by me, <b>aRt)Y</b>.
+The <a HREF="http://code.google.com/p/dota-replay-manager/">DotA Replay Manager</a> was created by <b>d07.RiV</b> and the <a HREF="http://code.google.com/p/pdrmf/">DotA Replay Manager Filter</a> by me, <b>aRt)Y</b>.
 </p>
 <b>Note:</b> The programm is still in development, please send me questions/suggestions and bugs (<b>ProjectDRMF@gmail.com</b>).<br />
 Readded the messenger - but the sending method is different.
@@ -215,114 +215,10 @@ IfNotExist,%A_workingdir%\DRM Filter ID Readme.ini
 IfNotExist,%A_workingdir%\icons
 {
 	MsgBox,68,Info,Would you like to download icons for the menu and the program itself?
-		IfMsgBox No
-			return
-		
-		IfMsgBox Yes
-{
-	URLDownloadToFile,www.autohotkey.net/~DRMF/update/internetcheck.ini,%A_workingdir%\internetcheck.ini
-		IfExist,%A_workingdir%\internetcheck.ini
-			FileDelete,%A_workingdir%\internetcheck.ini
-		
-		If (Errorlevel = "1")
-		{
-			MsgBox,16,Info,AutoHotKey.net seems down.`nPlease retry downloading the icons later.
-		}
-		
-		If (ErrorLevel = "0")
-		{
-			SplashTextOn, 400, 200, File Information, A folder of icons will be automatically downloaded to the program's folder. Please be patient.
-			WinSet,AlwaysonTop,Off, File Information
-			FileCreateDir,%A_workingdir%\icons
-			Sleep, 3000
-			SplashTextOff
-		}
+	
+		IfMsgBox, Yes
+			GoSub, icons
 }
-
-; check if server down
-
-If (ErrorLevel = "0")
-{
-IfNotExist,%A_workingdir%\icons\messenger.ico
-{
-	ToolTip,Downloading Messenger.ico...
-	URLDownloadToFile,http://www.autohotkey.net/~DRMF/icons/messenger.ico,%A_workingdir%\icons\messenger.ico
-	ToolTip
-			IfNotExist,%A_workingdir%\icons\messenger.Ico
-			{
-				MsgBox,20,Info,The messenger.ico could not be downloaded to the icon folder`n(%A_workingdir%\icons).`nThe server could be down or your internet connection isn't working.`n`nCancel the installation process?
-					IfMsgBox, Yes
-						return
-			}
-}
-
-IfNotExist,%A_workingdir%\icons\calc.ico
-{
-	ToolTip,Downloading calc.ico...
-	URLDownloadToFile,http://www.autohotkey.net/~DRMF/icons/calc.ico,%A_workingdir%\icons\calc.ico
-	ToolTip
-			IfNotExist,%A_workingdir%\icons\calc.Ico
-			{
-				MsgBox,20,Info,The calc.ico could not be downloaded to the icon folder`n(%A_workingdir%\icons).`nThe server could be down or your internet connection isn't working.`n`nCancel the installation process?
-					IfMsgBox, Yes
-						return
-			}
-}
-
-IfNotExist,%A_workingdir%\icons\settings.ico
-{
-	ToolTip,Downloading Settings.ico...
-	URLDownloadToFile,http://www.autohotkey.net/~DRMF/icons/settings.ico,%A_workingdir%\icons\settings.ico
-	ToolTip
-			IfNotExist,%A_workingdir%\icons\settings.Ico
-			{
-				MsgBox,20,Info,The settings.ico could not be downloaded to the icon folder`n(%A_workingdir%\icons).`nThe server could be down or your internet connection isn't working.`n`nCancel the installation process?
-					IfMsgBox, Yes
-						return
-			}
-}
-
-IfNotExist,%A_workingdir%\icons\update.ico
-{
-	ToolTip,Downloading Update.ico...
-	URLDownloadToFile,http://www.autohotkey.net/~DRMF/icons/update.ico,%A_workingdir%\icons\update.ico
-	ToolTip
-			IfNotExist,%A_workingdir%\icons\update.Ico
-			{
-				MsgBox,20,Info,The Update.ico could not be downloaded to the icon folder`n(%A_workingdir%\icons).`nThe server could be down or your internet connection isn't working.`n`nCancel the installation process?
-					IfMsgBox, Yes
-						return
-			}
-}
-
-IfNotExist,%A_workingdir%\icons\logo.ico
-{
-	ToolTip,Downloading Logo.ico...
-	URLDownloadToFile,http://www.autohotkey.net/~DRMF/icons/Logo.ico,%A_workingdir%\icons\Logo.ico
-	ToolTip
-			IfNotExist,%A_workingdir%\icons\Logo.Ico
-			{
-				MsgBox,20,Info,The Logo.ico could not be downloaded to the icon folder`n(%A_workingdir%\icons).`nThe server could be down or your internet connection isn't working.`n`nCancel the installation process?
-					IfMsgBox, Yes
-						return
-			}
-}
-
-IfNotExist,%A_workingdir%\icons\replays.ico
-{
-	ToolTip,Downloading replays.ico...
-	URLDownloadToFile,http://www.autohotkey.net/~DRMF/icons/replays.ico,%A_workingdir%\icons\replays.ico
-	ToolTip
-			IfNotExist,%A_workingdir%\icons\replays.Ico
-			{
-				MsgBox,20,Info,The replays.ico could not be downloaded to the icon folder`n(%A_workingdir%\icons).`nThe server could be down or your internet connection isn't working.`n`nCancel the installation process?
-					IfMsgBox, Yes
-						return
-			}
-}
-} ; msgbox yes
-} ; end errorlevel check
-;----
 
 IniDelete,%settingspath%,Settings,Name
 ;*** Read settings
@@ -346,7 +242,6 @@ If (daily = 1 && Weekly = 1 && Monthly = 1) or (daily = 0 and Weekly = 1 and mon
 	return
 }
 
-;IniRead,DailyUpdateDone,%settingspath%,Settings,DailyUpdateDone
 IniRead,LastUsageDate,%settingspath%,Settings,LastUsageDate
 
 If (versionCheck != version and version > versioncheck || versioncheck = "ERROR")
@@ -384,25 +279,16 @@ If (versioncheck > version)
 
 IfWinNotExist,DotA Replay Manager Filter v%versioN% by aRt)Y
 {
-If (LogPath = "" || LogPath = "C:\path\log.txt") ;or If (DRMpath = "" || DRMpath = "C:\path\DotAReplay.exe")
+If (LogPath = "" || LogPath = "C:\path\log.txt") 
 {
 	MsgBox,48,Info,The logpath is missing in the settings.`nPlease add it.
 	GoSub, SettingsGui
 	return
-	/*
-	SoundPlay,*48
-	InPutBox,LogPathInput,Info,The logpath is missing in the settings.`nPlease enter the logpath:,200,400
-	If (ErrorLevel = "0")
-		IniWrite,%LogPathInput%,%settingspath%,Settings,LogPath
-	If (ErrorLevel = "1")
-		return
-	*/
 }
 
 IfNotInString,logpath,\log.txt
 {
 	MsgBox,48,Info,You either entered a wrong path or you spelled it wrong.`nPlease edit it.
-	;Run NotePad %settingspath% 
 	GoSub, SettingsGui
 	return
 }
@@ -420,11 +306,7 @@ IfWinExist, DotA Replay Manager
 {
 	ControlGet, gameplayers, List,, SysListView322, DotA Replay Manager
 		If (gameplayers != "")
-		{
-			{
 				gosub, refresh
-			}
-		}
 }
 return
 
@@ -440,7 +322,6 @@ Filter:
 itemclicks := 0 ; because option is disabled
 FileSize = 
 UserActions =
-syncfreetext =
 
 GoSub, name
 Gui, 2: submit, nohide
@@ -465,17 +346,6 @@ Gui, 2: submit, nohide
 			return
 		}
 	}
-
-/*
-	If (commands = "0") and If (log = "0") and (private = "0") and if (All = "0") and if (Allies = "0") and if (share = "0")
-	{
-		If (filesize = "0")
-		{
-			Msgbox, 48,Info, The log file is emty.`n`nPlease load the actionlog for the DRM Filter's full functionality.
-			return
-		}
-	}
-*/
 
 If (Info = "1")
 {
@@ -3225,23 +3095,29 @@ WinSet,AlwaysonTop,Off,Update
 Sleep, 3000
 SplashTextOff
 
-URLdownloadToFile,http://www.autohotkey.net/~DRMF/update/VersionCheck ID.ini,%A_workingdir%\VersionCheck ID.ini
+URLdownloadToFile,http://code.google.com/p/pdrmf/source/browse/Files/VersionCheck ID.ini,%A_workingdir%\VersionCheck ID.ini
+
+	FileReadLine,NewVersion,%A_workingDir%\VersionCheck ID.ini,388
+		StringTrimLeft,NewVersion,NewVersion,31
+		StringTrimRight,NewVersion,NewVersion,13
+			
+	FileReadLine,NewName,%A_workingdir%\VersionCheck ID.ini,392
+		StringTrimleft,NewName,NewName,28
+		StringTrimRight,NewName,NewName,13
+			
+	FileReadLIne,newURL,%A_workingdir%\VersionCheck ID.ini,396
+		StringTrimLeft,newURL,newUrl,27
+		StringTrimRight,newUrl,newUrl,13
 
 		If (Errorlevel = "1")
 		{
-			MsgBox,16,Info,The server seems down.`nPlease retry downloading the icons later.
+			MsgBox,16,Info,The server seems down.
 			return
 		}
-
-
-IniRead,NewVersion,%A_workingdir%\VersionCheck ID.ini,VersionCheck,NewVersion
-IniRead,NewName,%A_workingdir%\VersionCheck ID.ini,VersionCheck,NewName
-IniRead,NewURL,%A_workingdir%\VersionCheck ID.ini,VersionCheck,NewURL
 
 	If (NewVersion = "ERROR")
 	{
 		MsgBox,16,Info,Trying to update the programm failed!`nPlease retry it in some hours.
-			; Add ahk4.net as second check
 		FileDelete,VersionCheck ID.ini
 	}
  
@@ -3919,6 +3795,131 @@ SetTimer, RemoveToolTip, Off
 ToolTip
 return
 }
+return
+
+icons:
+{
+	
+	url=www.google.com
+	RunWait, ping.exe %url% -n 1,, Hide UseErrorlevel
+	If Errorlevel
+		MsgBox,16,Info,Your internet connection seems to be down.`nPlease retry downloading the icons later.
+
+	If (ErrorLevel = "0")
+	{
+		SplashTextOn, 400, 200, File Information, A folder of icons will be automatically downloaded to the program's folder. Please be patient.
+		WinSet,AlwaysonTop,Off, File Information
+		FileCreateDir,%A_workingdir%\icons
+		Sleep, 3000
+		SplashTextOff
+	}
+	
+	
+	IfNotExist,%A_workingdir%\icons\messenger.ico
+	{	
+		ToolTip,Downloading Messenger.ico...
+		URLDownloadToFile,http://pdrmf.googlecode.com/files/messenger.ico,%A_workingdir%\icons\messenger.ico
+		ToolTip
+				IfNotExist,%A_workingdir%\icons\messenger.Ico
+				{
+					MsgBox,20,Info,The messenger.ico could not be downloaded to the icon folder`n(%A_workingdir%\icons).`nThe server could be down or your internet connection isn't working.`n`nCancel the installation process?
+						IfMsgBox, Yes
+							return
+				}
+	}
+
+	IfNotExist,%A_workingdir%\icons\calc.ico
+	{
+		ToolTip,Downloading calc.ico...
+		URLDownloadToFile,http://pdrmf.googlecode.com/files/calc.ico,%A_workingdir%\icons\calc.ico
+		ToolTip
+				IfNotExist,%A_workingdir%\icons\calc.Ico
+				{
+					MsgBox,20,Info,The calc.ico could not be downloaded to the icon folder`n(%A_workingdir%\icons).`nThe server could be down or your internet connection isn't working.`n`nCancel the installation process?
+						IfMsgBox, Yes
+							return
+				}
+	}
+
+	IfNotExist,%A_workingdir%\icons\settings.ico
+	{
+		ToolTip,Downloading Settings.ico...
+		URLDownloadToFile,http://pdrmf.googlecode.com/files/settings.ico,%A_workingdir%\icons\settings.ico
+		ToolTip
+				IfNotExist,%A_workingdir%\icons\settings.Ico
+				{
+					MsgBox,20,Info,The settings.ico could not be downloaded to the icon folder`n(%A_workingdir%\icons).`nThe server could be down or your internet connection isn't working.`n`nCancel the installation process?
+						IfMsgBox, Yes
+							return
+				}
+	}
+
+	IfNotExist,%A_workingdir%\icons\update.ico
+	{
+		ToolTip,Downloading Update.ico...
+		URLDownloadToFile,http://pdrmf.googlecode.com/files/update.ico,%A_workingdir%\icons\update.ico
+		ToolTip
+				IfNotExist,%A_workingdir%\icons\update.Ico
+				{
+					MsgBox,20,Info,The Update.ico could not be downloaded to the icon folder`n(%A_workingdir%\icons).`nThe server could be down or your internet connection isn't working.`n`nCancel the installation process?
+						IfMsgBox, Yes
+							return
+				}
+	}
+
+	IfNotExist,%A_workingdir%\icons\logo.ico
+	{
+		ToolTip,Downloading Logo.ico...
+		URLDownloadToFile,http://pdrmf.googlecode.com/files/logo.ico,%A_workingdir%\icons\logo.ico
+		ToolTip
+				IfNotExist,%A_workingdir%\icons\logo.Ico
+				{
+					MsgBox,20,Info,The Logo.ico could not be downloaded to the icon folder`n(%A_workingdir%\icons).`nThe server could be down or your internet connection isn't working.`n`nCancel the installation process?
+						IfMsgBox, Yes
+							return
+				}
+	}
+
+	IfNotExist,%A_workingdir%\icons\replays.ico
+	{
+		ToolTip,Downloading replays.ico...
+		URLDownloadToFile,http://pdrmf.googlecode.com/files/replays.ico,%A_workingdir%\icons\replays.ico
+		ToolTip
+				IfNotExist,%A_workingdir%\icons\replays.Ico
+				{
+					MsgBox,20,Info,The replays.ico could not be downloaded to the icon folder`n(%A_workingdir%\icons).`nThe server could be down or your internet connection 	isn't working.`n`nCancel the installation process?
+						IfMsgBox, Yes
+							return
+				}
+	}
+
+	IfNotExist,%A_workingdir%\icons\replayseeker.ico
+	{
+		ToolTip,Downloading replayseeker.ico...
+		URLDownloadToFile,http://pdrmf.googlecode.com/files/replayseeker.ico,%A_workingdir%\icons\replayseeker.ico
+		ToolTip
+		Sleep 100
+				IfNotExist,%A_workingdir%\icons\replayseeker.Ico
+				{
+					MsgBox,20,Info,The replayseeker.ico could not be downloaded to the icon folder`n(%A_workingdir%\icons).`nThe server could be down or your internet connection isn't working.`n`nCancel the installation process?
+						IfMsgBox, Yes
+							return
+				}
+	}
+
+	IfNotExist,%A_workingdir%\icons\time.ico
+	{
+		ToolTip,Downloading time.ico...
+		URLDownloadToFile,http://pdrmf.googlecode.com/files/time.ico,%A_workingdir%\icons\time.ico
+		ToolTip
+				IfNotExist,%A_workingdir%\icons\time.Ico
+				{
+					MsgBox,20,Info,The time.ico could not be downloaded to the icon folder`n(%A_workingdir%\icons).`nThe server could be down or your internet connection isn't working.`n`nCancel the installation process?
+						IfMsgBox, Yes
+								return
+					}
+	}
+} ; end icons
 return
 
 #IfWinActive Warcraft III

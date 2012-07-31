@@ -140,25 +140,25 @@ The milliseconds to wait for the next alt+c input.
 == DotA Replay Manager Filter Tools ==
 
 
-*TimeCalc (Menu)*
+*TimeCalc_(Menu)*
 
 Will automatically calculate the ingame time based on the DRM time which the user inputs. An information button will help with details. (Only useful for DotA).
 
-*CoordCalc (Menu)*
+*CoordCalc_(Menu)*
 
 CoordCalc is a little tool which was coded based on BurnShady's coordination formula which automatically calcuates the amount of squares needed to get to the point on the map ingame - because there isn't a crid to see where the point x: 2053 is.
 
-*Settings (Menu)*
+*Settings_(Menu)*
 
 Will open a GUI where you can edit the settings. There're also helpful tooltips which will make the edition easier.
 
-*Update (Menu)*
+*Update_(Menu)*
 
 The updater will check if there's a new version of the DRMF. There're three cases:
   * 1. The DRMF couldnt check if there's a new version because the internet connection isnt working correctly, the server is down or because of other problems.
   * 2. There's no new version.
   * 3. There's a new version and a information GUI will pop-up. Click somewhere in it and it will open the default browser and link to the changelog.
 
-*Messenger (Menu)*
+*Messenger_(Menu)*
 
 The messenger should be used to report bugs or suggest changes/new features. You will find a way to use it. :)

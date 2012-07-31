@@ -3010,7 +3010,7 @@ FileDelete,%readmepath%
 
 	; *** info
 	IniWrite,--------------------------------------------------------------------------,%readmepath%,>>>>>> DotA Replay Manager Filter Info <<<<<<
-	IniWrite,http://stid.userboard.org/ahk/drmf-t39.html -- ProjectDRMF@gmail.com,%readmepath%,Contact and Info
+	IniWrite,http://code.google.com/p/pdrmf/ -- ProjectDRMF@gmail.com,%readmepath%,Contact and Info
 	IniWrite,This programm does not automatically find fogclicks and wont automatically detect any maphackers.,%readmepath%,Attention
 	IniWrite,The programm's purpose is only to filter and scan the replay's content with the help of the main programm (DotA Replay Manager) which will make the work a way easier.,%readmepath%,Notes
 	IniWrite,The program now contains an in-build c-macro. Alt+c to start and alt+c to abort it. The speed can be set in the settings.ini.,%readmepath%,Macro
@@ -3065,7 +3065,7 @@ FileDelete,%readmepath%
 	IniWrite,Will update the DRMF each month (1th of the month) if set to 1.,%readmepath%,Monthly
 	
 	; change log
-IniWrite,Visit http://stid.userboard.org/ahk/drmf-t39.html#p139 to read the changelog.,%readmepath%,>>>>>> DotA Replay Manager Change Log <<<<<<
+IniWrite,Visit http://code.google.com/p/pdrmf/w/list to read the changelog.,%readmepath%,>>>>>> DotA Replay Manager Change Log <<<<<<
 }
 return
 

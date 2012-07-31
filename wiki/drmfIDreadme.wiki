@@ -165,7 +165,7 @@ The messenger should be used to report bugs or suggest changes/new features. You
 
 
 
-http://stid.userboard.org/download/file.php?id=22&sud=28659
+https://ahk4.net/?app=files&getfile=download.php?file=%252FDRMF%2BID%2Bimages%252Fmiscs.png
 http://stid.userboard.org/download/file.php?id=23&sud=28659
 http://stid.userboard.org/download/file.php?id=24&sud=28659
 http://stid.userboard.org/download/file.php?id=25&sud=28659

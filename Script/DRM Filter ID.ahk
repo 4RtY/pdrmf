@@ -214,6 +214,12 @@ IfNotExist,%A_workingdir%\DRM Filter ID Readme.ini
 ;---- installing the icons on first update.
 IfNotExist,%A_workingdir%\icons
 {
+	MsgBox,68,Info,Would you like to download icons for the menu and the program itself?
+		IfMsgBox No
+			return
+		
+		IfMsgBox Yes
+{
 	URLDownloadToFile,www.autohotkey.net/~DRMF/update/internetcheck.ini,%A_workingdir%\internetcheck.ini
 		IfExist,%A_workingdir%\internetcheck.ini
 			FileDelete,%A_workingdir%\internetcheck.ini
@@ -314,6 +320,7 @@ IfNotExist,%A_workingdir%\icons\replays.ico
 						return
 			}
 }
+} ; msgbox yes
 } ; end errorlevel check
 ;----
 
@@ -3019,12 +3026,15 @@ Menu, Tray, add, Exit, ExitApp
 Menu, Tray, Tip, DotA Replay Manager Filter
 
 ;* change taskbar icon
-ico := A_workingDir "\icons\logo.ico"
-WinGet, PID, PID, A
-ID := WinExist("ahk_pid" PID)
-hIcon := DllCall( "LoadImage", UInt,0, Str,Ico, UInt,1, UInt,0, UInt,0, UInt,0x10 )
-SendMessage, 0x80, 0, hIcon ,, ahk_id %ID%  ; Small Icon
-SendMessage, 0x80, 1, hIcon ,, ahk_id %ID%  ; Big Icon
+IfExist,%A_Workingdir%\icons\logo.ico
+{
+	ico := A_workingDir "\icons\logo.ico"
+	WinGet, PID, PID, A
+		ID := WinExist("ahk_pid" PID)
+		hIcon := DllCall( "LoadImage", UInt,0, Str,Ico, UInt,1, UInt,0, UInt,0, UInt,0x10 )
+			SendMessage, 0x80, 0, hIcon ,, ahk_id %ID%  ; Small Icon
+			SendMessage, 0x80, 1, hIcon ,, ahk_id %ID%  ; Big Icon
+}
 Return
 
 ; daily auto update
@@ -3064,15 +3074,12 @@ return
 reload:
 {
 	IfWinNotExist,ahk_class #32770
-	;IfWinNotExist,DotA Replay Manager
 	{
 		ToolTip, The chatlog could not be reloaded.`nPlease start the DotA Replay Manager.
 		SetTimer, RemoveToolTip, 3000
-	;	Msgbox,48,Info,The DotA Replay Manager has to be opened and if not already done, a replay has to be chosen to get the needed information for ;the DRM Filter's full functionality.`n`nSettings.ini will be loaded anyway.
 	}
 
 	ControlGetText,chatlog,RichEdit20A1,DotA Replay Manager,
-	;FileGetSize,FileSize,%logpath%,K
 	FileRead,FileSize,%logpath%
 	
 	IniRead,LogPath,%settingspath%,Settings,LogPath
@@ -3090,7 +3097,6 @@ reload:
 	IniRead,Weekly,%settingspath%,Settings,Weekly
 	IniRead,Monthly,%settingspath%,Settings,Monthly
 	
-	;IfWinExist, DotA Replay Manager
 		SoundPlay,*64
 
 }
@@ -3111,8 +3117,7 @@ ExitApp
 
 Settings:
 {
-	;RegRead,userbnet,HKEY_CURRENT_USER,SOFTWARE\Blizzard Entertainment\Warcraft III\String,userbnet
-	IniDelete, %settingspath%,Settings ; to add new content
+	IniDelete, %settingspath%,Settings
 	IniWrite,%version%,%settingspath%,Settings,Version
 	IniWrite,C:\path\log.txt,%settingspath%,Settings,LogPath
 	IniWrite,C:\path\replayseeker.exe,%settingspath%,Settings,ReplaySeeker
@@ -3126,8 +3131,6 @@ Settings:
 	IniWrite,0,%settingspath%,Settings,Daily
 	IniWrite,1,%settingspath%,Settings,Weekly
 	IniWrite,0,%settingspath%,Settings,Monthly
-	;IniWrite,%userbnet%,%settingspath%,Settings,DRMFuser
-	;IniWrite,%A_space%,%Settingspath%,Settings,DRMFemail
 }
 return
 
@@ -3249,12 +3252,10 @@ IniRead,NewURL,%A_workingdir%\VersionCheck ID.ini,VersionCheck,NewURL
 		If (NewVersion = Version) ; no new
 		{
 			MsgBox,64,Info,You have got the latest DRMF version!
-			;IniWrite,1,%settingspath%,Settings,DailyUpdateDone
 		}
 
 		If (NewVersion != version) and if (NewVersion > version) ; new
 		{
-			;IniWrite,1,%settingspath%,Settings,DailyUpdateDone
 			soundplay,*64
 			Gui, 60: font, s12,
 			Gui, 60: font, bold
@@ -3286,7 +3287,6 @@ return
 install:
    {
 	Gui, 3: destroy
-	; do only update the settings and ini since they're already created because of the standart check.
 	; 1. Settings
 	IfExist,%a_workingdir%\DRM Filter ID Settings.ini
 	{
@@ -3434,23 +3434,12 @@ DRM:
 }
 return
 
-/*
- needs more info input on how to use -> "First time using box" or more in msgbox
- - number can't be > 120 -> error
- no : -> trans every DRM time in seconds (add line to do that (?) )
- DRMF time -> seconds -> Replay time = formated
- 
-*/
-
 TimeCalc:
 {
 Gui, 66: Destroy
 
 Gui, 66: Add, text, x5 y7, DRM Time:
 Gui, 66: Add, edit, x70 y5 h20 vDRMtime w120,
-
-;Gui, 66: Add, Text, x5 y33, DRM Time (in sec):
-;Gui, 66: Add, edit, x110 y33 h20 readonly w120,
 
 Gui, 66: Add, Text, x5 y33, Replay Time:
 Gui, 66: Add, edit, x70 y33 w120 h20 readonly, 
@@ -3461,8 +3450,8 @@ Gui, 66: Show, w200 h95,TimeCalc
 return
 
 Time:
-SaveOperator := 0 ; indicator for -
-time := 120 ; the diffrence between DRM and replay
+SaveOperator := 0
+time := 120
 Gui, 66: Submit, nohide
 
 IfNotInString,DRMtime,:
@@ -3509,7 +3498,6 @@ If (SecLen > 2)
 	return
 }
 
-; convert to seconds
 IfInString,min,-
 {	
 	min *= 60
@@ -3521,9 +3509,6 @@ else
 	min += sec
 }
 
-;GuiControl, 66:, Edit2, %min%
-
-; for edit3
 time += %min%
 
 GuiControl, 66:,Edit2, % FormatSeconds(time)
@@ -3545,7 +3530,6 @@ return
 
 coordcalc:
 {
-	; Coordinates Calculater v2  ;  27.7.12 -- aRt)Y  . Credits to BurnShady for finding the mathi
 	Gui, 65: Destroy
 	Menu, MyMenu, DeleteAll
 	Gui, 65: add, edit, y5   h20 w120 x50 vX,
@@ -3712,7 +3696,6 @@ return ; end settings gui
 Submit:
 {
 Gui, 63: submit, nohide
-;SoundPlay, *64
 
 If (daily = 1 and Weekly = 1 and Monthly = 1) or (daily = 0 and Weekly = 1 and monthly = 1) or (daily = 1 and Weekly = 0 and monthly = 1) or (daily = 1 and Weekly = 1 and monthly = 0)
 {
@@ -3814,7 +3797,7 @@ return
 
 WM_LBUTTONDOWN(wParam, lParam)
 {
-	If A_GUI = 60 ; new update : click for download
+	If A_GUI = 60 
 		GoSub, RunUrl
 	
 }

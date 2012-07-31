@@ -33,7 +33,7 @@ The copyright and all rights to this software belong to aRt)Y.
 Copyright (c)2012 by aRt)Y ProjectDRMF@gmail.com
 */
 
-; Last Edit: 24.7.12
+; Last Edit: 31.7.12
 
 #MaxThreadsPerHotkey 3
 #MaxThreads 2

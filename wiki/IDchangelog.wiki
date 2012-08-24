@@ -1,4 +1,4 @@
-= DotA Replay Manager Change Log =
+= DotA Replay Manager Change Log for Island Defense =
 
 
 *+* Added

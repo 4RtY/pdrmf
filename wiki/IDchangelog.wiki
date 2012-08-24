@@ -84,7 +84,7 @@
 
 === 03.07.2012 v5.1=== 
 
-*+* Added alt*+*c macro (ctrl*+*s to start, ctrl*+*a to abort)
+*+* Added alt*+*c macro (ctrl+c to start, ctrl+c to abort - Can happen that you need to spam it once or twice to deactivate it. Depends on the macrospeed)
 
 *~* Reload reloads the ini, chat and file size.
 

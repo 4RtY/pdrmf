@@ -1,3 +1,4 @@
+#labels Phase-Deploy
 = Start-Up Guide for the DotA Replay Manager Filter =
 === It does not matter which version (ID or DotA) you are using. ===
 

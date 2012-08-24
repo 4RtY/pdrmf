@@ -135,6 +135,13 @@ The milliseconds to wait for the next alt+c input.
 
 == DotA Replay Manager Filter Tools ==
 
+*DRM (Menu)*
+
+You don't need to add the path to the program. The log path will be edited to get the DRM's program path.
+
+*ReplaySeeker (Menu)*
+
+The path of the ReplaySeeker is needed to run the menu item.
 
 *TimeCalc (Menu)*
 

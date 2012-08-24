@@ -1,1 +1,64 @@
-Under construction...
+= DotA Replay Manager Change Log for DotA =
+
+
+*+* Added
+
+*-* Removed
+
+*~* Fixed/Changed
+
+*•* Comment/Info
+
+----
+
+== xx.08.2012 v5.0 ==
+
+*+* Added reload button
+
+*+* Added several functions and options
+
+*+* Added menu items
+
+*+* Added rosh to neutrals
+
+*~* Fixed the settings gui and added functions to it
+
+== 29.07.2012 v4.0 ==
+
+*+* Added several new options
+
+*+* Added a menu with new items
+
+*~* Fixed and changed parts of the code ; reduced the code.
+
+== 22.06.2012 ==
+
+*+* Added new system to load player names in dropdownbox. First step for the enemey click checker.
+
+== 03.06.2012 v3.0 ==
+
+*+* Added logpath saving if the exe isnt completley new installed.
+
+== 20.05.2012 ==
+
+*~* Dramatically reduced the filter time (e.g for one user's subgroups 25sec->8sec.)
+
+*+* Added clicks on heros
+
+== 19.05.2012 v2.2 ==
+
+*+* Buildings
+
+*+* Couriers
+
+*+* Sentinel
+
+*+* Scourge
+
+*+* Specified user selection
+
+*~* Updated readme
+
+*~* Fixed some bugs
+
+== Started on the 18.05.2012 v1.0 ==

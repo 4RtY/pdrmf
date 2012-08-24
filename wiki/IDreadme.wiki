@@ -1,9 +1,5 @@
 = DotA Replay Manager Filter for Island Defense Readme =
 
-*Known bug:* Although there's the reload option, Windows, the DRM or the DRMF itself either cause or don't update the log.txt's filesize. At the moment, I do not know how to solve this since I don't 100% know from what this is caused. To solve this, please restart the DRMF after each time you are loading a new actionlog which is somehow updating the log.txt's size (only needed if you started the DRMF before running the DRM's actionlog).
-
-
-
 == DotA Replay Manager Filter Info ==
 
 
@@ -78,7 +74,7 @@ Refreshes the playerlist. You must load a new actionload so this can work.
 
 *Reload*
 
-Will reload the chat's content, the log file's size and the settings.ini. From now on you dont need to restart the exe, simply reload it. *Remember the known bug*
+Will reload the chat's content, the log file's size and the settings.ini. From now on you dont need to restart the exe, simply reload it.
 
 
 

@@ -1,3 +1,20 @@
+= DotA Replay Manager Filter for DotA Readme =
+
+== DotA Replay Manager Filter Info ==
+
+
+*Attention*
+
+This programm does not automatically find fogclicks and wont automatically detect any maphackers.
+
+*Notes* 
+
+The programm's purpose is only to filter and scan the replay's content with the help of the main programm (DotA Replay Manager) which will make the work a way easier.
+
+*Macro* 
+
+The program now contains an in-build c-macro. ctrl+c to start and ctrl+c to abort it. The speed can be set in the settings.ini.
+
 == DotA Replay Manager Filter Options ==
 
 

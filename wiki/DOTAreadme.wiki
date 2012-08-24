@@ -107,7 +107,9 @@ Same as sentinel.
 === Specified ===
 
 The specified click options is splitted in 2.
+
 1. You can filter all clicks of the user(s) on one hero.
+
 2. You can filter all clicks of the user(s) on one hero except on user (like the owner of the hero).
 
 == DotA Replay Manager Filter Settings ==

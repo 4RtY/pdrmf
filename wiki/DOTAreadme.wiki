@@ -17,6 +17,62 @@ The program now contains an in-build c-macro. ctrl+c to start and ctrl+c to abor
 
 == DotA Replay Manager Filter Options ==
 
+=== Miscs ===
+
+*Commands*
+
+Will list all the commands in DotA like ap,ar,sd,rd,.. and also bot commands like kick, ping, checkme, votekick..
+
+*Share*
+
+Shows you with who the player(s) have shared their controls.
+
+*Chat Log*
+
+Gives you the whole chat log of the user (also contains stats).
+
+*All*
+
+Using this option, you can everything the player(s) said in all chat
+
+*Allies*
+
+Same as _All_ but for ally chat.
+
+*Private Chat*
+
+Lists the private chat between users.
+
+=== Actions ===
+
+*Kills*
+
+Lists who the players who the user(s) killed.
+
+*Deaths*
+
+Lists you the players who killed the user.
+
+*Assits*
+
+Lists you all assits the user has.
+
+*Rune(s)*
+
+Shows you which runes the user(s) have taken. Also includes rosh aegis.
+
+*Item(s) use*
+
+Outputs a list of item slots which were used.
+
+*Spells*
+
+Gives you a list of all spells the user(s) have used. _Currently, not all spell IDs have been collected._
+
+=== Clicks ===
+
+
+
 
 == DotA Replay Manager Filter Settings ==
 

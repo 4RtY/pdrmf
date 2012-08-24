@@ -1,4 +1,3 @@
-#labels Support
 = DotA Replay Manager Filter for DotA Readme =
 
 == DotA Replay Manager Filter Info ==

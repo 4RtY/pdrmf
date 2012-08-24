@@ -1,1 +1,89 @@
-Under construction...
+== DotA Replay Manager Filter Options ==
+
+
+== DotA Replay Manager Filter Settings ==
+
+
+*Version*
+
+Do not change the version, it's only for new installtions.
+
+*Log Path*
+
+The path of the original DRM log path. In some cases the creation of the log isnt enabled, then open then DRM and go to Settings -> (tab) Replay -> (bottom) tick "Write actions to log.txt". The path is needed for the most functions.
+
+*Info*
+
+Change the value to 0 to disable the "Please be patient" message.
+
+*Done*
+
+Change the value to 0 to disable the "done!" message - could be better if you are playing because the message box will minimize wc3.
+
+*MoveFilterOptions*
+
+Automatically moves the options window after the options are done because else the window would be behind the result window and then you would have to move everything around on the desktop which is annoying.
+
+*FontSize*
+
+Will change the result's window font size.
+
+*Colours*
+
+Replace the values in the settings with these colour numbers or remove them completly to keep the default colour.
+  * Black = 000000
+  * Green = 008000
+  * Silver = C0C0C0
+  * Lime = 00FF00
+  * Gray = 808080
+  * Olive = 808000
+  * White = FFFFFF
+  * Yellow = FFFF00
+  * Maroon = 800000
+  * Navy = 000080
+  * Red = FF0000
+  * Blue = 0000FF
+  * Purple = 800080
+  * Teal = 008080
+  * Fuchsia = FF00FF
+  * Aqua = 00FFFF
+
+*MacroSpeed*
+
+The milliseconds to wait for the next alt+c input.
+
+
+
+
+== DotA Replay Manager Filter Tools ==
+
+*DRM (Menu)*
+
+You don't need to add the path to the program. The log path will be edited to get the DRM's program path.
+
+*ReplaySeeker (Menu)*
+
+The path of the ReplaySeeker is needed to run the menu item.
+
+*TimeCalc (Menu)*
+
+Will automatically calculate the ingame time based on the DRM time which the user inputs. An information button will help with details. (Only useful for DotA).
+
+*CoordCalc (Menu)*
+
+CoordCalc is a little tool which was coded based on BurnShady's coordination formula which automatically calcuates the amount of squares needed to get to the point on the map ingame - because there isn't a crid to see where the point x: 2053 is.
+
+*Settings (Menu)*
+
+Will open a GUI where you can edit the settings. There're also helpful tooltips which will make the edition easier.
+
+*Update (Menu)*
+
+The updater will check if there's a new version of the DRMF. There're three cases:
+  * 1. The DRMF couldnt check if there's a new version because the internet connection isnt working correctly, the server is down or because of other problems.
+  * 2. There's no new version.
+  * 3. There's a new version and a information GUI will pop-up. Click somewhere in it and it will open the default browser and link to the changelog.
+
+*Messenger (Menu)*
+
+The messenger should be used to report bugs or suggest changes/new features. You will find a way to use it. :)

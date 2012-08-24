@@ -54,7 +54,7 @@ Lists all clicks of the user(s) on the builders ingame.
 
 *Buildings targeted*
 
-This function will only lists selected buildings. They's still a chance (~95%)that an unit will be listed (like demo,merch units) but since that doesn't happend so often, it wont be annoying.
+This function will only lists selected buildings. There's still a chance (~95%)that an unit will be listed (like demo,merch units) because it's a lot of work to collect all the IDs in Island Defense.
 
 *Change Selection*
 
@@ -70,13 +70,11 @@ Pressed without any options, it will automatically filter the actionlog.
 
 *Refresh Playerlist*
 
-Refreshes the playerlist. You must load a new actionload so this can work.
+Refreshes the playerlist. You must load a new actionload so this can work. Not needed if you start the program and the actionlog is already loaded. Use it so you don't need to restart the DRMF.
 
 *Reload*
 
 Will reload the chat's content, the log file's size and the settings.ini. From now on you dont need to restart the exe, simply reload it.
-
-
 
 
 == DotA Replay Manager Filter Settings ==
@@ -89,6 +87,10 @@ Do not change the version, it's only for new installtions.
 *Log Path*
 
 The path of the original DRM log path. In some cases the creation of the log isnt enabled, then open then DRM and go to Settings -> (tab) Replay -> (bottom) tick "Write actions to log.txt". The path is needed for the most functions.
+
+*ReplaySeeker*
+
+The full path to the replay seeker program. It's only needed if you want to use the menu item.
 
 *Info*
 

@@ -19,7 +19,7 @@
 
 *~* Reduced source code
 
-*~* The log.txt won't appear in the DRMF's folder as it did in the v6.5 testing
+*~* The log.txt won't appear in the DRMF's folder as it did in the v6.5 testing. This means the DRM actionlog bug is fixed.
 
 *~* Serveral technical things/functions have changed (menu, icons, etc) but the usage kept the same
 

@@ -13,7 +13,7 @@ The programm's purpose is only to filter and scan the replay's content with the 
 
 *Macro* 
 
-The program now contains an in-build c-macro. ctrl+s to start and ctrl+a to abort it. The speed can be set in the settings.ini.
+The program now contains an in-build c-macro. ctrl+c to start and ctrl+c to abort it. The speed can be set in the settings.ini.
 
 
 

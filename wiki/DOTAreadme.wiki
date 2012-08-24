@@ -71,8 +71,44 @@ Gives you a list of all spells the user(s) have used. _Currently, not all spell 
 
 === Clicks ===
 
+*Subgroup*
 
+Lists all clicks on units/buildings, etc. the user did.
 
+*Change Selection*
+
+Gives you a list of clicks on users and when he removed his selection to click on a new unit.
+
+*Courier*
+
+Shows all clicks on the courier(s)
+
+*Neutrals*
+
+_Not fully added, yet._ Shows neutral clicks and clicks on rosh.
+
+*Heroes*
+
+Gives you a list of all clicks on heroes. So every click on a hero will be listed.
+
+*Buildings*
+
+Buildings are defined as structures who are used by both sides.
+E.g. the site shops, secret shops, the base shops.
+
+*Sentinel*
+
+Sentinel structures are defined as buildings which only the sentinel have. E.g. the fountain and the 2 shops.
+
+*Scourge*
+
+Same as sentinel.
+
+=== Specified ===
+
+The specified click options is splitted in 2.
+1. You can filter all clicks of the user(s) on one hero.
+2. You can filter all clicks of the user(s) on one hero except on user (like the owner of the hero).
 
 == DotA Replay Manager Filter Settings ==
 

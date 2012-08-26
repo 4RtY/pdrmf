@@ -25,6 +25,8 @@
 
 *~* Fixed result GUI height
 
+*~* Icon fixed for exe and ahk version which don't have an icon folder
+
 == 29.07.2012 v4.0 ==
 
 *+* Added several new options

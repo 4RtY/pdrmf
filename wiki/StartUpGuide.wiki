@@ -1,4 +1,3 @@
-#labels Phase-Deploy
 = Start-Up Guide for the DotA Replay Manager Filter =
 === It does not matter which version (ID or DotA) you are using. ===
 
@@ -9,11 +8,16 @@
 
   * So after you got the programs, you open the DotA Replay Manager and then you go to _Settings_ (top left corner) -> _Replay_ (the tab) -> _Write actions to log.txt_ (bottom).
 
-  * Now you can choose a replay. Hit the _Action Log_ tab and press _Load Action_.
+  * Now you can choose a replay. Hit the _Action Log_ tab and press _Load Action_. It will look like:
+http://pdrmf.googlecode.com/files/demo2.png
 
   * After the program is ready, you can open the DotA Replay Manager Filter.
 
-  * Choose a desired option and player(s) and start!
+  * Choose a desired option and player(s) and start! So it looks like:
+http://pdrmf.googlecode.com/files/demo1.png
+
+  * Now you can use the ReplaySeeker. Check the time where the user clicked on an object and put the time in the ReplaySeeker (don't forget to reduce it by some seconds, so you get the time to take the position of the clicking player)
+http://pdrmf.googlecode.com/files/demo3.png
 
   * You can also first run the DRMF and then the DRM via the menu. This reduces the amount of clicks you need to open all the programs.
 

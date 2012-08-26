@@ -11,6 +11,10 @@
 
 ----
 
+== xx.08.2012 v5.1 ==
+
+*~* Fixed the sentinels and buildings bug. They didn't work correctly.
+
 == 26.08.2012 v5.0 ==
 
 *+* Added reload button

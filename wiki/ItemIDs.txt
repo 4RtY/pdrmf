@@ -1,0 +1,80 @@
+|| *Name* || *ItemID* ||
+|| Titan & Builder taverns
+|| Titan Selection (Easy) || ItemID: n00M ||
+|| Titan Selection (Hard) || ItemID: n00Z ||
+|| Builder Selection (Easy) || ItemID: n00W ||
+|| Builder Selection (Medium) || ItemID: n01G ||
+|| Builder Selection (Hard) || ItemID: n00X ||
+|| Titan's Force || 
+|| Punishment Center || ItemID: h004 ||
+|| Titan's Mound of Gold || ItemID:  h001 ||
+|| Merchant of Recipes || ItemID: n01B ||
+|| Merchant of Recipes || ItemID: n01A ||
+|| Merchant of Consumables || ItemID: n01U ||
+|| Merchant of Consumables || ItemID: n01V ||
+|| Merchant of Artifacts || ItemID: n01W ||
+|| Merchant of Artifacts || ItemID: n01X ||
+|| Chimaera Scout || ItemID: u015 ||
+|| Chicklet || ItemID: n00C ||
+|| Golden Chicken || ItemID: n019 ||
+|| Chicken || ItemID: n018 || 
+|| Floating Eye || ItemID: h02E |
+|| Phoenix Scout n007 || ItemID: A043 ||
+|| Magmide || ItemID:  ||
+|| Spirit Walker || ItemID: u008 ||
+|| Spawn of Darkness || ItemID: n00B ||
+|| Skeleton Warrior || ItemID: nske || ||
+|| Infected Corpse || ItemID: A06R ||
+|| Harpy || ItemID: u00R ||
+|| Energy Ball || ItemID: u00C ||
+|| Snap Dragon || ItemID: u000 ||
+|| Crypt Fiend || ItemID: u00Z ||
+|| Mud Golem || ItemID: u005 ||
+|| Shade || ItemID: u006 ||
+|| Ice Minion || ItemID: u00H ||
+|| Lava Spawn || ItemID: u002 ||
+|| syph's Tidal Stalker || ItemID: h018 ||
+|| Watery Minion || ItemID: h005 ||
+|| Watery Minion || ItemID: h017 ||
+|| Oceanic Behemoth || ItemID: h019 ||
+|| Neutral's Force ||
+|| Skink || ItemID: nskk ||
+|| Crab || ItemID: ncrb ||
+|| Chicken || ItemID: nech ||
+|| Frog || ItemID: nfro ||
+|| Rabbit || ItemID: necr ||
+|| Kara || ItemID: nrac ||
+|| Hermit Crab || ItemID: nhmc ||
+|| Albatross || ItemID: nalb ||
+|| The Lost Penguin Nexus || ItemID: npng ||
+|| Penguin || ItemID: npnw ||
+|| Rat || ItemID: nrat ||
+|| Snowy Owl || ItemID: nsno ||
+|| Adam the Destroyer || ItemID: nfbr ||
+|| Skink || ItemID: n00H ||
+|| Yacapo and Dildamesh || ItemID: n00J ||
+|| Aerox and rcxquake || ItemID: n00Y ||
+|| Body Tree Hammer || ItemID: n011 ||
+|| Raccoon || ItemID: n00Q ||
+|| Rcxquake the Dragon || ItemID: n00T ||
+|| Neco || ItemID: n020 ||
+|| I ANNOY JOO || ItemID: n023 ||
+|| Jakers || ItemID: n012 ||
+|| Dog || ItemID: ndog ||
+|| Pig || ItemID: npig ||
+|| Sheep || ItemID: nshe ||
+|| Murs the Uber Sheep || ItemID: nshf ||
+|| Sheep ||  ItemID: nsha  || ; burnshady  ||
+|| Sheep || ItemID: nshw ||
+|| Other units ||
+|| Demon Overlord ||  ItemID: n00F ||
+|| Balthasar ||  ItemID: n00G ||
+|| Fel Hound ||  ItemID: n00E ||
+|| Demonic Arachnathid ||  ItemID: n00D ||
+|| Stone Thrower ||  ItemID: e01A ||
+|| Spearloc ||  ItemID: h04E ||
+|| Venomous Spear ||  ItemID: I00F ||
+|| Head Hunter ||  ItemID: h04G ||
+|| Gnoll Tracker ||  ItemID: n01I ||
+|| Greater Gnoll Tracker ||  ItemID: n014 ||
+|| Turtle ||  ItemID: n001 ||

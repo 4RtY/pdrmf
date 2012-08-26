@@ -18,6 +18,7 @@ The program now contains an in-build c-macro. ctrl+c to start and ctrl+c to abor
 == DotA Replay Manager Filter Options ==
 
 === Miscs ===
+http://pdrmf.googlecode.com/files/DRMFD%20miscs.jpg
 
 *Commands*
 
@@ -44,6 +45,7 @@ Same as _All_ but for ally chat.
 Lists the private chat between users.
 
 === Actions ===
+http://pdrmf.googlecode.com/files/DRMFD%20actions.jpeg
 
 *Kills*
 
@@ -70,6 +72,7 @@ Outputs a list of item slots which were used.
 Gives you a list of all spells the user(s) have used. _Currently, not all spell IDs have been collected._
 
 === Clicks ===
+http://pdrmf.googlecode.com/files/DRMFD%20clicks.jpeg
 
 *Subgroup*
 
@@ -105,6 +108,7 @@ Sentinel structures are defined as buildings which only the sentinel have. E.g. 
 Same as sentinel.
 
 === Specified ===
+http://pdrmf.googlecode.com/files/DRMFD%20specified.jpeg
 
 The specified click options is splitted in 2.
 
@@ -113,7 +117,7 @@ The specified click options is splitted in 2.
 2. You can filter all clicks of the user(s) on one hero except on user (like the owner of the hero).
 
 == DotA Replay Manager Filter Settings ==
-
+http://pdrmf.googlecode.com/files/DRMFD%20settings.jpg
 
 *Version*
 
@@ -167,6 +171,7 @@ The milliseconds to wait for the next alt+c input.
 
 
 == DotA Replay Manager Filter Tools ==
+http://pdrmf.googlecode.com/files/DRMFD%20menu.jpg
 
 *DRM (Menu)*
 
@@ -179,6 +184,8 @@ The path of the ReplaySeeker is needed to run the menu item.
 *TimeCalc (Menu)*
 
 Will automatically calculate the ingame time based on the DRM time which the user inputs. An information button will help with details. (Only useful for DotA).
+
+http://pdrmf.googlecode.com/files/DRMFD%20tools.jpg
 
 *CoordCalc (Menu)*
 

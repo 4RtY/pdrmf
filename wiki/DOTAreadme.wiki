@@ -135,11 +135,11 @@ Change the value to 0 to disable the "Please be patient" message.
 
 Change the value to 0 to disable the "done!" message - could be better if you are playing because the message box will minimize wc3.
 
-*MoveFilterOptions*
+*!MoveFilterOptions*
 
 Automatically moves the options window after the options are done because else the window would be behind the result window and then you would have to move everything around on the desktop which is annoying.
 
-*FontSize*
+*!FontSize*
 
 Will change the result's window font size.
 
@@ -148,7 +148,7 @@ Will change the result's window font size.
 Replace the values in the settings with these colour numbers or remove them completly to keep the default colour.
   * Black = 000000
   * Green = 008000
-  * Silver = C0C0C0
+  * Silver = !C0C0C0
   * Lime = 00FF00
   * Gray = 808080
   * Olive = 808000
@@ -163,7 +163,7 @@ Replace the values in the settings with these colour numbers or remove them comp
   * Fuchsia = FF00FF
   * Aqua = 00FFFF
 
-*MacroSpeed*
+*!MacroSpeed*
 
 The milliseconds to wait for the next alt+c input.
 
@@ -177,19 +177,19 @@ http://pdrmf.googlecode.com/files/DRMFD%20menu.jpg
 
 You don't need to add the path to the program. The log path will be edited to get the DRM's program path.
 
-*ReplaySeeker (Menu)*
+*!ReplaySeeker (Menu)*
 
-The path of the ReplaySeeker is needed to run the menu item.
+The path of the !ReplaySeeker is needed to run the menu item.
 
-*TimeCalc (Menu)*
+*!TimeCalc (Menu)*
 
 Will automatically calculate the ingame time based on the DRM time which the user inputs. An information button will help with details. (Only useful for DotA).
 
 http://pdrmf.googlecode.com/files/DRMFD%20tools.jpg
 
-*CoordCalc (Menu)*
+*!CoordCalc (Menu)*
 
-CoordCalc is a little tool which was coded based on BurnShady's coordination formula which automatically calcuates the amount of squares needed to get to the point on the map ingame - because there isn't a crid to see where the point x: 2053 is.
+!CoordCalc is a little tool which was coded based on !BurnShady's coordination formula which automatically calcuates the amount of squares needed to get to the point on the map ingame - because there isn't a crid to see where the point x: 2053 is.
 
 *Settings (Menu)*
 

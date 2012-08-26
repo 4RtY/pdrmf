@@ -11,7 +11,7 @@
 
 ----
 
-== xx.08.2012 v5.0 ==
+== 26.08.2012 v5.0 ==
 
 *+* Added reload button
 
@@ -19,9 +19,11 @@
 
 *+* Added menu items
 
-*+* Added rosh to neutrals
+*+* Added all neutrals (rosh counts as neutral, too)
 
 *~* Fixed the settings gui and added functions to it
+
+*~* Fixed result GUI height
 
 == 29.07.2012 v4.0 ==
 

@@ -1,10 +1,10 @@
 = Start-Up Guide for the DotA Replay Manager Filter =
 === It does not matter which version (ID or DotA) you are using. ===
 
-  * First of all download the DotA Replay Manager here : http://www.mediafire.com/?i4qmz214i50fwfu
-  * Secondly, if not already done, download the DotA Replay Manger Filter here : https://code.google.com/p/pdrmf/downloads/list
+  * First of all download the DotA Replay Manager [http://www.mediafire.com/?i4qmz214i50fwfu here]
+  * Secondly, if not already done, download the DotA Replay Manger Filter [https://code.google.com/p/pdrmf/downloads/list here]
 
-  * After that you can decide if you want to use the ReplaySeeker. The program allows you to increase the fast-forwarding or to slow down the whole stuffs. 
+  * After that you can decide if you want to use the !ReplaySeeker. The program allows you to increase the fast-forwarding or to slow down the whole stuffs. 
 
   * So after you got the programs, you open the DotA Replay Manager and then you go to _Settings_ (top left corner) -> _Replay_ (the tab) -> _Write actions to log.txt_ (bottom).
 
@@ -16,7 +16,7 @@ http://pdrmf.googlecode.com/files/demo2.png
   * Choose a desired option and player(s) and start! So it looks like:
 http://pdrmf.googlecode.com/files/demo1.png
 
-  * Now you can use the ReplaySeeker. Check the time where the user clicked on an object and put the time in the ReplaySeeker (don't forget to reduce it by some seconds, so you get the time to take the position of the clicking player)
+  * Now you can use the !ReplaySeeker. Check the time where the user clicked on an object and put the time in the ReplaySeeker (don't forget to reduce it by some seconds, so you get the time to take the position of the clicking player)
 http://pdrmf.googlecode.com/files/demo3.png
 
   * You can also first run the DRMF and then the DRM via the menu. This reduces the amount of clicks you need to open all the programs.
@@ -24,7 +24,7 @@ http://pdrmf.googlecode.com/files/demo3.png
 You are done! Please read the wiki for the ID or DotA to understand all the options.
 
 
-Credits:
-   * d07.RiV for the DRM :: http://code.google.com/p/dota-replay-manager
+*Credits:*
+   * d07.RiV for the DRM :: [http://code.google.com/p/dota-replay-manager DRM's Project Page]
    * Damat & DonTomaso for the ReplaySeeker
    * Some persons for testing the first versions of the DRMF

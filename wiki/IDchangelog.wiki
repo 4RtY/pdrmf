@@ -13,7 +13,7 @@
 
 == xx.08.2012 v6.5 == *--- Not published, yet. *
 
-*+* Added ReplaySeeker and DRM to open via menu
+*+* Added !ReplaySeeker and DRM to open via menu
 
 *+* Reduced the filter speed by some milliseconds
 
@@ -29,7 +29,7 @@
 
 *+* Added ground click code
 
-*+* Changed alt*+*c macro
+*+* Changed alt+c macro
 
 *+* Added shift filter function
 
@@ -81,12 +81,12 @@
 
 *+* Added the restriction for the hotkeys to only work if Warcraft III is active
 
-*~* Alt*+*Esc to exit the exe, in case something goes wrong
+*~* Alt+Esc to exit the exe, in case something goes wrong
 
 
 === 03.07.2012 v5.1=== 
 
-*+* Added alt*+*c macro (ctrl+c to start, ctrl+c to abort - Can happen that you need to spam it once or twice to deactivate it. Depends on the macrospeed)
+*+* Added alt+c macro (ctrl+c to start, ctrl+c to abort - Can happen that you need to spam it once or twice to deactivate it. Depends on the macrospeed)
 
 *~* Reload reloads the ini, chat and file size.
 
@@ -111,7 +111,7 @@
 
 *+* Added a reload button which will reload the chat's content and the log's filesize. From now on you dont need to restart the exe everytime, you are loading a new actionlog/new replay.
 
-*+* LogPath will now be saved if not completly new installed.
+*+* !LogPath will now be saved if not completly new installed.
 
 
 === 18.05.2012 v4.2=== 

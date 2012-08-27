@@ -1,1 +1,13 @@
-Under construction...
+= Change Log for the merged DotA Replay Manager Filter =
+
+*+* Added
+
+*-* Removed
+
+*~* Fixed/Changed
+
+*•* Comment/Info
+
+----
+
+== Started on the 27.08.2012 ==

@@ -4,3 +4,4 @@
     * Basicaly, it contains the *same options* as the version for Island Defense and DotA since both versions are in the DRMF2.
     * Esc to exit the start-up GUI
     * Alt & Esc to exit the ID or DotA GUI
+    * Right-click on a line in the result GUI to copy it

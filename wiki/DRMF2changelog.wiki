@@ -11,3 +11,13 @@
 ----
 
 == Started on the 27.08.2012 ==
+
+*~* Changed the result window
+
+*+* Right clicking on the line in the result window will copy it
+
+*+* Esc to exit the start-up GUI
+
+*+* Added an automatically problem analyzer for the result window.
+
+*~* Changed the install/update text

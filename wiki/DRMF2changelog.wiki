@@ -21,3 +21,5 @@
 *+* Added an automatically problem analyzer for the result window.
 
 *~* Changed the install/update text
+
+*~* The update option will now check for both ID and DotA. (Will probably be changed to check the DRMF2's (merged) version only.

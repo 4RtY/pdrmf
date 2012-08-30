@@ -11,7 +11,7 @@
 
 ----
 
-== xx.08.2012 v6.5 == *Private Beta*
+== x.x.2012 v6.5 == *Private Beta*
 
 *+* Added syncfree as option (if the user wants to use it)
 

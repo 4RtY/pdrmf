@@ -1,6 +1,6 @@
 = DotA Replay Manager Change Log for DotA =
 
-== The change log won't be updated anymore. Please follow the DRMF2 version's change log [https://code.google.com/p/pdrmf/wiki/DRMF2changelog here]
+== The change log won't be updated anymore. Please follow the DRMF2 version's change log [https://code.google.com/p/pdrmf/wiki/DRMF2changelog here] ==
 
 *+* Added
 

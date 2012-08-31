@@ -20,7 +20,7 @@
 
 *~* Changed the menu
 
-== 26.08.2012 v5.0 ==
+== 26.08.2012 v5.0 `[`STABLE`]`==
 
 *+* Added reload button
 

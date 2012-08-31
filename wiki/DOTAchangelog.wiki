@@ -1,5 +1,6 @@
 = DotA Replay Manager Change Log for DotA =
 
+== The change log won't be updated anymore. Please follow the DRMF2 version's change log [https://code.google.com/p/pdrmf/wiki/DRMF2changelog here]
 
 *+* Added
 
@@ -14,6 +15,10 @@
 == xx.08.2012 v5.1 ==
 
 *~* Fixed the sentinels and buildings bug. They didn't work correctly.
+
+*+* Added syncfree actionlogs if the user wants to use it
+
+*~* Changed the menu
 
 == 26.08.2012 v5.0 ==
 

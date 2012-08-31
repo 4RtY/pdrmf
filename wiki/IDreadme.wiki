@@ -88,7 +88,7 @@ Do not change the version, it's only for new installtions.
 
 The path of the original DRM log path. In some cases the creation of the log isnt enabled, then open then DRM and go to Settings -> (tab) Replay -> (bottom) tick "Write actions to log.txt". The path is needed for the most functions.
 
-*ReplaySeeker*
+*!ReplaySeeker*
 
 The full path to the replay seeker program. It's only needed if you want to use the menu item.
 

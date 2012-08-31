@@ -10,7 +10,7 @@
 
 ----
 
-== Started on the 27.08.2012 -- Contains DotA v5.1 `|` ID v6.5 ==
+== Started on the 27.08.2012 -- Based on: DotA v5.1 `|` ID v6.5 ==
 
 *~* Changed the result window
 

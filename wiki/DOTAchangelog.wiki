@@ -12,7 +12,8 @@
 
 ----
 
-== xx.08.2012 v5.1 ==
+== 31.08.2012 v5.1 == 
+_(Pretty much rushed this release because I still wanted to release v5.1 as stable solo verison for DotA before working on the DRMF2._
 
 *~* Fixed the sentinels and buildings bug. They didn't work correctly.
 
@@ -20,7 +21,7 @@
 
 *~* Changed the menu
 
-== 26.08.2012 v5.0 `[`STABLE`]`==
+== 26.08.2012 v5.0 ==
 
 *+* Added reload button
 

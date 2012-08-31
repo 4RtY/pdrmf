@@ -88,7 +88,7 @@ Shows all clicks on the courier(s)
 
 *Neutrals*
 
-_Not fully added, yet._ Shows neutral clicks and clicks on rosh.
+Shows clicks on neutral units and roshan.
 
 *Heroes*
 
@@ -115,6 +115,11 @@ The specified click options is splitted in 2.
 1. You can filter all clicks of the user(s) on one hero.
 
 2. You can filter all clicks of the user(s) on one hero except on user (like the owner of the hero).
+
+=== SyncFree ===
+
+This option will take out every line which is duplicated.
+
 
 == DotA Replay Manager Filter Settings ==
 http://pdrmf.googlecode.com/files/DRMFD%20settings.jpg

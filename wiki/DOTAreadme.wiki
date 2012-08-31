@@ -116,7 +116,7 @@ The specified click options is splitted in 2.
 
 2. You can filter all clicks of the user(s) on one hero except on user (like the owner of the hero).
 
-=== SyncFree ===
+=== !SyncFree ===
 
 This option will take out every line which is duplicated.
 

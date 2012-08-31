@@ -60,9 +60,9 @@ This function will only lists selected buildings. There's still a chance (~95%)t
 
 Lists the selection & removal of the selection of the user(s). Also shows the unit ID.
 
-*!SyncIgnore*
+*!SyncFree*
 
-Will maybe be added soon too. Will remove the first 200+ pre selection lines of the DRM filter chat.
+Will remove every duplicated line in the result.
 
 *Filter*
 

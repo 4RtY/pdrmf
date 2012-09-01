@@ -49,7 +49,7 @@ http://pdrmf.googlecode.com/files/DRMFD%20actions.jpeg
 
 *Kills*
 
-Lists who the players who the user(s) killed.
+Lists who the user(s) killed.
 
 *Deaths*
 

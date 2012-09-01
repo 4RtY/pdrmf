@@ -12,7 +12,7 @@
 
 ----
 
-* x.x.2012 v6.5 Private Beta*
+== 1.9.2012 v6.5 ==
 
 *+* Added syncfree as option (if the user wants to use it)
 
@@ -28,7 +28,7 @@
 
 *~* Fixed some game IDs
 
-== 26.07.2012 v6.4 *-**-**-* Public Source Code Release == 
+== 26.07.2012 v6.4 == 
 
 *+* Added new messenger method
 

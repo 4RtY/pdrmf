@@ -1,3 +1,4 @@
+#labels Featured
 = !ReadMe for the merged DotA Replay Manager Filter =
 
 

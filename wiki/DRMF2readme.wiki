@@ -5,3 +5,7 @@
     * Esc to exit the start-up GUI
     * Alt & Esc to exit the ID or DotA GUI
     * Right-click on a line in the result GUI to copy it
+    * Change the setting 'Default' to:
+      # 1 for starting ID instead of the start-up
+      # 0 for starting DotA instead of the start-up
+      # emty for starting start-up

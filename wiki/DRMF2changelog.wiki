@@ -13,11 +13,19 @@
 
 == x.09.2012 v1.1 ==
 
-*~* Fixed for DRM v3.0
+*~* Reload now also pressed the 'load action log' button (so you don't have to select to tabs because of the playerlist)
+
+*~* Fixed and debugged a lot
+
+*~* Fixed for DRM v3.2
 
 *~* Changed many things (concerns output)
 
+*~* Improved the automatical problem analyzer
+
 *+* Added item dropping to item usage
+
+*+* Added ping
 
 *-* Removed shift
 

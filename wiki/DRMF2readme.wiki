@@ -1,7 +1,7 @@
 #labels Featured
 = !ReadMe for the merged DotA Replay Manager Filter =
 
-== The 'Game info' tab has to be open if refreshing the list or before starting the program. This might be fixed in the future. ==
+=== The 'Game info' tab has to be open if refreshing the list or before starting the program. This might be fixed in the future. ===
 
     * Basicaly, it contains the *same options* as the version for Island Defense and DotA since both versions are in the DRMF2.
     * Esc to exit the start-up GUI

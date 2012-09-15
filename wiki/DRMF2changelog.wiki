@@ -11,7 +11,7 @@
 
 ----
 
-== x.09.2012 v1.1 ==
+== 16.09.2012 v1.1 ==
 
 *~* Reload now also pressed the 'load action log' button (so you don't have to select to tabs because of the playerlist)
 
@@ -30,6 +30,8 @@
 *-* Removed shift
 
 *•* Change selection doesn't list the unit ID anymore (DRM based)
+
+*•* Game info tab has to be opened if using the player refreshing button
 
 == Started on the 27.08.2012 v1.0 -- Based on: DotA v5.1 `|` ID v6.5 ==
 

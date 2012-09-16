@@ -27,6 +27,8 @@
 
 *+* Added ping
 
+*+* Added multi-copy-result-line support
+
 *-* Removed shift
 
 *•* Change selection doesn't list the unit ID anymore (DRM based)

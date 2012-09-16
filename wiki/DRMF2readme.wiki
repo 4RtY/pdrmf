@@ -1,6 +1,8 @@
 #labels Featured
 = !ReadMe for the merged DotA Replay Manager Filter =
 
+
+=== Must be used with the latest DotA Replay Manager verion (3.02b) ===
 === The 'Game info' tab has to be open if refreshing the list or before starting the program. This might be fixed in the future. ===
 
     * Basicaly, it contains the *same options* as the version for Island Defense and DotA since both versions are in the DRMF2.

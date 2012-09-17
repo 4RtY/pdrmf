@@ -15,7 +15,11 @@
 
 *~* Many bug fixes
 
+*+* Added item drop/swap to item usage
+
 *+* Added a notification in case the playerlist was loaded, although the game info tab wasn't selected (ID erros if n > 12 or n =< 8 ; DotA erros if n > 13 or n =< 4)
+
+*-* Removed worker/harvester from spells
 
 
 == 16.09.2012 v1.1 ==

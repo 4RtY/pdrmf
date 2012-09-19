@@ -17,7 +17,9 @@
 
 *+* Added item drop/swap to item usage
 
-*+* Added a notification in case the playerlist was loaded, although the game info tab wasn't selected (ID erros if n > 12 or n =< 8 ; DotA erros if n > 13 or n =< 4)
+*+* Added readme menu item which links to the online readme
+
+*+* Added a notification in case the playerlist was loaded, although the game info tab wasn't selected (ID erros if n > 12 or n =< 8 ; DotA erros if n > 13 or n =< 4) [Will not be trigger if the program loads, only if you press the button]
 
 *-* Removed worker/harvester from spells
 

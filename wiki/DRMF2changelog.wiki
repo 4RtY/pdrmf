@@ -15,7 +15,7 @@
 
 *~* Fixed refreshing playerlist
 
-*~* [Many bug fixes https://code.google.com/p/pdrmf/issues/list?can=1&q=&colspec=ID+Summary+Status+Priority+Type+Opened+Modified+Closed+Reporter&cells=tiles]
+*~* [https://code.google.com/p/pdrmf/issues/list?can=1&q=&colspec=ID+Summary+Status+Priority+Type+Opened+Modified+Closed+Reporter&cells=tiles Many bug fixes]
 
 *+* Added arial as font for the update GUI (trying to fix the font bug (on ahk's site) which leads to different font sizes on different PCs)
 

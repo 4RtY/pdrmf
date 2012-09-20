@@ -13,6 +13,8 @@
 
 == x.x.2012 v1.2 ==
 
+*~* Changed the whole 'refreshing playerlist' notification system
+
 *~* Fixed refreshing playerlist
 
 *~* [https://code.google.com/p/pdrmf/issues/list?can=1&q=&colspec=ID+Summary+Status+Priority+Type+Opened+Modified+Closed+Reporter&cells=tiles Many bug fixes]

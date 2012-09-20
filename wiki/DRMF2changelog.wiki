@@ -13,18 +13,19 @@
 
 == x.x.2012 v1.2 ==
 
-*~* Many bug fixes
+*~* Fixed refreshing playerlist
+
+*~* [Many bug fixes https://code.google.com/p/pdrmf/issues/list?can=1&q=&colspec=ID+Summary+Status+Priority+Type+Opened+Modified+Closed+Reporter&cells=tiles]
 
 *+* Added arial as font for the update GUI (trying to fix the font bug (on ahk's site) which leads to different font sizes on different PCs)
 
 *+* Added item drop/swap to item usage
 
-*+* Added readme menu item which links to the online readme
+*+* Added readme menu item which links to the online readme and an offline readme in case the internet is disconnected
 
 *+* Added a notification in case the playerlist was loaded, although the game info tab wasn't selected (ID erros if n > 12 or n =< 8 ; DotA erros if n > 13 or n =< 4) [Will not be trigger if the program loads, only if you press the button]
 
 *-* Removed worker/harvester from spells
-
 
 == 16.09.2012 v1.1 ==
 

@@ -11,7 +11,9 @@
 
 ----
 
-== x.x.2012 v1.2 ==
+== x.09.2012 v1.2 ==
+
+*~* Added/Changed lots of details to improve the program's usability.
 
 *~* Changed the whole 'refreshing playerlist' notification system
 

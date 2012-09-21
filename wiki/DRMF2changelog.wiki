@@ -31,6 +31,8 @@
 
 *-* Removed worker/harvester from spells
 
+*•* 'Game info' tab does not have to be selected anymore!
+
 == 16.09.2012 v1.1 ==
 
 *~* Reload now also pressed the 'load action log' button (so you don't have to select to tabs because of the playerlist)

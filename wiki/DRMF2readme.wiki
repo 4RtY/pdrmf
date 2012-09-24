@@ -7,9 +7,10 @@
     * Basicaly, it contains the *same options* as the version for [https://code.google.com/p/pdrmf/wiki/IDreadme Island Defense] and [https://code.google.com/p/pdrmf/wiki/DOTAreadme DotA] since both versions are in the DRMF2.
     * Esc to exit the start-up GUI
     * Alt & Esc to exit the ID or DotA GUI
-    * Right-click on a line in the result GUI to copy it
+    * Right-click on a line in the result GUI to copy it (use shift or ctrl to select more lines)
     * Change the setting 'Default' to:
       # 1 for starting ID instead of the start-up
       # 0 for starting DotA instead of the start-up
       # emty for starting start-up
     * Reload now also loads the action log
+    * Change clearclipboard in the settings to 1 to clear it before copying a line or keep it 0 to not delete the clipboard before copying the line(s)

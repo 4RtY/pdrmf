@@ -14,3 +14,4 @@
       # emty for starting start-up
     * Reload now also loads the action log
     * Change clearclipboard in the settings to 1 to clear it before copying a line or keep it 0 to not delete the clipboard before copying the line(s)
+    * Forgot to mention that the saving of the settings automatically loads the settings again, no need for the reload button

@@ -13,9 +13,11 @@
 
 == v1.3 __(Not released)__ ==
 
+*~* Reduced code (a little) by using global functions
+
 *~* Icons are directly downloaded to the icon folder instead of moving them from the program's folder in the icons folder.
 
-*~* Some settings gui fixes
+*~* Fixed settings gui
 
 *~* Saving the settings via GUI won't load DRM log anymore (but via reload button it still does)
 

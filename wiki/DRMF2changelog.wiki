@@ -17,11 +17,11 @@
 
 *~* Icons are directly downloaded to the icon folder instead of moving them from the program's folder in the icons folder.
 
-*~* Fixed settings gui
+*~* Fixed several things in the settings gui
 
 *~* Saving the settings via GUI won't load DRM log anymore (but via reload button it still does)
 
-*+* Added multi specific line copy support (see readme)
+*+* Added multi specific line copy support (see readme + clearclipboard)
 
 == 22.09.2012 v1.2 ==
 

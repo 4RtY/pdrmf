@@ -11,6 +11,10 @@
 
 ----
 
+== v1.3 __(Not released)__ ==
+
+*~* Icons are directly downloaded to the icon folder instead of moving them from the program's folder in the icons folder.
+
 == 22.09.2012 v1.2 ==
 
 *~* Added/Changed lots of details to improve the program's usability.

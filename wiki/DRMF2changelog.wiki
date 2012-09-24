@@ -19,7 +19,7 @@
 
 *~* Fixed several things in the settings gui
 
-*~* Saving the settings via GUI won't load DRM log anymore (but via reload button it still does)
+*~* Saving the settings via the settings GUI won't load the DRM log anymore (but via reload button it still does)
 
 *+* Added multi specific line copy support (see readme + clearclipboard)
 

@@ -22,7 +22,7 @@
 
 *+* Added multi specific line copy support (see readme + clearclipboard)
 
-• Source code increased because of:
+*•* Source code increased because of:
     * picture hex code
     * more internal functions
 

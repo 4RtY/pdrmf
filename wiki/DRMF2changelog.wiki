@@ -22,6 +22,10 @@
 
 *+* Added multi specific line copy support (see readme + clearclipboard)
 
+• Source code increased because of:
+    * picture hex code
+    * more internal functions
+
 == 22.09.2012 v1.2 ==
 
 *~* Added/Changed lots of details to improve the program's usability.

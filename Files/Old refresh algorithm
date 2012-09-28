@@ -1,0 +1,79 @@
+// DotA
+/*
+	ControlGet,gameplayers, List,,SysListView323,ahk_class MainWndClass
+
+		If gameplayers not contains top,mid,bot
+			ControlGet,gameplayers, List,,SysListView327,ahk_class MainWndClass
+
+		If gameplayers not contains top,mid,bot
+			ControlGet,gameplayers, List,,SysListView325,ahk_class MainWndClass
+
+		If gameplayers not contains top,mid,bot
+			ControlGet,gameplayers, List,,SysListView322,ahk_class MainWndClass
+
+		If gameplayers not contains top,mid,bot
+			ControlGet,gameplayers, List,,SysListView324,ahk_class MainWndClass
+
+		If gameplayers not contains top,mid,bot
+			ControlGet,gameplayers, List,,SysListView326,ahk_class MainWndClass
+
+
+		If gameplayers not contains top,mid,bot
+		{
+			If (autoRefresh = "0")
+			{
+			TrayTip,Something is wrong...,Make sure you've selected a DotA replay.,4,2
+			return
+			}
+			else
+				Gameplayers = 
+		}
+
+
+		If (gameplayers != "")
+		{
+			Loop, Parse, gameplayers, `n
+			{
+				Loop, Parse, A_LoopField, %A_Tab%
+				{
+					counter++
+					If (counter = "13")
+						counter := 0
+			
+					If (counter = "1")
+						Playernames .= A_loopfield "|"
+				}
+			}
+		}
+*/
+
+
+// ID
+		/*
+		ControlGet,gameplayers, List,,SysListView322,ahk_class MainWndClass
+		If gameplayers not contains team 2
+			ControlGet,gameplayers, List,,SysListView323,ahk_class MainWndClass
+		If gameplayers not contains team 2
+			ControlGet,gameplayers, List,,SysListView325,ahk_class MainWndClass
+		If gameplayers not contains team 2
+		{
+			If (autoRefresh = "0")
+			{
+			TrayTip,Something is wrong...,Make sure you've selected an ID replay.,4,2
+			return
+			}
+		}
+
+		Loop, parse, gameplayers, `n
+		{
+			Loop, Parse, A_LoopField, %A_Tab%
+				{
+					counter++
+					If (counter = "4")
+						counter := 0
+					
+					If (counter = "1")
+						Playernames .= A_loopfield "|"
+				}
+		}
+		*/

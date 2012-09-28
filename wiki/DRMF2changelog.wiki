@@ -13,6 +13,8 @@
 
 == v1.3 __(Not released)__ ==
 
+*~* Playerlist and action log loading via buttons will be triggered with a chance of 99,9% _(Also made it more flexible for new DRM versions)_
+
 *~* Icons are directly downloaded to the icon folder instead of moving them from the program's folder in the icons folder.
     * _Added a GUI for icon downloading. Settings, logo and placeholder icons are automatically created by the script without downloading_
 

@@ -13,7 +13,10 @@
 
 == v1.3 __(Not released)__ ==
 
-*~* Playerlist and action log loading via buttons will be triggered with a chance of 99,9% _(Also made it more flexible for new DRM versions)_
+*~* Playerlist loading function has been rewritten (loads the correct numbers of players (10 for DotA / 11 for ID) in whatever tab you've selected. 
+
+*~* Same for the reload button. However, you might have to press it twice if it's the first replay of the day you are loading.
+_(Also made it more flexible for new DRM versions)_
 
 *~* Icons are directly downloaded to the icon folder instead of moving them from the program's folder in the icons folder.
     * _Added a GUI for icon downloading. Settings, logo and placeholder icons are automatically created by the script without downloading_

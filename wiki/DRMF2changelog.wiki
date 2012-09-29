@@ -27,6 +27,9 @@ _(Also made it more flexible for new DRM versions)_
 
 *+* Added multi specific line copy support (see readme + clearclipboard)
 
+*+* Added the 'clicks-on-heroes' filter an option to add a hero's name which should not be added to the list.
+    * E.g: I want all clicks of the user xyz but then I also get his own hero's clicks listed - entering his hero's name in the inputbox will solve this.
+
 *•* Source code increased because of:
     * picture hex code
     * more internal functions

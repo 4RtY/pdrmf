@@ -24,9 +24,12 @@ _(Also made it more flexible for new DRM versions)_
 *~* Icons are directly downloaded to the icon folder instead of moving them from the program's folder in the icons folder.
     * _Added a GUI for icon downloading. Settings, logo and placeholder icons are automatically created by the script without downloading_
 
-*~* Fixed several things in the settings gui
+*~* Settings
+    * Rewrote the tooltip system of the GUI, it hopefully doesn't flicker too much anymore
 
-*~* Saving the settings via the settings GUI won't load the DRM log anymore (but via reload button it still does)
+    * Fixed several things in the settings gui
+
+    * Saving the settings via the settings GUI won't load the DRM log anymore (but via reload button it still does)
 
 *+* Added multi specific line copy support (see readme + clearclipboard)
 

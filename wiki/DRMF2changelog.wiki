@@ -13,6 +13,9 @@
 
 == v1.3 __(Not released)__ ==
 
+*~* Fixed some bugs
+    * Heroes clicks for all & one user won't output an error
+
 *~* Playerlist loading function has been rewritten (loads the correct numbers of players (10 for DotA / 11 for ID) in whatever tab you've selected. 
 
 *~* Same for the reload button. However, you might have to press it twice if it's the first replay of the day you are loading.

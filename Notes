@@ -1,0 +1,4 @@
+• modifite or remove the second colum in the result tab
+  - remove it in the first result but on error, add it.
+  
+• refreshing while selecting action log won't work - must be fixed.

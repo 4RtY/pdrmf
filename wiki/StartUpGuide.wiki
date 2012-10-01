@@ -1,7 +1,7 @@
 = Start-Up Guide for the DotA Replay Manager Filter =
-=== It does not matter which version (ID or DotA) you are using. ===
+=== It does not matter which version (ID or DotA) you are using but since I still had this pictures, I used it as an example.===
 
-  * First of all download the DotA Replay Manager [http://www.mediafire.com/?i4qmz214i50fwfu here]
+  * First of all download the DotA Replay Manager [https://code.google.com/p/dota-replay-manager/downloads/list here]
   * Secondly, if not already done, download the DotA Replay Manger Filter [https://code.google.com/p/pdrmf/downloads/list here]
 
   * After that you can decide if you want to use the !ReplaySeeker. The program allows you to increase the fast-forwarding or to slow down the whole stuffs. 

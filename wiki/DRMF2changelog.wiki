@@ -13,6 +13,8 @@
 
 == v1.3 __(Not released)__ ==
 
+*~* Changed link to download the DRM. (It's now the [https://code.google.com/p/dota-replay-manager/downloads/list project page] and not the mediafire link)
+
 *~* Fixed some bugs
     * Heroes clicks for all & one user won't output an error
 

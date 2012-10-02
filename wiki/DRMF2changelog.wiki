@@ -23,7 +23,7 @@
 
 *~* Playerlist loading function has been rewritten (loads the correct numbers of players (10 for DotA / 11 for ID) in whatever tab you've selected. 
 
-*~* Reload should now load the replay's action log. However, it might happen that you need to press it twice. _(Also made it more flexible for new DRM versions)_
+*~* Reload should now load the replay's action log. However, it might happen that you need to press it twice (or manually - working on it to fix it 100%). _(Also made it more flexible for new DRM versions)_
 
 *~* Icons are directly downloaded to the icon folder instead of moving them from the program's folder in the icons folder.
     * _Added a GUI for icon downloading. Settings, logo and placeholder icons are automatically created by the script without downloading_

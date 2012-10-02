@@ -13,14 +13,13 @@
 
 == v1.3 __(Not released)__ ==
 
-*~* Fixed the 'scourge' & 'sentinel' selection
-
 *~* Modified the result window (now contains the replay name in the colum), plus modified the analyzer and added the game infos to it.
 
 *~* Changed link to download the DRM. (It's now the [https://code.google.com/p/dota-replay-manager/downloads/list project page] and not the mediafire link)
 
 *~* Fixed some bugs
     * Heroes clicks for all & one user won't output an error
+    * the 'scourge' & 'sentinel' selection
 
 *~* Playerlist loading function has been rewritten (loads the correct numbers of players (10 for DotA / 11 for ID) in whatever tab you've selected. 
 

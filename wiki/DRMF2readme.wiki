@@ -10,11 +10,18 @@
     * Esc to exit the start-up GUI
     * Alt & Esc to exit the ID or DotA GUI
     * Right-click on a line in the result GUI to copy it (use shift or ctrl to select more lines)
-    * Change the setting 'Default' to:
-      # 1 for starting ID instead of the start-up
-      # 0 for starting DotA instead of the start-up
-      # emty for starting start-up
     * Reload now also loads the action log
-    * Change clearclipboard in the settings to 1 to clear it before copying a line or keep it 0 to not delete the clipboard before copying the line(s)
-    * Forgot to mention that the saving of the settings automatically loads the settings again, no need for the reload button
-    * Change the disableexception setting to 1 to enable the option of filtering all clicks of the user(s) on heroes (in general - 'clicks' tab) but without the inputed name. Helpful to disable the hero of the user himself
+    * Saving the settings via the settings GUI won't load the gamechat anymore
+
+== Settings ==
+
+    * Default
+      # keep it emty or enter a space to start the normal start-up
+      # 0 to start the DotA GUI
+      # 1 to start the ID GUI
+    * ClearClipboard
+      # 0 to keep the current copied next, plus the copied result lines
+      # 1 to clear the clipboard and to only copy the result lines
+    * DisableException
+      # 0 to disable the option
+      # 1 to enable the option to enter hero name(s) which should not be listed if using the _heroes_ option in the _click_ tab. (The option should help to remove the own user's hero clicks.)

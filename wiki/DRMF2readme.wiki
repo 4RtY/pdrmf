@@ -15,7 +15,7 @@
     * If chosen the heroes option in the _click_ tab and the input box is enabled, you can enter more than one hero name as long as you do it like this:
       # Juggernaut,Clockwerk Goblin,Death Prophet
       # Juggernaut
-Pressing cancel will lists the normal result; pressing Ok without entering something (input is emty), it will also show the normal result
+      Pressing cancel will lists the normal result; pressing Ok without entering something (input is emty), it will also show the normal result
 
 
 == Settings ==

@@ -20,7 +20,7 @@
       # 0 to start the DotA GUI
       # 1 to start the ID GUI
     * !ClearClipboard
-      # 0 to keep the current copied next, plus the copied result lines
+      # 0 to keep the current copied text, plus the copied result lines
       # 1 to clear the clipboard and to only copy the result lines
     * !DisableException
       # 0 to disable the option

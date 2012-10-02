@@ -2,7 +2,7 @@
 = !ReadMe for the merged DotA Replay Manager Filter =
 
 
-=== Must be used with the latest DotA Replay Manager verion (3.02b) ===
+=== Must be used with the latest DotA Replay Manager verion (>= 3.02b) ===
 
 === Contains parts for v1.3 ===
 
@@ -19,9 +19,9 @@
       # keep it emty or enter a space to start the normal start-up
       # 0 to start the DotA GUI
       # 1 to start the ID GUI
-    * ClearClipboard
+    * !ClearClipboard
       # 0 to keep the current copied next, plus the copied result lines
       # 1 to clear the clipboard and to only copy the result lines
-    * DisableException
+    * !DisableException
       # 0 to disable the option
       # 1 to enable the option to enter hero name(s) which should not be listed if using the _heroes_ option in the _click_ tab. (The option should help to remove the own user's hero clicks.)

@@ -28,7 +28,7 @@
 
 *~* Reload should now load the replay's action log. However, it might happen that you need to press it twice (or manually - working on it to fix it 100%). _(Also made it more flexible for new DRM versions)_
 
-    *->* It also depends on the DRM itself - you've to choose the replay correctly so even it's playerlist refreshes and the DRMF can recognize the new loaded replay. Also, you shouldn't load too many replays in a very short time. If you are using the DRM calmly like everyone else than you shouldn't have any problems. However, no 100% guarantee.
+    It also depends on the DRM itself - you've to choose the replay correctly so even it's playerlist refreshes and the DRMF can recognize the new loaded replay. Also, you shouldn't load too many replays in a very short time. If you are using the DRM calmly like everyone else than you shouldn't have any problems. However, no 100% guarantee.
 
 *~* Icons are directly downloaded to the icon folder instead of moving them from the program's folder in the icons folder.
 _Added a GUI for icon downloading. Settings, logo and placeholder icons are automatically created by the script without downloading_

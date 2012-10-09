@@ -31,9 +31,7 @@
 
 *~* Settings
     * Rewrote the tooltip system of the GUI, it hopefully doesn't flicker too much anymore
-
     * Fixed several things in the settings gui
-
     * Saving the settings via the settings GUI won't load the DRM log anymore (but via reload button it still does)
 
 *~* Result GUI

@@ -19,6 +19,7 @@
     * Heroes clicks for all & one user won't output an error
     * the 'scourge' & 'sentinel' selection
     * Fixed bug with the result window being in the main GUI if using default option
+    * Fixed the typo with the private option and another option not causing an analyzer problem
 
 *~* Playerlist loading function has been rewritten (loads the correct numbers of players (10 for DotA / 11 for ID) in whatever tab you've selected. 
 

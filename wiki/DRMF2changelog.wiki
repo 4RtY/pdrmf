@@ -13,8 +13,6 @@
 
 == v1.3 __(Not released)__ ==
 
-*~* Modified the result window (now contains the replay name in the colum), plus modified the analyzer and added the game infos to it.
-
 *~* Changed link to download the DRM. (It's now the [https://code.google.com/p/dota-replay-manager/downloads/list project page] and not the mediafire link)
 
 *~* Fixed some bugs

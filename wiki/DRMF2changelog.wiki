@@ -13,7 +13,7 @@
 
 == v1.3 __(Not released)__ ==
 
-• Will be compiled as x32 for x32 users - x64 can use it anyway
+*•* Will be compiled as x32 for x32 users - x64 can use it anyway
 
 *~* Changed link to download the DRM. (It's now the [https://code.google.com/p/dota-replay-manager/downloads/list project page] and not the mediafire link)
 

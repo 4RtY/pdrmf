@@ -17,11 +17,12 @@
 
 *~* Changed link to download the DRM. (It's now the [https://code.google.com/p/dota-replay-manager/downloads/list project page] and not the mediafire link)
 
-*~* Fixed some bugs
+*~* [https://code.google.com/p/pdrmf/issues/list?can=1&q=v1.2&colspec=ID+Summary+Status+Priority+Type+Opened+Modified+Closed+Reporter&cells=tiles Fixed some bugs]
     * Heroes clicks for all & one user won't output an error
     * the 'scourge' & 'sentinel' selection
     * Fixed bug with the result window being in the main GUI if using default option
     * Fixed the typo with the private option and another option not causing an analyzer problem
+    * Fixed specific hero listing
 
 *~* Playerlist loading function has been rewritten (loads the correct numbers of players (10 for DotA / 11 for ID) in whatever tab you've selected. 
 

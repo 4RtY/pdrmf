@@ -27,7 +27,7 @@
 *~* Reload should now load the replay's action log. However, it might happen that you need to press it twice (or manually - working on it to fix it 100%). _(Also made it more flexible for new DRM versions)_
 
 *~* Icons are directly downloaded to the icon folder instead of moving them from the program's folder in the icons folder.
-    * _Added a GUI for icon downloading. Settings, logo and placeholder icons are automatically created by the script without downloading_
+_Added a GUI for icon downloading. Settings, logo and placeholder icons are automatically created by the script without downloading_
 
 *~* Settings
     * Rewrote the tooltip system of the GUI, it hopefully doesn't flicker too much anymore
@@ -38,11 +38,10 @@
     * Listview with details (if there're any)
     * normal analyzer
     * more information in general
-    * *+* Added multi specific line copy support (see readme + clearclipboard)
+    * Added multi specific line copy support (see readme + clearclipboard)
 
 *+* Added the 'clicks-on-heroes' filter an option to add a hero's name which should not be added to the list.
-    * E.g: I want all clicks of the user xyz but then I also get his own hero's clicks listed - entering his hero's name in the inputbox will solve this.
-(Can be disabled in the settings or the box can be cancelled if it pops up)
+E.g: I want all clicks of the user xyz but then I also get his own hero's clicks listed - entering his hero's name in the inputbox will solve this. (Can be disabled in the settings or the box can be cancelled if it pops up)
 
 *•* Source code increased because of:
     * picture hex code

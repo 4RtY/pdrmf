@@ -36,7 +36,8 @@ _Added a GUI for icon downloading. Settings, logo and placeholder icons are auto
     * Listview with details (if there're any)
     * normal analyzer
     * more information in general
-    * Added multi specific line copy support (see readme + clearclipboard)
+    * Added multi specific line copy support
+    * If clearclipboard option is enabled, the clipboard will be cleared after each 'Filter' pressing. So it's ready for the new result content (_but copying multiple times in the same result window won't trigger the clearing_)
 
 *+* Added the 'clicks-on-heroes' filter an option to add a hero's name which should not be added to the list.
 E.g: I want all clicks of the user xyz but then I also get his own hero's clicks listed - entering his hero's name in the inputbox will solve this. (Can be disabled in the settings or the box can be cancelled if it pops up)

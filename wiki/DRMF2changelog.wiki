@@ -11,7 +11,7 @@
 
 ----
 
-== 10.10.2012 v1.3 == Private Beta
+== 10.10.2012 v1.3 _Private Beta_ ==
 
 *•* Will be compiled as x32 for x32 users - x64 can use it anyway
 

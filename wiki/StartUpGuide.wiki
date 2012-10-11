@@ -1,5 +1,5 @@
 = Start-Up Guide for the DotA Replay Manager Filter =
-* • It does not matter which version (ID, DotA or DRMF2) you are using but since I still had this pictures, I used it as an example.*
+* • It does not matter which version (ID, DotA or DRMF2) you are using but since I still had these pictures, I used it as an example.*
 
 *• The guide isn't up-to-date anymore, however, the concept is the same except for some steps which aren't needed anymore.*
 

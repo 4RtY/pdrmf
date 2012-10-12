@@ -48,10 +48,6 @@ _Added a GUI for icon downloading. Settings, logo and placeholder icons are auto
 *+* Added the 'clicks-on-heroes' filter an option to add a hero's name which should not be added to the list.
 E.g: I want all clicks of the user xyz but then I also get his own hero's clicks listed - entering his hero's name in the inputbox will solve this. (Can be disabled in the settings or the box can be cancelled if it pops up)
 
-*•* Source code increased because of:
-    * picture hex code
-    * more internal functions
-
 == 22.09.2012 v1.2 ==
 
 *~* Added/Changed lots of details to improve the program's usability.

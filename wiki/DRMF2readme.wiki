@@ -16,7 +16,7 @@
     * With shift you can copy a whole bunch of lines at once
 
 === • Heroes _(Tab: Click ; Option: Heroes)_ ===
-    * If the DisableException (see settings) is enabled, then each time you use the _heroes_ option, a box will pop-up asking you to enter one or more hero names. The result list will then not contain these hero names. However, you can either press cancel or keep it emty to skip the extra option.
+    * If the !DisableException (see settings) is enabled, then each time you use the _heroes_ option, a box will pop-up asking you to enter one or more hero names. The result list will then not contain these hero names. However, you can either press cancel or keep it emty to skip the extra option.
     * Usage example:
       # Juggernaut,Clockwerk Goblin,Death Prophet
       # Juggernaut

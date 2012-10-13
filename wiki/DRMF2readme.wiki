@@ -5,20 +5,24 @@
 === - Must be used with the latest DotA Replay Manager version (>= 3.02b) ===
 
     * Basically, it contains the *same options* as the version for [https://code.google.com/p/pdrmf/wiki/IDreadme Island Defense] and [https://code.google.com/p/pdrmf/wiki/DOTAreadme DotA] since both versions are in the DRMF2.
+
+=== • Hotkeys _(General)_ ===
     * Esc to exit the start-up GUI
     * Alt & Esc to exit the ID or DotA GUI
-=== • Copy ===
+
+=== • Copy _(Result GUI)_ ===
     * Right click on a line in the result gui to copy it. You can also right click twice or more to copy multiple specific lines - it will add them to the clipboard
     * Using ctrl you can actually do the same as with the right click
     * With shift you can copy a whole bunch of lines at once
-=== • Heroes _(Tab: Click ; Option: Heroes)_ ===
 
-    * Reload now also loads the action log
-    * Saving the settings via the settings GUI won't load the gamechat anymore
-    * If chosen the heroes option in the _click_ tab and the input box is enabled, you can enter more than one hero name as long as you do it like this:
+=== • Heroes _(Tab: Click ; Option: Heroes)_ ===
+    * If the DisableException (see settings) is enabled, then each time you use the _heroes_ option, a box will pop-up asking you to enter one or more hero names. The result list will then not contain these hero names. However, you can either press cancel or keep it emty to skip the extra option.
+    * Usage example:
       # Juggernaut,Clockwerk Goblin,Death Prophet
       # Juggernaut
-    Pressing cancel will lists the normal result; pressing Ok without entering something (input is emty), it will also show the normal result
+
+• Reload now also loads the action log
+• Saving the settings via the settings GUI won't load the gamechat anymore
 
 
 == Settings ==

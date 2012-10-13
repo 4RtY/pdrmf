@@ -6,7 +6,6 @@
 
     * Basically, it contains the *same options* as the version for [https://code.google.com/p/pdrmf/wiki/IDreadme Island Defense] and [https://code.google.com/p/pdrmf/wiki/DOTAreadme DotA] since both versions are in the DRMF2.
     * Reload now also loads the action log
-    * Saving the settings via the settings GUI won't load the gamechat anymore
 
 === • Hotkeys _(General)_ ===
     * Esc to exit the start-up GUI

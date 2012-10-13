@@ -1,4 +1,4 @@
 == DotA Replay Manager Filter Bugs & Known Problems ==
 
-  * ~If you are running the DotA Replay Manager in a compatibility modus (e.g. from Win7 to Win XP SP 2) because it's crashing or for any other reasons, then you've to run the DRMF2.exe with administrative rights, else it won't load the playerlist.~
+  * ~~If you are running the DotA Replay Manager in a compatibility modus (e.g. from Win7 to Win XP SP 2) because it's crashing or for any other reasons, then you've to run the DRMF2.exe with administrative rights, else it won't load the playerlist.~~
   * Compatible with: Win7 x32 & x64 (probably with the rest, too)

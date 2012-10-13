@@ -18,13 +18,13 @@
 
 == Settings ==
 
-    * Default
+    * Default _(define wich GUI should start first)_
       # keep it emty or enter a space to start the normal start-up
       # 0 to start the DotA GUI
       # 1 to start the ID GUI
-    * !ClearClipboard
+    * !ClearClipboard _(clear before copying result)_
       # 0 to keep the current copied text, plus the copied result lines
       # 1 to clear the clipboard and to only copy the result lines
-    * !DisableException
+    * !DisableException _(dis-/enable option for heroes filtering)_
       # 0 to disable the option
       # 1 to enable the option to enter hero name(s) which should not be listed if using the _heroes_ option in the _click_ tab. (The option should help to remove the own user's hero clicks.)

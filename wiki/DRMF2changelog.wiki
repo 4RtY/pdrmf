@@ -98,7 +98,9 @@ E.g: I want all clicks of the user xyz but then I also get his own hero's clicks
 
 *•* Game info tab has to be opened if using the player refreshing button
 
-== Started on the 27.08.2012 v1.0 -- Based on: DotA v5.1 `|` ID v6.5 ==
+== 27.08.2012 v1.0 ==
+
+*•* Started --- Based on: DotA v5.1 `|` ID v6.5
 
 *~* Changed the result window
 

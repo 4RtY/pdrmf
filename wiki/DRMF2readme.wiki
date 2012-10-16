@@ -1,6 +1,6 @@
-#summary = ReadMe for the merged DotA Replay Manager Filter =
+#summary ReadMe for the merged DotA Replay Manager Filter
 #labels Featured
-<wiki:toc max_depth="3" />
+<wiki:toc max_depth="2" />
 
  
 === General ===

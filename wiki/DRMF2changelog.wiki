@@ -4,11 +4,8 @@
 
 === Legend ===
 *+* Added
-
 *-* Removed
-
 *~* Fixed/Changed
-
 *•* Comment/Info
 
 ----

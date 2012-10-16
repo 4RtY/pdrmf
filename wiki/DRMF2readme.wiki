@@ -1,6 +1,6 @@
+#summary = !ReadMe for the merged DotA Replay Manager Filter =
 #labels Featured
-= !ReadMe for the merged DotA Replay Manager Filter =
-
+<wiki:toc max_depth="3" />
 
 === - Must be used with the latest DotA Replay Manager version (>= 3.02b) ===
 

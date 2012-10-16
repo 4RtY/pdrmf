@@ -2,7 +2,7 @@
 #labels Featured
 <wiki:toc max_depth="3" />
 
-=== Legend ===
+== Legend ==
 *+* Added
 
 *-* Removed
@@ -13,7 +13,8 @@
 
 ----
 
-== x.x.2012 v1.4 _Not released_ ==
+== x.x.2012 v1.4 ==
+_Not released_
 
 *~* [https://code.google.com/p/pdrmf/issues/list?can=1&q=v1.3&colspec=ID+Summary+Status+Priority+Type+Opened+Modified+Closed+Reporter&cells=tiles Some] changes & bug fixes
 

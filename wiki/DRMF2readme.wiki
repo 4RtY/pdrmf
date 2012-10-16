@@ -1,22 +1,22 @@
-#summary = !ReadMe for the merged DotA Replay Manager Filter =
+#summary = ReadMe for the merged DotA Replay Manager Filter =
 #labels Featured
 <wiki:toc max_depth="3" />
 
-=== - Must be used with the latest DotA Replay Manager version (>= 3.02b) ===
+ - Must be used with the latest DotA Replay Manager version (>= 3.02b) 
 
     * Basically, it contains the *same options* as the version for [https://code.google.com/p/pdrmf/wiki/IDreadme Island Defense] and [https://code.google.com/p/pdrmf/wiki/DOTAreadme DotA] since both versions are in the DRMF2.
     * Reload now also loads the action log
 
-=== • Hotkeys _(General)_ ===
+=== Hotkeys _(General)_ ===
     * Esc to exit the start-up GUI
     * Alt & Esc to exit the ID or DotA GUI
 
-=== • Copy _(Result GUI)_ ===
+=== Copy _(Result GUI)_ ===
     * Right click on a line in the result gui to copy it. You can also right click twice or more to copy multiple specific lines - it will add them to the clipboard
     * Using ctrl you can actually do the same as with the right click
     * With shift you can copy a whole bunch of lines at once
 
-=== • Heroes _(Tab: Click ; Option: Heroes)_ ===
+=== Heroes _(Tab: Click ; Option: Heroes)_ ===
     * If the !DisableException (see settings) is enabled, then each time you use the _heroes_ option, a box will pop-up asking you to enter one or more hero names. The result list will then not contain these hero names. However, you can either press cancel or keep it emty to skip the extra option.
     * Usage example:
       # Juggernaut,Clockwerk Goblin,Death Prophet

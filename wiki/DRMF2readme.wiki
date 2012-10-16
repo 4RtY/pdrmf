@@ -23,7 +23,7 @@
       # Juggernaut,Clockwerk Goblin,Death Prophet
       # Juggernaut
 
-== Settings ==
+=== Settings ===
 
     * Default _(define wich GUI should start first)_
       # keep it emty or enter a space to start the normal start-up

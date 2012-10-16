@@ -1,6 +1,8 @@
+#summary Change Log for the merged DotA Replay Manager Filter
 #labels Featured
-= Change Log for the merged DotA Replay Manager Filter =
+<wiki:toc max_depth="3" />
 
+=== Legend ===
 *+* Added
 
 *-* Removed

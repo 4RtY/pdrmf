@@ -17,6 +17,8 @@
 
 *~* [https://code.google.com/p/pdrmf/issues/list?can=1&q=v1.3%20status=Verified&colspec=ID%20Summary%20Status%20Priority%20Type%20Opened%20Modified%20Closed%20Reporter Some] changes & bug fixes
 
+*+* Added 'ResultCrawler' _(see readme)_
+
 *-* Removed the debugging ctrl+d hotkey which presses the load button in the DRM (forgot to remove)
 
 == 10.10.2012 v1.3 ==

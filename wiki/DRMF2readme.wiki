@@ -16,6 +16,7 @@
       # Select the first line with the key words
       # None; Means cancel
 First an so called inputbox will pop-up for you to enter the key word(s). Then press either ok or cancel. Depending on the result (if nothing was found, an info box will pop-up), if something was found, then you'll have 3 options as mentioned above.
+
 *The hotkey and the feature only work if one of the main GUIs (either ID or DotA) or a Result GUI is active.*
 
 === Copy _(Result GUI)_ ===

@@ -11,6 +11,10 @@
 === Hotkeys _(General)_ ===
     * Esc to exit the start-up GUI
     * Alt & Esc to exit the ID or DotA GUI
+    * Ctrl+f to start the !ResultCrawler. Options:
+      # Automatically select all lines containing the key words
+      # Select the first line with the key words
+      # None; Means cancel
 
 === Copy _(Result GUI)_ ===
     * Right click on a line in the result gui to copy it. You can also right click twice or more to copy multiple specific lines - it will add them to the clipboard

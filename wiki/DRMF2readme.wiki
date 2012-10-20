@@ -4,7 +4,6 @@
 
 
 #sidebar TableOfContents
-The side navigation that is defined should be in the format of a simple list, as shown below.
 
   * [Articles HOWTO articles]
     * [ArticlesXSS Web security]

@@ -41,7 +41,7 @@
 === Features ===
 ==== !ResultCrawler ====
 Options:
-    * (All) Automatically select all lines containing the keywords
+    * `[`All`]` Automatically select all lines containing the keywords
     * (First) Select the first line with the keywords
     * (None) Means cancel
 

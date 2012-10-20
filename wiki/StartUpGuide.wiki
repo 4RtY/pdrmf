@@ -1,8 +1,12 @@
 === Using the DRMF2 for the very first time ===
 # First of all [https://code.google.com/p/dota-replay-manager/downloads/list download] the DotA Replay Manager
+
 # Secondly, if not already done, [https://code.google.com/p/pdrmf/downloads/list download] the DotA Replay Manager Filter 2 [DRMF2]
+
 # If you want, you can also [http://dotasecrets.wordpress.com/latest-downloads/softwares/replay-parsers/replay-seeker/ download] the replayseeker which allows you to fast-forward (or slowing down) the replay (optinal).
+
 # After you downloaded everything start the DRM and go to the settings, choose the tab Replay and tick the "Log actions to log.txt" box at the bottom.
+
 # Then choose a replay and press the "Action log" tab and then load an action log via pressing "Load"
 # This is needed to create the log.txt which is needed to start the DRMF2
 # So now start the DRMF2.exe and configurate the settings, choose the log.txt path which was just created

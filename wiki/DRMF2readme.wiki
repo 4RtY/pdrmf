@@ -1,8 +1,4 @@
-#summary ReadMe for the merged DotA Replay Manager Filter
 #labels Featured
-<wiki:toc max_depth="4" />
-
-
 #sidebar TableOfContents
 
   * [Articles HOWTO articles]
@@ -13,6 +9,9 @@
   * [DOMReference DOM reference]
   * [HTMLElements HTML reference]
   * [CSSReference CSS reference]
+
+#summary ReadMe for the merged DotA Replay Manager Filter
+<wiki:toc max_depth="4" />
 
  
 === General ===

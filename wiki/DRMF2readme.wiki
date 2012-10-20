@@ -42,10 +42,10 @@
 ==== !ResultCrawler ====
 Options:
     * `[`All`]` Automatically select all lines containing the keywords
-    * (First) Select the first line with the keywords
-    * (None) Means cancel
-
-     # First an so called inputbox will pop-up for you to enter the keyword(s). Then press either ok or cancel. 
+    * `[`First`]` Select the first line with the keywords
+    * `[`None`]` Means cancel
+ 
+     # First an so called input box will pop-up for you to enter the keyword(s). Then press either ok or cancel. 
      # Depending on the result (if nothing was found, an info box will pop-up), if something was found, then you'll have 3 options as mentioned above.
      * The ResultCrawler will only work if a result GUI *exists* and *topmost*.
      * By default the last result window's content will be searched. However, if you click in another result GUI, it will be taken as the default one.

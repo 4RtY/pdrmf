@@ -5,4 +5,4 @@
   * DRMF DotA (v5.1) only compatible with win7 x32
   * DRMF2 (v >= 1.3) compatible with win7 x32 & x64 and probably with the rest, too 
 
-In case it's not, please email me _<ProjectDRMF@gmail.com>_.
+In case you still expire problems, please email me _<ProjectDRMF@gmail.com>_.

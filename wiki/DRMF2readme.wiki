@@ -2,6 +2,19 @@
 #labels Featured
 <wiki:toc max_depth="4" />
 
+
+#sidebar TableOfContents
+The side navigation that is defined should be in the format of a simple list, as shown below.
+
+  * [Articles HOWTO articles]
+    * [ArticlesXSS Web security]
+    * [ArticlesDom DOM manipulation]
+    * [ArticlesStyle CSS and style]
+    * [ArticlesTips Tips and tricks]
+  * [DOMReference DOM reference]
+  * [HTMLElements HTML reference]
+  * [CSSReference CSS reference]
+
  
 === General ===
     * Must be used with the latest DotA Replay Manager version (>= 3.02b) 

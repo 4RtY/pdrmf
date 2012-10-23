@@ -15,7 +15,7 @@
 
 == 23.10.2012 v1.4 ==
 
-=== Alpha version - Hotfix ===
+* Alpha version - Hotfix *
 
 *~* Fixed the not working playerlist
 

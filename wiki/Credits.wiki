@@ -1,4 +1,3 @@
-== Credits: ==
    * d07.RiV for the DRM :: [http://code.google.com/p/dota-replay-manager DRM's Project Page]
    * Damat & !DonTomaso for the !ReplaySeeker
    * Some persons for testing the first versions of the DRMF

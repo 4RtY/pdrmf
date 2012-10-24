@@ -15,10 +15,13 @@
 
 == 23.10.2012 v1.4 ==
 
+=== Alpha2 version ===
+*~* Fixed playerlist for ID
+
 === Alpha version === 
 *Hotfix due to the playerlist*
 
-*~* Fixed the not working playerlist
+*~* Fixed the not working playerlist for DotA
 
 *~* [https://code.google.com/p/pdrmf/issues/list?can=1&q=v1.3%20status=Verified&colspec=ID%20Summary%20Status%20Priority%20Type%20Opened%20Modified%20Closed%20Reporter Some] changes & bug fixes
 

@@ -18,6 +18,8 @@
 
 *~* Some [https://code.google.com/p/pdrmf/issues/list?can=1&q=v1.4&colspec=ID+Summary+Status+Priority+Type+Opened+Modified+Closed+Reporter&cells=tiles changes & bug fixes]
 
+*+* Added ctrl+r to remove lines containing keywords
+
 == 23.10.2012 v1.4 ==
 
 === Alpha2 version ===

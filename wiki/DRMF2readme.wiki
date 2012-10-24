@@ -52,4 +52,4 @@
      * By default the last result window's content will be searched. However, if you click in another result GUI, it will be taken as the default one.
 
 • ctrl+r :: Options:
-    # Simple enter keywords and the lines containing them will be removed.
+    * Simple enter keywords and the lines containing them will be removed.

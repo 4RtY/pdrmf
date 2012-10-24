@@ -22,12 +22,12 @@
 
 == 23.10.2012 v1.4 ==
 
-=== Alpha2 version ===
+=== • Alpha2 version ===
 *Alpha2.1 / 2.2*
 
 *~* Fixed playerlist for ID
 
-=== Alpha version === 
+=== • Alpha version === 
 *Hotfix due to the playerlist*
 
 *~* Fixed the not working playerlist for DotA

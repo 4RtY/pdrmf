@@ -31,6 +31,8 @@
       # Readme
     * Settings
 
+*+* Added the possibility to change the hotkeys (search, delete, macro, esc(startup)) in the settings for your own needs.
+
 *+* Added ctrl+r to remove lines containing keywords; For both ctrl+f/r will be given a traytip with the amount of found/removed lines
 
 *-* Reload button will *only* reload the settings. I just realized that it's not needed to press the action log because once selected/double clicked the replay in the DRM, the log gets filled with the raw code.

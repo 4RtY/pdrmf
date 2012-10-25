@@ -17,9 +17,10 @@
     * Alt+c to toggle macro on/off
 
 Since you can edit the hotkeys in the settings GUI, the hotkeys are meanwhile disabled until
-    # you exit the gui
-    # save the settings
-    # erase the settings
+    # you exit the gui (current one)
+    # save the settings (new one)
+    # erase the settings (default one)
+and newly added to their functions.
 
 === Copy _(Result GUI)_ ===
     * Right click on a line in the result gui to copy it. You can also right click twice or more to copy multiple specific lines - it will add them to the clipboard

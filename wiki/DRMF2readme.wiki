@@ -50,7 +50,9 @@
      # Depending on the result (if nothing was found, an info box will pop-up), if something was found, then you'll have 3 options as mentioned above.
 
 *• ctrl+r :: Options:*
+    * `[`All`]` Automatically removes all lines (button doesn't exist - it's the default option)
     # Simple enter keywords and the lines containing them will be removed.
+
 
      * Both pop-up windows can be cancelled via button or esc
      * The !ResultCrawler will only work if a result GUI *exists* and *topmost*.

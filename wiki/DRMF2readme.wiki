@@ -14,6 +14,7 @@
     * Alt & Esc to exit the ID or DotA GUI
     * Ctrl+f to start the !ResultCrawler
     * Ctrl+r to remove result lines
+    * Alt+c to toggle macro on/off
 
 === Copy _(Result GUI)_ ===
     * Right click on a line in the result gui to copy it. You can also right click twice or more to copy multiple specific lines - it will add them to the clipboard

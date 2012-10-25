@@ -18,6 +18,19 @@
 
 *~* Some [https://code.google.com/p/pdrmf/issues/list?can=1&q=v1.4&colspec=ID+Summary+Status+Priority+Type+Opened+Modified+Closed+Reporter&cells=tiles changes & bug fixes]
 
+*~* Changed menu to: 
+    * DotA Replay Manager
+    * ReplaySeeker
+    * Tools
+      # EEC
+      # TimeCalc
+      # CoordCalc
+    * Miscellaneous
+      # ID/DotA GUI
+      # Messenger
+      # Readme
+    * Settings
+
 *+* Added ctrl+r to remove lines containing keywords
 
 *-* Reload button will *only* reload the settings. I just realized that it's not needed to press the action log because once double clicked the replay, the log gets filled with the raw code.

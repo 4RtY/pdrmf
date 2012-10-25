@@ -1,5 +1,5 @@
    * d07.RiV for the [http://code.google.com/p/dota-replay-manager DotA Replay Manager]
    * Damat & !DonTomaso for the [http://dotasecrets.wordpress.com/latest-downloads/softwares/replay-parsers/replay-seeker/ ReplaySeeker]
    * Some friends for testing the first versions of the DotA Replay Manager Filter
-   * USers for reporting bugs and suggesting new things.
-   * Autohotkey & the ahk community for their help in some things
+   * Users for reporting bugs and suggesting new things.
+   * [http://www.autohotkey.com/ AutoHotkey] & the ahk community for their help in some things

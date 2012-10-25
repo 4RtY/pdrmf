@@ -20,11 +20,11 @@
 
 *~* Changed menu to: 
     * DotA Replay Manager
-    * ReplaySeeker
+    * !ReplaySeeker
     * Tools
       # EEC
-      # TimeCalc
-      # CoordCalc
+      # !TimeCalc
+      # !CoordCalc
     * Miscellaneous
       # ID/DotA GUI
       # Messenger

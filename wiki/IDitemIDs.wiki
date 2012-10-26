@@ -1,3 +1,4 @@
+#labels Deprecated
 || *Name* || *ItemID* ||
 || Titan & Builder taverns ||
 || Titan Selection (Easy) || n00M ||

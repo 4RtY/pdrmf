@@ -1,3 +1,4 @@
+#labels Featured,Phase-Deploy
 === Using the DRMF2 for the very first time ===
     # First of all [https://code.google.com/p/dota-replay-manager/downloads/list download] the DotA Replay Manager
     # Secondly, if not already done, [https://code.google.com/p/pdrmf/downloads/list download] the DotA Replay Manager Filter 2 `[`DRMF2`]`

@@ -1,1 +1,27 @@
-_Coming soon..._
+#summary Change Log for the Post Format Converter
+<wiki:toc max_depth="3" />
+
+== Legend ==
+*+* Added
+
+*-* Removed
+
+*~* Fixed/Changed
+
+*•* Comment/Info
+
+----
+
+=== 28.10.2012 v1.2 ===
+
+~ Fixed bugs
+
+~ Added a normal complain format as default and staff complain can be toggled
+
+=== 27.10.2012 v1.1 ===
+
++ Added unban appeal and staff complain
+
+=== 26.10.2012 v1.0 ===
+
++ Contains ban request format

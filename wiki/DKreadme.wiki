@@ -2,9 +2,21 @@
 #labels Phase-Implementation
 <wiki:toc max_depth="4" />
 
-=== Builders ===
+=== Modification restrictions ===
+    * You can 
 
+=== Commands ===
+==== CmdMove ====
+==== CmdStop ====
+==== CmdHoldPos ====
+==== CmdAttack ====
+==== CmdPatrol ====
+==== CmdSelectSkill ====
+==== CmdCancel ====
+
+=== Builders ===
 Spells you can modify.
+
 ==== Murloc ====
     * Panic
 ==== Gnoll ====

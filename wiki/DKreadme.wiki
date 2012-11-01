@@ -6,6 +6,7 @@
     * Each time you change a hotkey, you'll need to restart Warcraft 3 to make them work.
     * Don't forget to activate customhotkeys in the Wc3 options.
     * The !DefenseKeys tool does not check for multiple same hotkeys on one unit.
+    * You've to save each edit you are doing with the save button. Selecting a new spell/builder without saving makes them voided.
 
 === Modification restrictions ===
     * You can edit the hotkey, unhotkey, researchhotkey and the tip. Please note to remove or change the hotkey tip else it might confuse you.

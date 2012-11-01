@@ -6,13 +6,20 @@
     * You can 
 
 === Commands ===
-==== CmdMove ====
-==== CmdStop ====
-==== CmdHoldPos ====
-==== CmdAttack ====
-==== CmdPatrol ====
-==== CmdSelectSkill ====
-==== CmdCancel ====
+
+==== !CmdMove ====
+
+==== !CmdStop ====
+
+==== !CmdHoldPos ====
+
+==== !CmdAttack ====
+
+==== !CmdPatrol ====
+
+==== !CmdSelectSkill ====
+
+==== !CmdCancel ====
 
 === Builders ===
 Spells you can modify.

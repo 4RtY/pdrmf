@@ -1,5 +1,5 @@
 // Copy only the content and not this line.
-// The last line are the options and belong in the settings.ini
+// The last line belongs in the settings.ini (the options)
 // Last Update: 01.11.2012
 
 [CmdMove]
@@ -389,7 +389,6 @@ Name="|cff7cfc00Shield of Will Recipe|r"
 Hotkey=W
 Tip="|cff7cfc00Shield of Will Recipe|r"
 [end]
-
 [MightRecipe]
 [MightRecipe]
 [I04H] // Might Recipe
@@ -432,6 +431,5 @@ Name="|cff0000ffSword of the Magistrate|r"
 Tip="|cff0000ffSword of the Magistrate|r"
 Hotkey=
 [end]
-
 
 CmdMove|CmdStop|CmdHoldPos|CmdAttack|CmdPatrol|CmdSelectSkill|CmdCancel|Gather Gold|Gather|Repair|Murloc|Teleport|Gnoll|Dryad|Arachnid|Pirate|Troll|Ogre|Radioactive|Morphling|Tauren|Draenei|Pandaren|Huntress|Demonologist|Faerie Dragon|Goblin|Nature|Magnataur|Satyr|Eye|Wards|Potion|Scroll|Trident|Scales|Shadowstone|TP|ManualP|ManualH|GreaterTurtleRecipe|BracersRecipe|HammerRecipe|WillRecipe|MightRecipe|RingRecipe|CloakRecipe|StoneRecipe|Teleporter|Sword

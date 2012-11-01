@@ -326,7 +326,6 @@ Name="Trident"
 Tip="Purchase Trident +5"
 Hotkey=
 [end]
-
 [Scales]
 [Scales]
 [I03R] // armored scales
@@ -334,7 +333,6 @@ Name="Armored Scales"
 Hotkey=
 Tip="Purchase |cffffd700A|rrmored Scales"
 [end]
-
 [Shadowstone]
 [Shadowstone]
 [I000] // Shadowstone
@@ -370,7 +368,6 @@ Name="Great Turtle Summons Recipe"
 Hotkey=
 Tip="Greater Turtle Summons Recipes"
 [end]
-
 [BracersRecipe]
 [BracersRecipe]
 [I04I] // Runed Bracers Recipe
@@ -378,7 +375,6 @@ Name="Runed Bracers Recipe"
 Hotkey=
 Tip="Runed Bracers Recipe"
 [end]
-
 [HammerRecipe]
 [HammerRecipe]
 [I021] // Hammer Recipe
@@ -386,7 +382,6 @@ Name="|cFF00AEEFStorm Hammer Recipe|r"
 Hotkey=
 Tip="|cFF00AEEFStorm Hammer Recipe|r"
 [end]
-
 [WillRecipe]
 [WillRecipe]
 [I03S] // Will Recipe

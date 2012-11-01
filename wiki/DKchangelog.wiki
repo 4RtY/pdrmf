@@ -16,6 +16,4 @@
 
 *•* Started development
 
-*+* created customkeys syntax
-
-*+* created alpha script for testing purpose of syntax
+*+* Added all builders and commands (attack, hold, etc)

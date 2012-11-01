@@ -1,2 +1,25 @@
+#summary ReadMe for the Post Format Converter
 #labels Phase-Implementation
-_Coming soon..._
+<wiki:toc max_depth="4" />
+
+==== What's needed to fill out? ====
+• Ban Request
+    * Defendants name & gateway
+    * At least one proof (replay/stats link/screenshot)
+    * At least one violated rule
+
+• Unban Appeal
+    * Your account & gateway
+    * The reason to get unbanned
+
+• Complain Format
+    * Your account
+    * the specific complain
+    * the reason for the complain
+    * the reason in general
+
+• Staff complain
+    * Your account
+    * Defendants account & gateway
+    * His staff position
+    * At least one proof (replay/stats link/screenshot)

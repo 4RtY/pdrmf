@@ -1,2 +1,6 @@
-_Coming soon..._
-Starting in 20mins :P
+#summary ReadMe for the merged DotA Replay Manager Filter
+<wiki:toc max_depth="4" />
+
+=== Builders ===
+==== Test ====
+==== Test ====

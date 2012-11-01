@@ -5,11 +5,11 @@
     * Due to the tons of DotA hotkeys, it's not smart to have both ID and DotA hotkeys in one customkeys.txt, so please keep them separated.
     * Each time you change a hotkey, you'll need to restart Warcraft 3 to make them work.
     * Don't forget to activate customhotkeys in the Wc3 options.
-    * The DefenseKeys tool does not check for multiple same hotkeys on one unit.
+    * The !DefenseKeys tool does not check for multiple same hotkeys on one unit.
 
 === Modification restrictions ===
     * You can edit the hotkey, unhotkey, researchhotkey and the tip. Please note to remove or change the hotkey tip else it might confuse you.
-    * You shouldn't modify the CustomKeys.txt due to the syntax. However, if there's an update, you can open the file and paste it in.
+    * You shouldn't modify the !CustomKeys.txt due to the syntax. However, if there's an update, you can open the file and paste it in.
 
 === Concerning Spells ===
     * Some spells have the same spell ID like the teleport of Murloc, Makura and Gnoll. Due to this, you can't edit them in the section of those builders but as an own spell. This also means that you can't have 3 different hotkeys for the spell for these 3 builders.

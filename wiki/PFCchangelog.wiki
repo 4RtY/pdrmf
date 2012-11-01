@@ -14,14 +14,14 @@
 
 === 28.10.2012 v1.2 ===
 
-~ Fixed bugs
+*~* Fixed bugs
 
-~ Added a normal complain format as default and staff complain can be toggled
+*~* Added a normal complain format as default and staff complain can be toggled
 
 === 27.10.2012 v1.1 ===
 
-+ Added unban appeal and staff complain
+*+* Added unban appeal and staff complain
 
 === 26.10.2012 v1.0 ===
 
-+ Contains ban request format
+*+* Contains ban request format

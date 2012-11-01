@@ -1,6 +1,64 @@
 #summary ReadMe for the merged DotA Replay Manager Filter
+#labels Phase-Implementation
 <wiki:toc max_depth="4" />
 
 === Builders ===
-==== Test ====
-==== Test ====
+
+Spells you can modify.
+==== Murloc ====
+    * Panic
+==== Gnoll ====
+    * Sentry Ward
+==== Dryad ====
+    * Flee
+    * Entangling Roots
+==== Arachnid ====
+    * Webstrike
+    * Panic
+==== Pirate ====
+    * Incised Wounds
+    * Disapate
+==== Troll ====
+    * Windwalk
+==== Ogre ====
+    * Fart Cloud
+    * Bloodlust
+==== Radioactive ====
+    * isotopic Shield
+==== Morphling ====
+    * Builder Form
+    * Spell Shield
+==== Tauren ====
+    * Charge
+    * Combat Skills
+==== Draenei ====
+    * Portal
+    * Mana Shield
+==== Pandaren ====
+    * Storm, Earth, and Fire
+    * Elemental Legends
+    * _(Panda Storm)_ Hurricane Winds
+==== Huntress ====
+    * Dash
+    * Combat Skills
+    * Summon Spirit Companion
+==== Demonologist ====
+    * Book of Demonology
+    * Nether Warp
+==== Faerie Dragon ====
+    * Panic
+    * Skill Menu
+==== Goblin ====
+    * Mechanical Trap
+    * Panic
+==== Nature ====
+    * Wind Walk
+    * Panic
+==== Magnataur ====
+    * Ledger of Mystics
+    * Polar Wrath
+    * Frostbite
+==== Satyr ====
+    * Combat Skills
+    * Blur
+    * Shadow Dash

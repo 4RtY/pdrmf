@@ -65,3 +65,16 @@ If enabled it will also clear the clipboard each time a new filter GUI was initi
      * Both pop-up windows can be cancelled via button or esc
      * The !ResultCrawler will only work if a result GUI *exists* and *topmost*.
      * By default the last result window's content will be searched. However, if you click in another result GUI, it will be taken as the default one.
+
+==== EnemyClickChecker ====
+*• Syntax:*
+    * c u (check <user>)
+Lists you all hero/wards/side & secret shop clicks of the user.
+    * c u t (check <user> <time>)
+Lists you all hero/wards/side & secret shop clicks of the user until time t.
+    * t u (team <user>)
+Outputs in which team and on which slot the user is (works only for 5vs5).
+    * t (team)
+Displays both teams (color=user)
+
+Altouhg it's in the menu for Island Defense, too, it won't work with it _(will probably be removed soon)_.

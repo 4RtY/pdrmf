@@ -1,6 +1,6 @@
 // Copy only the content and not this line.
-// The last line belongs in the settings.ini (the options)
-// Last Update: 01.11.2012
+// The last line are the options and belong in the settings.ini
+// Last Update: 02.11.2012
 
 [CmdMove]
 [CmdMove] // Command Move
@@ -431,5 +431,12 @@ Name="|cff0000ffSword of the Magistrate|r"
 Tip="|cff0000ffSword of the Magistrate|r"
 Hotkey=
 [end]
+[Blink]
+[Blink] // Speed Turtle, Balthasar,  Greater Gnoll Tracker, Gnoll Tracker, Furbolg Shaman, Spearloc, Stone Thrower, Abominable Snow Man, Greater Speed Turtle, Tauren Guard
+[AIbk] // Blink 
+Name="Blink"
+Tip="Blink (|cffffd700B|r)"
+Hotkey=B
+[end]
 
-CmdMove|CmdStop|CmdHoldPos|CmdAttack|CmdPatrol|CmdSelectSkill|CmdCancel|Gather Gold|Gather|Repair|Murloc|Teleport|Gnoll|Dryad|Arachnid|Pirate|Troll|Ogre|Radioactive|Morphling|Tauren|Draenei|Pandaren|Huntress|Demonologist|Faerie Dragon|Goblin|Nature|Magnataur|Satyr|Eye|Wards|Potion|Scroll|Trident|Scales|Shadowstone|TP|ManualP|ManualH|GreaterTurtleRecipe|BracersRecipe|HammerRecipe|WillRecipe|MightRecipe|RingRecipe|CloakRecipe|StoneRecipe|Teleporter|Sword
+CmdMove|CmdStop|CmdHoldPos|CmdAttack|CmdPatrol|CmdSelectSkill|CmdCancel|Gather Gold|Gather|Repair|Teleport|Blink|Murloc|Gnoll|Dryad|Arachnid|Pirate|Troll|Ogre|Radioactive|Morphling|Tauren|Draenei|Pandaren|Huntress|Demonologist|Faerie Dragon|Goblin|Nature|Magnataur|Satyr|Eye|Wards|Potion|Scroll|Trident|Scales|Shadowstone|TP|ManualP|ManualH|GreaterTurtleRecipe|BracersRecipe|HammerRecipe|WillRecipe|MightRecipe|RingRecipe|CloakRecipe|StoneRecipe|Teleporter|Sword

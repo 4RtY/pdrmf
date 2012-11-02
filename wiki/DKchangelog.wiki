@@ -12,7 +12,7 @@
 
 ----
 
-=== x.y.2012 v1.2 ===
+=== x.y.z v1.2 ===
 
 *~* Changes the text "Please select a builder.." to "Please select an option.."
 

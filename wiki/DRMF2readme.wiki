@@ -67,7 +67,7 @@ If enabled it will also clear the clipboard each time a new filter GUI was initi
      * By default the last result window's content will be searched. However, if you click in another result GUI, it will be taken as the default one.
 
 ==== !EnemyClickChecker ====
-*• Syntax:*
+*• Syntax, description and exmaples*
     * c u (check `<`user`>`)
 Lists you all hero/wards/side & secret shop clicks of the user. Example: c aRt)Y
 

@@ -70,11 +70,18 @@ If enabled it will also clear the clipboard each time a new filter GUI was initi
 *• Syntax:*
     * c u (check `<`user`>`)
 Lists you all hero/wards/side & secret shop clicks of the user.
+Example: c aRt)Y
+
     * c u t (check `<`user`>` `<`time`>`) `[`time syntax: minutes:seconds`]`
 Lists you all hero/wards/side & secret shop clicks of the user until time t.
+Example: c aRt)Y 23:00
+
     * t u (team `<`user`>`)
 Outputs in which team and on which slot the user is (works only for 5vs5).
+Example: t aRt)Y
+
     * t (team)
 Displays both teams (color=user)
+Example: t
 
 Altouhg it's in the menu for Island Defense, too, it won't work with it _(will probably be removed soon)_.

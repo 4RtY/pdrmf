@@ -12,7 +12,11 @@
 
 ----
 
-=== x.y.z v1.2 ===
+=== 04.11.2012 v1.2 ===
+
+*~* Rewrote installer start-up
+
+*+* Added traytip if option doesn't exit.
 
 *~* Changes the text "Please select a builder.." to "Please select an option.."
 

@@ -97,6 +97,7 @@ To sum this up: At the beginning of a game, make sure the hotkeys are working co
     * Nether Warp
 ==== Faerie Dragon ====
     * Panic
+    * Blink
     * Skill Menu
 ==== Goblin ====
     * Mechanical Trap

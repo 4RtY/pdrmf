@@ -18,6 +18,8 @@
 
 *~* Changed the link in the info box to link to the DKreadme and not to the DRMF2readme (added wrong one by mistake)
 
+*+* Added scroll bar
+
 === 01.11.2012 v1.1 ===
 
 *~* Fixed a bug which didn't refresh the GUI content correctly

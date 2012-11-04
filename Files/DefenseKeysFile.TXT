@@ -1,6 +1,5 @@
-// Copy only the content and not this line.
 // The last line are the options and belong in the settings.ini
-// Last Update: 02.11.2012
+// Last Update: 04.11.2012
 
 [CmdMove]
 [CmdMove] // Command Move
@@ -154,6 +153,14 @@ Hotkey=L
 Name=Spell Shield
 Tip="Spell Shield"
 Hotkey=
+[A07G] // Builder switch from warrior
+Name="Builder Form"
+Tip="Bui|cffffcc00l|rder Form","Bui|cffffcc00l|rder Form"
+Hotkey=L
+[A07E] // Beast form
+Name="Hunter Form"
+Tip="B|cffffcc00e|rast Form","B|cffffcc00e|rast Form"
+Hotkey=E
 [end]
 [Tauren]
 [Tauren]
@@ -232,6 +239,10 @@ Name="Enchanted Ledger"
 Tip="Enchanted Le|cffffcc00d|rger"
 Unhotkey=D
 Hotkey=D
+[A0A7] // Blink
+Name=Blink
+Tip="(|cffffcc00X|r) Blink","|cffffcc00B|rlink - [|cffffcc00Level 2|r]","|cffffcc00B|rlink - [|cffffcc00Level 3|r]"
+Hotkey=X
 [end]
 [A0A7] // Blink
 Name=Blink
@@ -439,4 +450,4 @@ Tip="Blink (|cffffd700B|r)"
 Hotkey=B
 [end]
 
-CmdMove|CmdStop|CmdHoldPos|CmdAttack|CmdPatrol|CmdSelectSkill|CmdCancel|Gather Gold|Gather|Repair|Teleport|Blink|Murloc|Gnoll|Dryad|Arachnid|Pirate|Troll|Ogre|Radioactive|Morphling|Tauren|Draenei|Pandaren|Huntress|Demonologist|Faerie Dragon|Goblin|Nature|Magnataur|Satyr|Eye|Wards|Potion|Scroll|Trident|Scales|Shadowstone|TP|ManualP|ManualH|GreaterTurtleRecipe|BracersRecipe|HammerRecipe|WillRecipe|MightRecipe|RingRecipe|CloakRecipe|StoneRecipe|Teleporter|Sword
+// CmdMove|CmdStop|CmdHoldPos|CmdAttack|CmdPatrol|CmdSelectSkill|CmdCancel|Gather Gold|Gather|Repair|Teleport|Blink|Murloc|Gnoll|Dryad|Arachnid|Pirate|Troll|Ogre|Radioactive|Morphling|Tauren|Draenei|Pandaren|Huntress|Demonologist|Faerie Dragon|Goblin|Nature|Magnataur|Satyr|Eye|Wards|Potion|Scroll|Trident|Scales|Shadowstone|TP|ManualP|ManualH|GreaterTurtleRecipe|BracersRecipe|HammerRecipe|WillRecipe|MightRecipe|RingRecipe|CloakRecipe|StoneRecipe|Teleporter|Sword

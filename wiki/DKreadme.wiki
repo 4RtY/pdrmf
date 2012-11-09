@@ -75,8 +75,7 @@ To sum this up: At the beginning of a game, make sure the hotkeys are working co
 ==== Radioactive ====
     * isotopic Shield
 ==== Morphling ====
-    * Builder Form
-    * Spell Shield
+    * Builder Form _(one hotkey which toggles between the forms)_
     * Beast Form
 ==== Tauren ====
     * Charge

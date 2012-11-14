@@ -7,6 +7,7 @@
     * Don't forget to activate customhotkeys in the Wc3 options.
     * The !DefenseKeys tool does not check for multiple same hotkeys on one unit.
     * You've to save each edit you are doing with the save button. Selecting a new spell/builder without saving makes them voided.
+    * Since the DefenseKeysFile update of the 14th Nov., I've added 'keywords' like _--- Secret Shop ---_ for a better overview. But the DK tool won't find these in the customkeys and trigger a traytip. I could change that in a new version but I don't think it's needed. *You can remove them at any time in the settings.ini*
 
 === Modification restrictions ===
     * You can edit the hotkey, unhotkey, researchhotkey and the tip. Please note to remove or change the hotkey tip else it might confuse you.

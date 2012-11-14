@@ -25,6 +25,9 @@
 
 *~* Some changes to the information pop-up box
 
+*~* Updated default script list options
+
+*~* Increased default amount of rows of 10 to 20
 
 === 04.11.2012 v1.3 ===
 

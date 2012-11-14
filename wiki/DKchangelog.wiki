@@ -12,6 +12,20 @@
 
 ----
 
+=== v1.4 ===
+
++ Added a checkbox to toggle customkeys state in Warcraft
+
++ Added a menu to open
+    * Customkeys
+    * Online readme
+    * Online changelog
+
++ Options containing _---_ don't count as an option and won't out-put an error (*---* was added as list structure for the overview)
+
+~ Some changes to the information pop-up box
+
+
 === 04.11.2012 v1.3 ===
 
 *~* The modification wasn't taken over. Had to fix it.

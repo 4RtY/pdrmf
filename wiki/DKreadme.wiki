@@ -1,5 +1,5 @@
 #summary ReadMe for the merged DotA Replay Manager Filter
-<wiki:toc max_depth="4" />
+<wiki:toc max_depth="3" />
 
 === General notes ===
     * Due to the tons of DotA hotkeys, it's not smart to have both ID and DotA hotkeys in one customkeys.txt, so please keep them separated.

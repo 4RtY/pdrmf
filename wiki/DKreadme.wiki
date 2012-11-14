@@ -123,36 +123,36 @@ To sum this up: At the beginning of a game, make sure the hotkeys are working co
     * TP
     * ManualP
     * ManualH
-    * GreaterTurtleRec
-    * BracersRec
-    * HammerRec
-    * WillRec
-    * MightRec
-    * RingRec
-    * CloakRec
+    * !GreaterTurtleRec
+    * !BracersRec
+    * !HammerRec
+    * !WillRec
+    * !MightRec
+    * !RingRec
+    * !CloakRec
     * StoneRec
     * Teleporter
     * Sword
 === Merchant of Recipes ===
-    * DominatorRec
-    * AnkhRec 
-    * ArmorFateRec
-    * GauntletsRec
-    * ShadowCatcherRec
-    * LifeEssRec
+    * !DominatorRec
+    * !AnkhRec 
+    * !ArmorFateRec
+    * !GauntletsRec
+    * !ShadowCatcherRec
+    * !LifeEssRec
 === Merchant of Consumables ===
     * Chimaera
-    * ReplenishmentPotion
+    * !ReplenishmentPotion
     * Wand
-    * StaffOfTeleporter
+    * !StaffOfTeleporter
     * _Eye, ward and scroll are in the secret shop and can be changed there_
 === Merchant of Artifacts ===
-    * WindCatcher
+    * !WindCatcher
     * Pearl
-    * MoonCrystal
-    * MagicCoral
-    * AbysmalWater
-    * TridentOfPower
-    * GemOfHaste
+    * !MoonCrystal
+    * !MagicCoral
+    * !AbysmalWater
+    * !TridentOfPower
+    * !GemOfHaste
     * Webbed
-    * RegSpines
+    * !RegSpines

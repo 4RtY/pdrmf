@@ -12,7 +12,7 @@
 
 ----
 
-=== v1.3 ===
+=== 19.11.2012 v1.3 ===
 
 *•* Preview still has the old format (shows n/a)
 

@@ -14,6 +14,8 @@
 
 === v1.3 ===
 
+*•* Preview still has the old format (shows n/a)
+
 *~* Added code to only add details to the post which are filled out (so no _n/a_ anymore --- *Ban request* only in this version)
 
 *~* Violated rules are counted. Means: If there're only 2 rules given (e.g. rule1 and rule4, then the post won't contain 1. and 4. but 1. and 2.)

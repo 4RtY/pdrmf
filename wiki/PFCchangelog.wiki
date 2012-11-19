@@ -14,7 +14,7 @@
 
 === v1.3 ===
 
-*~* Added code to only add details to the post which are filled out (so no _n/a_ anymore)
+*~* Added code to only add details to the post which are filled out (so no _n/a_ anymore --- *Ban request* only in this version)
 
 *~* Violated rules are counted, so the post won't contain: 1., 4.
 

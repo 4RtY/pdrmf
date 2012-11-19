@@ -23,3 +23,11 @@
     * Defendants account & gateway
     * His staff position
     * At least one proof (replay/stats link/screenshot)
+
+==== Settings ====
+    * Version _(Will be overwritten)_
+    * DefaultRules _(Will be overwritten)_
+
+The following settings will be saved and added to the new settings: Types, Positions, Accounts, Defendants, ClearFields1
+
+    * ClearFields1 _(If enabled (1), it clears all fields in the format after pressed 'Convert')_

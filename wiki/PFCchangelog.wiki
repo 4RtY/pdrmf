@@ -22,9 +22,9 @@
 
 *~* Added an option in the settings to enable clearing of all fields (only for *Ban request* in this version)
 
-*+* Added some rules: Refusing to leave the base, Suiciding on purpose and some others I currently can't think off
-
 *~* Changed the pop-up box's (when no proof(s) given) content a little bit to understand easier what the buttons will do
+
+*+* Added some rules: Refusing to leave the base, Suiciding on purpose and some others I currently can't think off
 
 === 28.10.2012 v1.2 ===
 

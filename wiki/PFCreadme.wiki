@@ -25,7 +25,7 @@
     * At least one proof (replay/stats link/screenshot)
 
 ==== Settings ====
-    * !Version _(Will be overwritten)_
+    * Version _(Will be overwritten)_
     * !DefaultRules _(Will be overwritten)_
 
 The following settings will be saved and added to the new settings: Types, Positions, Accounts, Defendants, ClearFields1

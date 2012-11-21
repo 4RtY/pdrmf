@@ -16,14 +16,14 @@ All the steps above aren't needed for the second time (if you haven't deleted th
 Starting the DRM first:
     # Choose a replay
     # Start the DRMF2 (it will now load the playerlist)
-    # Press load in the DRMF2 to load the action log (so you don't need to choose the tab and the button of the DRM)
+    # _Press load in the DRMF2 to load the action log (so you don't need to choose the tab and the button of the DRM)_
     # Choose the desired option and profit
 
 Starting the DRMF2 first:
     # Start the DRM (via menu)
     # Choose a replay
     # Press Refresh Playerlist
-    # Press Reload
+    # _Press Reload_
     # Choose the desired option and profit
 
-In the latest version, the reload button is only for reloading the settings. Once you selected (/double clicked) a replay, the raw action log is automatically written into the log.txt, so it doesn't need to be reloaded. *Pressing the reload button isn't anymore.*
+In the latest version, the reload button is only for reloading the settings. Once you selected (/double clicked) a replay, the raw action log is automatically written into the log.txt, so it doesn't need to be reloaded. *Pressing the reload button isn't needed anymore.*

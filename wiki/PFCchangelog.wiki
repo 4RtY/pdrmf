@@ -14,6 +14,8 @@
 
 === v1.4 ===
 
+*+* Added _ClearFields2_ for ban appeal fields (1 to clear all fields after converting, 0 to turn it off)
+
 *+* Added 'smart-converter' (to leave out n/a details) for
     * Ban request review
     * Ban appeal post

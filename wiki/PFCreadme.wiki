@@ -28,7 +28,12 @@
     * Version _(Will be overwritten)_
     * !DefaultRules _(Will be overwritten)_
 
-The following settings will be saved and added to the new settings: Types, Positions, Accounts, Defendants, ClearFields1, ClearFields2
+The following settings will be saved and added to the new settings: Types, Positions, Accounts, Defendants, !ClearFields1, !ClearFields2, ssLink, replayLink, statsLink
 
     * !ClearFields1 _(If enabled (1), it clears all fields in the ban request format after pressed 'Convert')_
     * !ClearFields2 _(If enabled (1), it clears all fields in the ban appeal format after pressed 'Convert')_
+    * ssLink - Screenshot link to open if pressed on the text field
+    * replayLink - Opens the link to upload a replay
+    * statsLink - Runs the BGN's game stats page
+
+All these links can be modified to your own needs.

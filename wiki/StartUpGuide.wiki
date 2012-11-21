@@ -25,3 +25,5 @@ Starting the DRMF2 first:
     # Press Refresh Playerlist
     # Press Reload
     # Choose the desired option and profit
+
+In the latest version, the reload button is only for reloading the settings. Once you selected (/double clicked) a replay, the raw action log is automatically written into the log.txt, so it doesn't need to be reloaded. *Pressing the reload button isn't anymore.*

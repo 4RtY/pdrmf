@@ -18,7 +18,7 @@
 
 *+* If clicked on stats, replay or screenshot (the text), then the sites (stats page, dotaparser.net and imgur.com) will open; you can edit/change the links in the settings
 
-*~* Fixed typo: Defendants'* -> Defendant*'s*
+*~* Fixed typo: Defendant*s'* -> Defendant*'s*
 
 === 19.11.2012 v1.3 ===
 

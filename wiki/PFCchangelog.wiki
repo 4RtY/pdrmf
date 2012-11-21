@@ -14,7 +14,10 @@
 
 === v1.4 ===
 
-*+* Added the 'smart-converter' to the preview as well (see v1.3 for ban requests)
+*+* Added 'smart-converter' (to leave out n/a details) for
+    * Ban request review
+    * Ban appeal post
+    * Ban appeal review
 
 *+* If clicked on stats, replay or screenshot (the text), then the sites (stats page, dotaparser.net and imgur.com) will open; you can edit/change the links in the settings
 

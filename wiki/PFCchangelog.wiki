@@ -12,6 +12,10 @@
 
 ----
 
+=== v1.4 ===
+
+*+* If clicked on stats, replay or screenshot (the text), then the sites (stats page, dotaparser.net and imgur.com) will open
+
 === 19.11.2012 v1.3 ===
 
 *•* Preview still has the old format (shows n/a)

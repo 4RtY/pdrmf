@@ -27,6 +27,12 @@
     * Defendants' -> Defendant's
     * Typ -> Type
 
+*~* Changed the taskbar icon to the window's notepad's one
+
+*-* Removed tray and window icon
+
+*-* Removed minimize and maximize buttons in the window title
+
 === 19.11.2012 v1.3 ===
 
 *•* Preview still has the old format (shows n/a)

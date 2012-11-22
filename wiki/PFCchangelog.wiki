@@ -26,6 +26,9 @@
 *~* Fixed typos
     * Defendants' -> Defendant's
     * Typ -> Type
+    * Fixed same typos in traytips
+
+*~* Fixed the clearfield option with same name as already in the list and also with emty input
 
 *~* Changed the taskbar icon to the window's notepad's one
 

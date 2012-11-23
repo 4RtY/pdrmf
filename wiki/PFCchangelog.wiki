@@ -14,6 +14,8 @@
 
 === v1.4 ===
 
+*+* Added automatically adding _<BGN> Island Defense #_ if chosing the typ _Wc3 Island Defense_. If chosen DotA/Custom, the field will be cleared.
+
 *+* Added _ClearFields2_ for ban appeal fields (1 to clear all fields after converting, 0 to turn it off)
 
 *+* Added 'smart-converter' (to leave out n/a details) for

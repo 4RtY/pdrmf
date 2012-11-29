@@ -13,7 +13,8 @@
 
 ----
 
-== x.y.z v1.5 ==
+== 29.11.2012 v1.5 ==
+=== Last version except for minor bug fixes in the v1.5 series ===
 *This version will be the stable one because the hotfix v1.4 alpha2 is unfinished.*
 
 *~* Some [https://code.google.com/p/pdrmf/issues/list?can=1&q=v1.4&colspec=ID+Summary+Status+Priority+Type+Opened+Modified+Closed+Reporter&cells=tiles changes & bug fixes]
@@ -36,6 +37,8 @@
 *+* Added the possibility to change the hotkeys (search, delete, macro, esc(startup)) in the settings for your own needs.
 
 *+* Added ctrl+r to remove lines containing keywords; For both ctrl+f/r will be given a traytip with the amount of found/removed lines
+
+*+* Added two links which will help you to use the full hotkey customizing power of AutoHotkey
 
 *-* Reload button will *only* reload the settings. I just realized that it's not needed to press the action log because once selected/double clicked the replay in the DRM, the log gets filled with the raw code.
 

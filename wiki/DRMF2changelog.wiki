@@ -40,7 +40,7 @@ except for minor bug fixes in the v1.5 series
 
 *+* Added ctrl+r to remove lines containing keywords; For both ctrl+f/r will be given a traytip with the amount of found/removed lines
 
-*+* Added two links which will help you to use the full hotkey customizing power of AutoHotkey
+*+* Added two links which will help you to use the full hotkey customizing power of !AutoHotkey
 
 *-* Reload button will *only* reload the settings. I just realized that it's not needed to press the action log because once selected/double clicked the replay in the DRM, the log gets filled with the raw code.
 

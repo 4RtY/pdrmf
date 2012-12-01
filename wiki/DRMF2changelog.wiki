@@ -13,6 +13,14 @@
 
 ----
 
+== Unofficial changes ==
+
+*+* Added drag and drop (if dropped a replay on any GUI, the replay will be opened in the DRM)
+
+*~* Fixed the default option (didn't work)
+
+*~* The startup now appears after setting up the config (first install) - wasn't worked either
+
 == 29.11.2012 v1.5 ==
 === Last version === 
 except for minor bug fixes in the v1.5 series 

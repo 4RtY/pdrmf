@@ -19,7 +19,7 @@
 
 *~* Fixed the default option (didn't work)
 
-*~* The startup now appears after setting up the config (first install) - wasn't working either
+*~* The startup now appears after setting up the config in the first install process (didn't work)
 
 *~* Fixed the miscellaneous submenu to have doubled items (GUI ID *&* GUI DotA)
 

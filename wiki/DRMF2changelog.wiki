@@ -19,7 +19,7 @@
 
 *~* Fixed the default option (didn't work)
 
-*~* The startup now appears after setting up the config (first install) - wasn't worked either
+*~* The startup now appears after setting up the config (first install) - wasn't working either
 
 == 29.11.2012 v1.5 ==
 === Last version === 

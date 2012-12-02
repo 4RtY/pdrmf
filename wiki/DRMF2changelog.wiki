@@ -74,7 +74,7 @@ except for minor bug fixes in the v1.5 series
 
 *~* The _!MoveFilter_ option has been renamed to _MoveGUIs_ as it now also moves the DRM if opened via the menu.
 
-*+* Added '!ResultCrawler' _(see readme)_
+*+* Added '!ResultCrawler' (see [https://code.google.com/p/pdrmf/wiki/DRMF2readme readme])
 
 *-* Removed the debugging ctrl+d hotkey which presses the load button in the DRM (forgot to remove)
 

@@ -15,7 +15,7 @@
 
 == Unofficial changes v1.5.1 ==
 
-*+* Added drag and drop (if dropped a replay on any GUI, the replay will be opened in the DRM)
+*+* Added drag and drop (if dropped a replay on any GUI, the replay will be opened in the DRM and playerlist loaded)
 
 *~* Fixed the default option
 

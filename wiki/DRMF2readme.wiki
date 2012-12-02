@@ -81,3 +81,7 @@ Outputs in which team and on which slot the user is (works only for 5vs5). Examp
 Displays both teams (the users and the colour). Example: t
 
 Altouhg it's in the menu for Island Defense, too, it won't work with it _(will probably be removed soon)_.
+
+==== Drag & Drop ====
+
+_Coming soon..._

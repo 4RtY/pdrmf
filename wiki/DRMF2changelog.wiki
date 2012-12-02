@@ -15,7 +15,7 @@
 
 == Unofficial changes v1.5.1 ==
 
-*+* Added drag and drop (if dropped a replay on any GUI, the replay will be opened in the DRM and playerlist loaded)
+*+* Added drag and drop (see [https://code.google.com/p/pdrmf/wiki/DRMF2readme readme])
 
 *~* Fixed the default option
 

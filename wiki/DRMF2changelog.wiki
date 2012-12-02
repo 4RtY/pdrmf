@@ -13,13 +13,15 @@
 
 ----
 
-== Unofficial changes ==
+== Unofficial changes v1.5.1 ==
 
 *+* Added drag and drop (if dropped a replay on any GUI, the replay will be opened in the DRM)
 
-*~* Fixed the default option (didn't work)
+*~* Fixed the default option
 
-*~* The startup now appears after setting up the config in the first install process (didn't work)
+*~* Fixed the update process which didn't trigger the startup GUI after the update
+
+*~* Fixed the startup to now appear after setting up the config in the first install process
 
 *~* Fixed the miscellaneous submenu to have doubled items (GUI ID *&* GUI DotA)
 

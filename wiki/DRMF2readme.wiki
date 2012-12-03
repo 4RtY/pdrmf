@@ -84,4 +84,4 @@ Altouhg it's in the menu for Island Defense, too, it won't work with it _(will p
 
 ==== Drag & Drop ====
 
-_Coming soon..._
+You can simple drag a replay/file (must have .w3g extension) on one of the three GUIs and it will open the replay with the DRM. After 1.5 seconds, the playerlist will be refreshed automatically.

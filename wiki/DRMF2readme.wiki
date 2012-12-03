@@ -80,8 +80,6 @@ Outputs in which team and on which slot the user is (works only for 5vs5). Examp
     * t (team)
 Displays both teams (the users and the colour). Example: t
 
-Altouhg it's in the menu for Island Defense, too, it won't work with it _(will probably be removed soon)_.
-
 ==== Drag & Drop ====
 
 You can simple drag a replay/file (must have .w3g extension) on one of the three GUIs and it will open the replay with the DRM. After 1.5 seconds, the playerlist will be refreshed automatically.

@@ -13,7 +13,7 @@
 
 ----
 
-== Unofficial changes v1.5.1 ==
+== v1.5 series: v1.5.1 ==
 
 *+* Added drag and drop (see [https://code.google.com/p/pdrmf/wiki/DRMF2readme readme])
 

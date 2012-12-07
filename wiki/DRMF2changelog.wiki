@@ -13,6 +13,19 @@
 
 ----
 
+
+=== v1.5.1 ===
+
+*+* Added drag and drop (see [https://code.google.com/p/pdrmf/wiki/DRMF2readme readme])
+
+*~* Fixed the default option
+
+*~* Fixed the update process which didn't trigger the startup GUI after the update
+
+*~* Fixed the startup to now appear after setting up the config in the first install process
+
+*~* Fixed the miscellaneous submenu to have doubled items (GUI ID *&* GUI DotA)
+
 == 29.11.2012 v1.5 -Stable- ==
 
 Last version except for minor bug fixes in the v1.5 series 
@@ -45,18 +58,6 @@ Last version except for minor bug fixes in the v1.5 series
 *-* Reload button will *only* reload the settings. I just realized that it's not needed to press the action log because once selected/double clicked the replay in the DRM, the log gets filled with the raw code.
 
 *-* Removed EEC from ID menu
-
-=== v1.5.1 ===
-
-*+* Added drag and drop (see [https://code.google.com/p/pdrmf/wiki/DRMF2readme readme])
-
-*~* Fixed the default option
-
-*~* Fixed the update process which didn't trigger the startup GUI after the update
-
-*~* Fixed the startup to now appear after setting up the config in the first install process
-
-*~* Fixed the miscellaneous submenu to have doubled items (GUI ID *&* GUI DotA)
 
 == 23.10.2012 v1.4 ==
 

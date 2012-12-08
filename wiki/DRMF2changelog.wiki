@@ -28,6 +28,8 @@
 
 *~* !VersionCheck.ini is now hidden
 
+*~* Modifier hotkey link in the settings (tab: hotkeys) has been changed to a more detailed one
+
 == 29.11.2012 v1.5 -Stable- ==
 
 Last version except for minor bug fixes in the v1.5 series 

@@ -34,11 +34,7 @@
 
 *~* Modifier hotkey link in the settings (tab: hotkeys) has been changed to a more detailed one
 
-== 29.11.2012 v1.5 -Stable- ==
-
-Last version except for minor bug fixes in the v1.5 series 
-
-*This version is the stable one.*
+== 29.11.2012 v1.5 ==
 
 *~* Some [https://code.google.com/p/pdrmf/issues/list?can=1&q=v1.4&colspec=ID+Summary+Status+Priority+Type+Opened+Modified+Closed+Reporter&cells=tiles changes & bug fixes]
 

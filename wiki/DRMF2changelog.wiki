@@ -26,7 +26,7 @@
 
 *~* Fixed the miscellaneous submenu to have doubled items (GUI ID *&* GUI DotA)
 
-*~* VersionCheck.ini is now hidden
+*~* !VersionCheck.ini is now hidden
 
 == 29.11.2012 v1.5 -Stable- ==
 

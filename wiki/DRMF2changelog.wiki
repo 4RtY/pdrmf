@@ -20,7 +20,7 @@
 
 *+* Added _Update_ back to the menues in case someone uses the instant GUIs instead of start-up
 
-*~* Fixed the playerlist algorithm which now compiles the list to 99% (before there were cases that a keyword didn't appear which stopped the process).
+*~* Improved the playerlist algorithm which now compiles the list to 99% (before there were cases that a keyword didn't appear which stopped the process).
 
 *~* Fixed the default option
 

@@ -1,1 +1,21 @@
-_Coming soon..._
+#summary Change Log for the Post Format Converter
+<wiki:toc max_depth="3" />
+
+== Legend ==
+*+* Added
+
+*-* Removed
+
+*~* Fixed/Changed
+
+*•* Comment/Info
+
+----
+
+=== v1.1 ===
+
+*+* If the copy option is enabled and you click on the traytip, the current/last gamename (depending on traytip) will be copied
+
+=== 11.12.2012 v1.0 ===
+
+• Release

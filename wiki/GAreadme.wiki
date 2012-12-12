@@ -1,1 +1,4 @@
+#summary Readme for the Game Announcer
+<wiki:toc max_depth="3" />
+
 _Coming soon..._

@@ -1,4 +1,4 @@
-#summary Change Log for the Post Format Converter
+#summary Change Log for the Game Announcer
 <wiki:toc max_depth="3" />
 
 == Legend ==

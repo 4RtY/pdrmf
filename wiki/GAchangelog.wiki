@@ -16,6 +16,8 @@
 
 *+* If the copy option is enabled and you click on the traytip, the current/last gamename (depending on traytip) will be copied
 
+*~* Fixed typo in the message box on first start
+
 === 11.12.2012 v1.0 ===
 
 • Release

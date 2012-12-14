@@ -14,7 +14,10 @@
 
 === v1.1 ===
 
-*+* Added some notifications and erros _[https://code.google.com/p/pdrmf/issues/list?can=1&q=GA here]_
+*+* Added notifications and errors
+    * If an internet connection isn't available
+    * If Internet Explorer doesn't exit anymore
+    * If the site content couldn't be reached
 
 *+* If the copy option is enabled and you click on the traytip, the current/last gamename (depending on traytip) will be copied
 

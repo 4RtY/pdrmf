@@ -14,6 +14,8 @@
 
 === v1.1 ===
 
+*+* Added hotkeys (start, stop, pause toggling)
+
 *+* Added notifications and errors
     * If an internet connection isn't available
     * If Internet Explorer doesn't exit anymore

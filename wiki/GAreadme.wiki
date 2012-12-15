@@ -11,7 +11,7 @@
     * Version : Should not be changed
     * !AntiSpam : The delay in seconds until the page will be refreshed and filtered again. Should be set to 5 for new/incoming games.
     * IEerror : Since the Interent Explorer is needed, the GA will check if it's installed. In case, it errors because it didn't find it, although it's there, set it to 1 to disable the GA's error
-    * RefreshDelay : The GA waits for the IE to finish refreshing the site. It's checking every x millisconds when it's done (x = the number you entered). Although, it should work with a pretty low number as well, tests have proven, it's fixing this problem with a higher one.
+    * !RefreshDelay : The GA waits for the IE to finish refreshing the site. It's checking every x millisconds when it's done (x = the number you entered). Although, it should work with a pretty low number as well, tests have proven, it's fixing this problem with a higher one. Just test it out yourself.
     * !DisableSound : If set to 1, it disables the sound on new/incoming games
     * !DisableNotifications : If set to 1, it disables the notification system. But the board keeps updated.
     * Gamename1 : Is the main game with the highest priority. The notification system will only work for this one. It still appears on the game board.

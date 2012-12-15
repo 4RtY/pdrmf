@@ -36,6 +36,8 @@ I highly recommend you reading the page whose link is in the settings (!HotkeyMo
     * Settings : Opens the settings to edit them
     * Reload : Reloads the settings while the program is running, so you don't need to restart it
 
+    * Press alt to allow temporarily hotkey short cuts for toggle, settings and reload 
+
 === Game board ===
     * In the case a gamename wasn't found, it's line (same as the gamename number. E.g. Gamename1 is Island Defense, so Island Defense will also be in the first line) will be emty.
     * By right clicking on a line, the gamename will be copied, except it's emty.

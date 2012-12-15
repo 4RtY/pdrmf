@@ -31,6 +31,8 @@
 
 *~* Fixed some more bugs, etc.
 
+*~* Renamed Statistics to Game Board
+
 === 11.12.2012 v1.0 ===
 
 • Release

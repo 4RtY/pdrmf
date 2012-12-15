@@ -22,6 +22,8 @@ It's actually pretty simple. GA filters and checks if the line contains the keyw
     * Version : Should not be changed
     * !AntiSpam : The delay in seconds until the page will be refreshed and filtered again. Should be set to 5 for new/incoming games.
     * IEerror : Since the Interent Explorer is needed, the GA will check if it's installed. In case, it errors because it didn't find it, although it's there, set it to 1 to disable the GA's error
+    * DisableSound : If set to 1, it disables the sound on new/incoming games
+    * DisableNotifications : If set to 1, it disables the notification system. But the board keeps updated.
     * Gamename1 : Is the main game with the highest priority. The notification system will only work for this one. It still appears on the game board.
     * Gamename2-8 : Are only listed on the board
     * CopyNewGN : The notification system will automatically copy the new gamename of your _Gamename1_ game. If set to 1, it also allows you to copy the gamename by clicking on the traytips (left click)

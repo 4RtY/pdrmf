@@ -14,6 +14,10 @@
 
 === v1.1 ===
 
+*+* Added more things making your life easier
+
+*+* Added game statistics board with toggle button
+
 *+* Added hotkeys (start, stop, pause toggling)
 
 *+* Added notifications and errors
@@ -24,6 +28,8 @@
 *+* If the copy option is enabled and you click on the traytip, the current/last gamename (depending on traytip) will be copied
 
 *~* Fixed typo in the message box on first start
+
+*~* Fixed some more bugs, etc.
 
 === 11.12.2012 v1.0 ===
 

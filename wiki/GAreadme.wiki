@@ -33,6 +33,8 @@ I highly recommend you reading the page whose link is in the settings (!HotkeyMo
     * Stop : Immediately stops the process and resets everything. Also closes the IE.
     * Pause/Unpause : Pauses the program. Nothing happens meanwhile and the start hotkey is also disabled. *Note:* After you unpause, everything goes on and the incoming game statistics will most likely be out-dated. Best would be to pause in the anti-spam phase so it goes on with the refreshing after unpausing.
     * Toggle Board : Can be used to hide/show/recover (after closing it) the board.
+    * Settings : Opens the settings to edit them
+    * Reload : Reloads the settings while the program is running, so you don't need to restart it
 
 === Game board ===
     * In the case a gamename wasn't found, it's line (same as the gamename number. E.g. Gamename1 is Island Defense, so Island Defense will also be in the first line) will be emty.

@@ -36,7 +36,7 @@ I highly recommend you reading the page whose link is in the settings (!HotkeyMo
     * Pause/Unpause : Pauses the program. Nothing happens meanwhile and the start hotkey is also disabled. *Note:* After you unpause, everything goes on and the incoming game statistics will most likely be out-dated. Best would be to pause in the anti-spam phase so it goes on with the refreshing after unpausing.
     * Toggle Board : Can be used to hide/show/recover (after closing it) the board.
     * Settings : Opens the settings to edit them
-    * Reload : Reloads the settings while the program is running, so you don't need to restart it
+    * Reload : Reloads the settings (everything) while the program is running, so you don't need to restart it.
 
     * Press alt to allow temporarily hotkey short cuts for toggle, settings and reload 
 

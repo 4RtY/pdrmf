@@ -34,6 +34,7 @@ I highly recommend you reading the page whose link is in the settings (!HotkeyMo
     * In the case a gamename wasn't found, it's line (same as the gamename number. E.g. Gamename1 is Island Defense, so Island Defense will also be in the first line) will be emty.
     * By right clicking on a line, the gamename will be copied, except it's emty.
     * By closing it, you never really exit it. Use the button _Toggle Board_ to get it back.
+    * If you check the box called "always on top", the board will always be above any other window, except for full screen games. Untick and it will behave like a normal window.
 
 === How to choose a good gamename? ===
 

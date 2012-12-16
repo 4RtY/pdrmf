@@ -14,7 +14,7 @@
 
 === v1.2 ===
 
-*+* Added a maxsize (all 8 games visible) and minize (only first game visible) for the window.
+*+* Added a maxsize (all 8 games visible) and minize (only first game visible) for the window (means: it can be resized to your own needs).
 
 === 15.12.2012 v1.1 ===
 

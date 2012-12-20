@@ -18,6 +18,8 @@
 
 *~* Changed the 'current game' site link to [http://blinkgaming.net/current_games2/_/list/ current_games2] (_thank you to Abs for making that possible_) which now *dramatically* reduces the time of the IE to refresh the page (now only 1/3 or 1/4 of the old time)
 
+*~* Fixed a problem with restarting the GA after having stopped it
+
 *+* Added a maxsize (all 8 games visible) and minize (only first game visible) for the window (means: it can be resized to your own needs).
 
 *+* Added _always-on-top_ toggle mode for board

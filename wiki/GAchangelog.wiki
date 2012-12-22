@@ -26,6 +26,10 @@
 
 *+* The board will be automatically foremost after the checking and preparing process of the GA has finished
 
+*+* File information added (like _real_ programs have)
+
+*+* Icon for paused state added
+
 === 15.12.2012 v1.1 ===
 
 *•* (Public) Beta testing

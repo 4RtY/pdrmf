@@ -65,10 +65,9 @@
 
 *-* Removed EEC from ID menu
 
-== 23.10.2012 v1.4 ==
-
 === Alpha2 version ===
-*Alpha2.1 / 2.2*
+
+=== Alpha2.1 / 2.2===
 
 *~* Fixed playerlist for ID
 
@@ -84,6 +83,8 @@
 *+* Added '!ResultCrawler' (see [https://code.google.com/p/pdrmf/wiki/DRMF2readme readme])
 
 *-* Removed the debugging ctrl+d hotkey which presses the load button in the DRM (forgot to remove)
+
+== 23.10.2012 v1.4 ==
 
 == 10.10.2012 v1.3 ==
 

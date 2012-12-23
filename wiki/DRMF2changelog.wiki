@@ -65,11 +65,11 @@
 
 *-* Removed EEC from ID menu
 
-=== Alpha 2.1 / 2.2===
+=== Alpha 1.4.2 ===
 
 *~* Fixed playerlist for ID
 
-=== Alpha version === 
+=== Alpha 1.4.1 === 
 
 *•* Hotfix due to the playerlist
 

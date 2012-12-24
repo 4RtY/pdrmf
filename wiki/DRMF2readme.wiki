@@ -59,7 +59,7 @@ If enabled it will also clear the clipboard each time a new filter GUI was initi
 
 *• ctrl+r :: Options:*
     * `[`All`]` Automatically removes all lines (button doesn't exist - it's the default option)
-    # Simple enter keywords and the lines containing them will be removed.
+    # Simply enter keywords and the lines containing them will be removed.
 
 
      * Both pop-up windows can be cancelled via button or esc
@@ -82,4 +82,4 @@ Displays both teams (the users and the colour). Example: t
 
 ==== Drag & Drop ====
 
-You can simple drag a replay/file (must have .w3g extension) on one of the three GUIs and it will open the replay with the DRM. After 1.5 seconds, the playerlist will be refreshed automatically.
+You can simply drag a replay/file (must have .w3g extension) on one of the three GUIs and it will open the replay with the DRM. After 1.5 seconds, the playerlist will be refreshed automatically.

@@ -21,7 +21,7 @@
     * Online readme
     * Online changelog
 
-*+* Options containing <---> don't count as an option and won't out-put an error (*---* was added as list structure for the overview)
+*+* Options containing < --- > don't count as an option and won't out-put an error (*---* was added as list structure for the overview)
 
 *~* Some changes to the information pop-up box
 

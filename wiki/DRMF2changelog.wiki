@@ -24,7 +24,7 @@
 
 *~* Improved the playerlist algorithm which now compiles the list to 99% (before there were cases that a keyword didn't appear which stopped the process).
 
-*~* Fixed the default option
+*~* Fixed the default option (was only bugged in v1.4+)
 
 *~* Fixed the update process which didn't trigger the startup GUI after the update
 

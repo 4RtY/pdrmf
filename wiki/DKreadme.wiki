@@ -3,7 +3,7 @@
 
 === Guaranty ===
 
-*I don't guaranty that all hotkeys work 100%. It's your responsibility to check each game if the modified hotkey works!*
+*I don't guaranty that all hotkeys work 100% (due to technical reasons with wc3/IDs). It's your responsibility to check each game if the modified hotkey works!*
 
 === General notes ===
     * Due to the tons of DotA hotkeys, it's not smart to have both ID and DotA hotkeys in one customkeys.txt, so please keep them separated.

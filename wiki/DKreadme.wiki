@@ -1,6 +1,10 @@
 #summary ReadMe for the DefenseKeys tool
 <wiki:toc max_depth="3" />
 
+=== Guaranty ===
+
+*I don't guaranty that all hotkeys work 100%. It's your responsibility to check each game if the modified hotkey works!*
+
 === General notes ===
     * Due to the tons of DotA hotkeys, it's not smart to have both ID and DotA hotkeys in one customkeys.txt, so please keep them separated.
     * Each time you change a hotkey, you'll need to restart Warcraft 3 to make them work.

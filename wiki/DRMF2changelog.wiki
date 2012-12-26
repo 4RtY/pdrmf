@@ -13,6 +13,9 @@
 
 ----
 
+=== v1.5.2 ===
+
+*~* [https://code.google.com/p/pdrmf/issues/list?can=1&q=%28v1.5.1%29&colspec=ID+Summary+Status+Priority+Type+Opened+Modified+Closed&cells=tiles Bug fixes]
 
 === 24.12.2012 v1.5.1 ===
 

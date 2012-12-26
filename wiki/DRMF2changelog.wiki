@@ -171,7 +171,9 @@ E.g: I want all clicks of the user xyz but then I also get his own hero's clicks
 
 == 27.08.2012 v1.0 ==
 
-*•* Started --- Based on: DotA v5.1 (started _unknown_) `|` ID v6.5 (started 06.05.2012)
+*•* Started --- Based on: DotA v5.1 `|` ID v6.5 
+
+The whole DRMF project started on the 06.05.2012 with version 1.0 of the DRMF for Island Defense. Then the DRMF for DotA was coded and beginning with the 27th of august, the DRMF2 started.
 
 *~* Changed the result window
 

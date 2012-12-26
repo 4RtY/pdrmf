@@ -171,7 +171,7 @@ E.g: I want all clicks of the user xyz but then I also get his own hero's clicks
 
 == 27.08.2012 v1.0 ==
 
-*•* Started --- Based on: DotA v5.1 `|` ID v6.5
+*•* Started --- Based on: DotA v5.1 (started _unknown_) `|` ID v6.5 (started 06.05.2012)
 
 *~* Changed the result window
 

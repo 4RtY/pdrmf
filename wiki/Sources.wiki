@@ -1,0 +1,7 @@
+#summary DRMF2 Sources
+
+The DRMF2 was coded to filter for specific numbers and words which are very detailed explained here.
+Thanks again to d07.RiV.
+
+    * [http://code.google.com/p/dota-replay-manager/source/browse/docs/w3g_actions.txt w3g_actions.txt]
+    * [http://code.google.com/p/dota-replay-manager/source/browse/docs/w3g_format.txt w3g_format.txt]

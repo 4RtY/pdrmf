@@ -1,0 +1,49 @@
+﻿#SingleInstance force
+DetectHiddenText, on
+DetectHiddenWindows, on
+
+
+if not A_IsAdmin
+{
+   Run *RunAs "%A_ScriptFullPath%"
+   ExitApp
+} 
+
+Menu Tray, NoStandard 
+
+IfWinNotExist, Replay Seeker
+{
+	MsgBox,48,Replay Seeker,Please start the program.
+	ExitApp
+}
+
+ControlGet, time1, Line, 1, WindowsForms10.EDIT.app.0.378734a2, Replay Seeker
+	If (time1 = "")
+	{
+		msgbox,48,Replay Seeker,Please start a replay before using the RS Watcher.
+		ExitApp
+	}
+
+Loop
+{
+	ControlGet, time1, Line, 1, WindowsForms10.EDIT.app.0.378734a2,ahk_class WindowsForms10.Window.8.app.0.378734a
+	ControlGet, time2, Line, 1, WindowsForms10.EDIT.app.0.378734a3,ahk_class WindowsForms10.Window.8.app.0.378734a 
+
+	Loop, parse, time1,:
+		time1_%A_index% := A_LoopField
+	Loop, parse, time2,:
+		time2_%A_index% := A_LoopField
+
+	If ((time1_1 = time2_1) && (time1_2 = time2_2 || time1_2 > time2_2) && (time1_3 = time2_3 || time1_3 > time2_3))
+	{
+		;ControlClick,WindowsForms10.BUTTON.app.0.378734a2,ahk_class WindowsForms10.Window.8.app.0.378734a
+		ControlClick,Cancel,Replay Seeker ;ahk_class WindowsForms10.Window.8.app.0.378734a
+		msgbox,64,Replay Seeker,Done!
+		ExitApp
+	}
+	
+	Sleep 250
+}
+return
+
+!Esc::ExitApp

@@ -1,0 +1,21 @@
+#summary Change Log for the Replay Seeker Watcher
+<wiki:toc max_depth="3" />
+
+= Legend =
+*+* Added
+
+*-* Removed
+
+*~* Fixed/Changed
+
+*•* Comment/Info
+
+----
+
+=== v1.1 ===
+
+~ Fixed the error if the administrative rights aren't given (case: pressed no on start)
+
+=== 05.01.2013 v1.0 ===
+
+• Started & Released

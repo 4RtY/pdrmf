@@ -1,19 +1,22 @@
-﻿#SingleInstance force
+﻿; v1.0 - Future v1.1
+
+#SingleInstance force
 DetectHiddenText, on
 DetectHiddenWindows, on
 
 
 if not A_IsAdmin
 {
-   Run *RunAs "%A_ScriptFullPath%"
-   ExitApp
+   Run, *RunAs "%A_ScriptFullPath%",, UseErrorLevel
+	If ErrorLevel
+		ExitApp
 } 
 
-Menu Tray, NoStandard 
+;Menu Tray, NoStandard 
 
 IfWinNotExist, Replay Seeker
 {
-	MsgBox,48,Replay Seeker,Please start the program.
+	MsgBox,48,Replay Seeker,Please start the Replay Seeker.
 	ExitApp
 }
 

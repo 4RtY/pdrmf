@@ -1,6 +1,6 @@
 // DefenseKeys - aRt)Y - ProjectDRMF@gmail.com
 // The last line are the options and belong in the settings.ini
-// Last Update: 14.11.2012
+// Last Update: 11.01.2013
 
 [CmdMove]
 [CmdMove] // Command Move
@@ -151,7 +151,7 @@ Name="Builder Form"
 Tip="Bui|cffffcc00l|rder Form","Bui|cffffcc00l|rder Form"
 Hotkey=W
 Unhotkey=W
-[A0B9] // Beast form
+[A07E] // Beast form
 Name="Hunter Form"
 Tip="B|cffffcc00e|rast Form","B|cffffcc00e|rast Form"
 Hotkey=D
@@ -293,6 +293,10 @@ Hotkey=F
 [A0C8] // Shadow Dash
 Name="Shadow Dash"
 Hotkey=D
+[e00V] // Rogue Den
+Name="|cff99b4d1Rogue Den|r"
+Hotkey=W
+Tip="(|cffffcc00G|r) Build a |cff99b4d1Rogue Den|r"
 [end]
 [Eye]
 [Eye]

@@ -17,6 +17,8 @@
 
 *~* [https://code.google.com/p/pdrmf/issues/list?can=1&q=%28v1.5.1%29&colspec=ID+Summary+Status+Priority+Type+Opened+Modified+Closed&cells=tiles Bug fixes]
 
+*~* Improved the playerlist refreshing algorithm again but it might happen that you yourself aren't listed in the list because you left the game and the replay doesn't save that message in very rare and specific cases.
+
 === 24.12.2012 v1.5.1 ===
 
 *~* [https://code.google.com/p/pdrmf/issues/list?can=1&q=id%3A90%2C91%2C92%2C93%2C94%2C95%2C96&colspec=ID+Summary+Status+Priority+Type+Opened+Modified+Closed&cells=tiles Fixes] in general

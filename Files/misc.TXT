@@ -1,4 +1,0 @@
-    * *RSW* _(Replay Seeker Watcher)_
-Latest Version: [https://code.google.com/p/pdrmf/downloads/detail?name=ReplaySeekerWatcher.exe v1.0] | [https://code.google.com/p/pdrmf/wiki/RSWchangelog Changelog] | [https://code.google.com/p/pdrmf/wiki/RSWreadme Readme]
-
-The tool should solve the bug with the Replay Seeker which _sometimes_ skips the desired time.

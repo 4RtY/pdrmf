@@ -35,7 +35,7 @@ and newly added to their functions.
       # Juggernaut,Clockwerk Goblin,Death Prophet
       # Juggernaut
 
-=== !HackCheck _(Tab: Miscs ; Option: HackCheck)_ ===
+=== !HackCheck _(Tab: Miscs ; Option: !HackCheck)_ ===
 
     * *The hack check option does not find fog clicks for you _except_ for Island Defense (clicks at 0:09) - not more!*
     * The option searches for key words like: off line hacks, trade hack and the mentioned click in Island Defense which is always 100% proof of maphack.

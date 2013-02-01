@@ -21,7 +21,7 @@
 
 *+* _Clicks on ground_ in the _Clicks_ tab now also search for item ground selections.
 
-*+* Added cheat detection (*see readme*)
+*+* Added cheat detection (*see [https://code.google.com/p/pdrmf/wiki/DRMF2readme?ts=1359728893&updated=DRMF2readme#HackCheck__(Tab:_Miscs_;_Option:_HackCheck_) readme]*)
 
 *-* The autohotkey pop up box asking you to replace the old instance of the program with a new one won't appear anymore
 

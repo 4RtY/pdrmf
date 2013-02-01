@@ -21,6 +21,8 @@
 
 *+* _Clicks on ground_ in the _Clicks_ tab now also search for item ground selections.
 
+*+* Added cheat detection (*see readme*)
+
 *-* The autohotkey pop up box asking you to replace the old instance of the program with a new one won't appear anymore
 
 === 24.12.2012 v1.5.1 ===

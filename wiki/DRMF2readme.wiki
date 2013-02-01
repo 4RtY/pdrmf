@@ -37,8 +37,8 @@ and newly added to their functions.
 
 === !HackCheck _(Tab: Miscs ; Option: !HackCheck)_ ===
 
-    * *The hack check option does not find fog clicks for you _except_ for Island Defense (clicks at 0:09) - not more!*
-    * The option searches for key words like: off line hacks, trade hack and the mentioned click in Island Defense which is always 100% proof of maphack.
+    * *The hack check option does not find fog clicks for you _except_ for Island Defense (clicks at 0:09)!*
+    * The option searches for key words triggered by off line hacks, trade hack and the mentioned click in Island Defense which is always 100% proof of maphack.
     * The option can be used with every other option as well, by default the result is a combination of the user's actionlog (like if you ticked off nothing) and the hack check result.
 
 === Settings ===

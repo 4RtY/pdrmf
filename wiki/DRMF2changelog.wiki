@@ -17,6 +17,8 @@
 
 *~* [https://code.google.com/p/pdrmf/issues/list?can=1&q=%5BDRMF2%5D+v1.5.1&colspec=ID+Summary+Status+Priority+Type+Opened+Modified+Closed&cells=tiles General list of bug fixes and changes in v1.5.2]
 
+*~* Fixed the program not to exit on configuration if closing the settings gui or pressing no to the log path prompts. 
+
 *~* Improved the playerlist refreshing algorithm again but it might happen that you yourself aren't listed in the list because you left the game and the replay doesn't save that message in *very rare* and specific cases. - I am working very often on the algorithm to improve it. If you got a replay for which the playerlist doesn't work, please *send it to me*! Thank you.
 
 *+* _Clicks on ground_ in the _Clicks_ tab now also search for item ground selections.

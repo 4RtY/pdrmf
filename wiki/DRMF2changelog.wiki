@@ -19,7 +19,7 @@
 
 *~* [https://code.google.com/p/pdrmf/issues/list?can=1&q=%5BDRMF2%5D+v1.5.1&colspec=ID+Summary+Status+Priority+Type+Opened+Modified+Closed&cells=tiles General list of bug fixes and changes in v1.5.2]
 
-*~* Fixed many little bugs related to the log path.
+*~* Fixed many little bugs related to the log path like the exe doesn't exit after adding a log path and closing settings
 
 *~* Completely changed off-line readme (with most important stuffs in it)
 

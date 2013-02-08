@@ -21,7 +21,7 @@
 
 *~* Completely changed off-line readme (with most important stuffs in it)
 
-*~* Improved the playerlist refreshing algorithm again but it might happen that you yourself aren't listed in the list because you left the game and the replay doesn't save that message in *very rare* and specific cases. - I am working very often on the algorithm to improve it. If you got a replay for which the playerlist doesn't work, please *send it to me*! Thank you.
+*~* Improved the playerlist refreshing algorithm again but it might happen that you yourself aren't listed in the list because you left the game and the replay doesn't save that message in very rare and specific cases. - I am working very often on the algorithm to improve it. If you got a replay for which the playerlist doesn't work, please *send it to me*! Thank you.
 
 *+* Added a prompt to ask for *administrative rights* for updating/downloading icons if the user isn't already logged in with these rights. `[`Required to access the internet!`]`
 

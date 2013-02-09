@@ -16,6 +16,8 @@
 
 *+* _!AlwaysOnTop_ can be set as default option in the settings (1 on, 0 off)
 
+*+* Added an updater
+
 === 24.12.2012 v1.2 ===
 
 *•* Stable version

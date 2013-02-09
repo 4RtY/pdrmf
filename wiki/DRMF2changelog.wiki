@@ -25,6 +25,8 @@
 
 *~* Fixed some things with the exit behavior of the settings gui after install
 
+*~* Fixed the scroll issue not showing all lines except if you maximize/resize the window.
+
 *~* Completely changed off-line readme (with most important stuffs in it)
 
 *~* Improved the playerlist refreshing algorithm again but it might happen that you yourself aren't listed in the list because you left the game and the replay doesn't save that message in very rare and specific cases. - I am working very often on the algorithm to improve it. If you got a replay for which the playerlist doesn't work, please *send it to me*! Thank you.

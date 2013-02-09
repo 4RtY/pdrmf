@@ -18,7 +18,7 @@
 
 *~* Replaced not working Morphling Beast spell ID with working one
 
-*+* Added update notification system (checks on: 1th, 8th, 16, 23th)
+*+* Added update notification system (checks on: 1th, 8th, 16th, 23th)
 
 *+* Added Satyr's den
 

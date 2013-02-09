@@ -16,7 +16,7 @@
 
 *+* _!AlwaysOnTop_ can be set as default option in the settings (1 on, 0 off)
 
-*+* Added update notification system (checks on: 1th, 8th, 16, 23th)
+*+* Added update notification system (checks on: 1th, 8th, 16th, 23th)
 
 === 24.12.2012 v1.2 ===
 

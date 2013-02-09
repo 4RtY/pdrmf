@@ -21,7 +21,9 @@
 
 *~* Changed the first time install GUI (fixes the font size bug) and fixed 2 icons not to be created with icon downloader
 
-*~* Fixed many little bugs related to the log path like the exe doesn't exit after adding a log path and closing settings
+*~* Fixed many little bugs related to the log path
+
+*~* Fixed some things with the exit behavior of the settings gui after install
 
 *~* Completely changed off-line readme (with most important stuffs in it)
 

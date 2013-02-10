@@ -1,2 +1,2 @@
-#summary ReadMe for the Game Stats Searcher
+#summary Readme for the Game Stats Searcher
 <wiki:toc max_depth="3" />

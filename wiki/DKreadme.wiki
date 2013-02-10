@@ -1,4 +1,4 @@
-#summary ReadMe for the DefenseKeys tool
+#summary Readme for the DefenseKeys tool
 <wiki:toc max_depth="3" />
 
 === Guaranty ===

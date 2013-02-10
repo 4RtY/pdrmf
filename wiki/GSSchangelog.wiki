@@ -1,1 +1,15 @@
-_Coming soon..._
+#summary Change Log for the Game Stats Searcher
+<wiki:toc max_depth="3" />
+
+== Legend ==
+*+* Added
+
+*-* Removed
+
+*~* Fixed/Changed
+
+*•* Comment/Info
+
+----
+
+== v1.0 ==

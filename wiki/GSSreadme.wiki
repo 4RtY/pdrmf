@@ -1,1 +1,13 @@
-_Incoming soon..._
+#summary ReadMe for the Game Stats Searcher
+<wiki:toc max_depth="3" />
+
+== Legend ==
+*+* Added
+
+*-* Removed
+
+*~* Fixed/Changed
+
+*•* Comment/Info
+
+----

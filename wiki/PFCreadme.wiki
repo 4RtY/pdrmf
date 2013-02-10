@@ -1,4 +1,4 @@
-#summary ReadMe for the Post Format Converter
+#summary Readme for the Post Format Converter
 #labels Phase-Implementation
 <wiki:toc max_depth="4" />
 

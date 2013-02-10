@@ -12,7 +12,7 @@
 
 ----
 
-== Project `[`RSW`]` has been stopped. ==
+== • Project `[`RSW`]` has been stopped. ==
 
 === v1.1 ===
 

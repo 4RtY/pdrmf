@@ -1,4 +1,4 @@
-== Project [!RSW] has been stopped. ==
+== Project `[`RSW`]` has been stopped. ==
 
 #summary Change Log for the Replay Seeker Watcher
 <wiki:toc max_depth="3" />

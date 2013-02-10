@@ -1,4 +1,4 @@
-#summary ReadMe for the merged DotA Replay Manager Filter
+#summary Readme for the merged DotA Replay Manager Filter
 #labels Featured
 <wiki:toc max_depth="4" />
 

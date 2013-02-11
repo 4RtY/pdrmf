@@ -1,7 +1,7 @@
 #summary Change Log for the Game Stats Searcher
 <wiki:toc max_depth="3" />
 
-=== Legend ===
+= Legend =
 *+* Added
 
 *-* Removed

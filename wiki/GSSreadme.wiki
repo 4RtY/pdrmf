@@ -1,2 +1,3 @@
 #summary Readme for the Game Stats Searcher
+#labels Deprecated
 <wiki:toc max_depth="3" />

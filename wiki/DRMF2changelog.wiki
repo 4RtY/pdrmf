@@ -39,7 +39,7 @@
 
 *-* The autohotkey pop up box asking you to replace the old instance of the program with a new one won't appear anymore
 
-*-* Removed the CordCalc for DotA and removed TimeCalc for ID menu
+*-* Removed the !CordCalc for DotA and removed !TimeCalc for ID menu
 
 === 24.12.2012 v1.5.1 ===
 

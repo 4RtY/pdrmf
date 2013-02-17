@@ -24,10 +24,11 @@ Since you can edit the hotkeys in the settings GUI, the hotkeys are meanwhile di
     # erase the settings (default one)
 and newly added to their functions.
 
-=== Copy _(Result GUI)_ ===
-    * Right click on a line in the result gui to copy it. You can also right click twice or more to copy multiple specific lines - it will add them to the clipboard
-    * Using ctrl you can actually do the same as with the right click
-    * With shift you can copy a whole bunch of lines at once
+=== Copy ===
+    * Right click on a line in the result gui to copy it (works also on the _No result_ gui to copy game details). You can also right click twice or more to copy multiple specific lines - it will add them to the clipboard
+    * Using ctrl you can select specific lines and if you right click on any of them, they'll be copied
+    * With shift you can select a whole bunch of lines and then copy them with a right click
+    * The same works also for the !ResultCrawler (ctrl+f)
 
 === Heroes _(Tab: Click ; Option: Heroes)_ ===
     * If the !DisableException (see settings) is enabled, then each time you use the _heroes_ option, a box will pop-up asking you to enter one or more hero names. The result list will then not contain these hero names. However, you can either press cancel or keep it emty to skip the extra option.

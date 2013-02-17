@@ -24,6 +24,18 @@
     * His staff position
     * At least one proof (replay/stats link/screenshot)
 
+==== Features ====
+
+    * Left click on the text _Stats link_ and it will open the stats link of BlinkGamingNetwork in your default browser. You can click on _Replay_ and _Screenshot_ as well.
+
+    * If you write down the first later of a violated rule and *then* select the arrow of the box, you'll get the rules starting with the letter. The first result will also be put into the field.
+
+*This also works for the account fields.*
+
+    * With Tab you can switch between the fields
+
+    * With Alt you can enable temporarily the hotkeys of the buttons
+
 ==== Settings ====
     * Version _(Will be overwritten)_
     * !DefaultRules _(Will be overwritten)_

@@ -93,3 +93,8 @@ Displays both teams (the users and the colour). Example: t
 ==== Drag & Drop ====
 
 You can simply drag a replay/file (must have .w3g extension) on one of the three GUIs and it will open the replay with the DRM. After 1.5 seconds, the playerlist will be refreshed automatically.
+
+==== Tray Icon ====
+
+    * Double click on it to toggle the windows (minimizes the window or makes it foremost)
+    * Contains following menus: Information (Email and developer), Support (link to project page), Toggle (the described option above, just manually) and Exit to exit the exe 

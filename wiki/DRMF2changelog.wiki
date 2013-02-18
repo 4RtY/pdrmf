@@ -37,6 +37,8 @@
 
 *+* Added cheat detection (*see [https://code.google.com/p/pdrmf/wiki/DRMF2readme?ts=1359728893&updated=DRMF2readme#HackCheck__(Tab:_Miscs_;_Option:_HackCheck_) readme]*)
 
+*+* With a double click on the tray icon, you can toggle the windows (either minimize them or maximize). This also works for the Start-Up. The option can also be triggered via right click on the tray icon and then selecting it.
+
 *-* The autohotkey pop up box asking you to replace the old instance of the program with a new one won't appear anymore
 
 *-* Removed the !CordCalc for DotA and removed !TimeCalc for ID menu

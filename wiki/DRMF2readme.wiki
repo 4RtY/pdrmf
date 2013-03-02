@@ -83,6 +83,7 @@ Lists you all hero/wards/side & secret shop clicks of the user. Example: c aRt)Y
 
     * c u t (check `<`user`>` `<`time`>`) `[`time syntax: minutes:seconds`]`
 Lists you all hero/wards/side & secret shop clicks of the user until time t. Example: c aRt)Y 23:00
+However, if a user clicked on an unit at 23:00, the click won't be listed anymore.
 
     * t u (team `<`user`>`)
 Outputs in which team and on which slot the user is (works only for 5vs5). Example: t aRt)Y

@@ -86,7 +86,7 @@ Lists you all hero/wards/side & secret shop clicks of the user *until* time t. E
 However, if a user clicked on an unit at 23:00, the click won't be listed anymore.
 
     * c u t s (check `<`user`>` `<`time`>` start) `[`time syntax: minutes:seconds`]`
-Lists you all clicks of the user *from* the time _t_ on.
+Lists you all clicks of the user *from* the time _t_ on. Example: c aRt)Y 45:02 s
 
     * t u (team `<`user`>`)
 Outputs in which team and on which slot the user is (works only for 5vs5). Example: t aRt)Y

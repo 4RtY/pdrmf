@@ -33,7 +33,7 @@
 
 *~* If copying an information of the _no result window_, you'll only get the text of the second column.
 
-*+* Added parameter 's' to the EnemeyClickChecker (starting point; see readme)
+*+* Added parameter 's' to the !EnemeyClickChecker (starting point; see readme)
 
 *+* Added a prompt to ask for *administrative rights* for updating/downloading icons if the user isn't already logged in with these rights. `[`Required to access the internet!`]` - Each time you start it. There's at least one positive aspect: There isn't a prompt if you start the Replay Seeker via the menu.
 

@@ -31,9 +31,12 @@
 
 *~* Improved the playerlist refreshing algorithm again but it might happen that you yourself aren't listed in the list because you left the game and the replay doesn't save that message in very rare and specific cases. - I am working very often on the algorithm to improve it. If you got a replay for which the playerlist doesn't work, please *send it to me*! Thank you.
 
-*~* If copying an information of the _no result window_, you'll only get the text of the second column.
+*~*/*+* !EnemyClickChecker got a whole new change with major improvements
+    * *~* ECC GUI completely changed
+    * *+* Added parameter 's' to the !EnemeyClickChecker (starting point; see readme)
+    * *+* Added parameter 'e' to only filter clicks on the enemy heroes
 
-*+* Added parameter 's' to the !EnemeyClickChecker (starting point; see readme)
+*~* If copying an information of the _no result window_, you'll only get the text of the second column.
 
 *+* Added a prompt to ask for *administrative rights* for updating/downloading icons if the user isn't already logged in with these rights. `[`Required to access the internet!`]` - Each time you start it. There's at least one positive aspect: There isn't a prompt if you start the Replay Seeker via the menu.
 

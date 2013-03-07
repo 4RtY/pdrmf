@@ -33,6 +33,8 @@
 
 *~* If copying an information of the _no result window_, you'll only get the text of the second column.
 
+*~* Fixed the syncfree option. It now also removes the 0x62 Triggers. (Syncfree: Line1 gets stored, Line2 gets stored; If Line1 = Line2, take only one.)
+
 *~*/*+* !EnemyClickChecker got a whole new change with major improvements
     * *~* ECC GUI completely changed
     * *+* Added parameter 's' to the !EnemeyClickChecker (starting point; see readme)

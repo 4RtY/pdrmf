@@ -85,14 +85,22 @@ Lists you all hero/wards/side & secret shop clicks of the user. Example: c aRt)Y
 Lists you all hero/wards/side & secret shop clicks of the user *until* time t. Example: c aRt)Y 23:00
 However, if a user clicked on an unit at 23:00, the click won't be listed anymore.
 
+    * c u t e (check `<`user`>` `<`time`>` enemies) `[`time syntax: minutes:seconds`]`
+Lists you all clicks on enemy heroes until time _t_. Example: c aRt)Y 23:00 e
+
     * c u t s (check `<`user`>` `<`time`>` start) `[`time syntax: minutes:seconds`]`
 Lists you all clicks of the user *from* the time _t_ on. Example: c aRt)Y 45:02 s
+
+    * c u t s e (check `<`user`>` `<`time`>` start enemies) `[`time syntax: minutes:seconds`]`
+Lists you all clicks from a user on enemy heroes beginning from time _t_. Example: c aRt)Y 20:00 s e
 
     * t u (team `<`user`>`)
 Outputs in which team and on which slot the user is (works only for 5vs5). Example: t aRt)Y
 
     * t (team)
 Displays both teams (the users and the colour). Example: t
+
+*Due to the new GUI for the ECC, the command line syntax isn't needed anymore. However, keep in mind what these parameters stand for.*
 
 ==== Drag & Drop ====
 

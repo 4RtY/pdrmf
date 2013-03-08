@@ -12,7 +12,9 @@
 
 ----
 
-=== v1.2.1 ===
+=== 08.03.2013 v1.2.1 ===
+
+*~* Modified source code to work with the new BGN site.
 
 *+* _!AlwaysOnTop_ can be set as default option in the settings (1 on, 0 off)
 

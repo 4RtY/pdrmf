@@ -11,6 +11,8 @@
     * _Your internet connection must be working_ : Simply reconnect to the internet and try again.
     * _The site content could not be accessed_ : No content to filter was found, so the GA will stop and you either restart it or manually check if the [http://blinkgaming.net/current_games2/_/list/ BGN site] is really down.
     * _Internet Explorer doesn't exit anymore_ : Although, the IE is hidden so this can't happend, something must have closed the IE process. The GA stops and you can decide to restart it, so a new instance of the IE will be started.
+    * _GA starts and stops._ Simply restart the program.
+    * _I am not getting any results._ Either the BGN site for the games is different/new, down/not working or your configuration is false.
 
 *Rarely*, the site content error can lead to a temporarily malfunction of the IE which leads to other weird erros. But simply restarting the GA solves everything. Once again, this error might only appear after very long usage or other unknown problems with the IE & GA.
 

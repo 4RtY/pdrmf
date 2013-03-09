@@ -57,7 +57,7 @@ It's actually pretty simple. GA filters and checks if the line contains the keyw
 
 *But* don't add the slots to the gamenames, neither the gamenumer like #111. `<`BGN`>` doesn't matter since all gamenames have it.
 
-DotA has also many gamenames and since _DotA -apem_ contains _DotA -ap_, how do I filter for _DotA -ap_? Easy! Just add make it like that:
+DotA has also many gamenames and since _DotA -apem_ contains _DotA -ap_, how do I filter for _DotA -ap_? Easy! Just make it like that:
 DotA -ap *#*
 
 The pound makes sure the gamename is 100% correct and with this, there can only be one!

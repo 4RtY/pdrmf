@@ -23,6 +23,8 @@
 
 *~* Fixed many little bugs related to the log path
 
+*~* Fixed _Ancient Apparition_ typo which caused a bug.
+
 *~* Fixed some things with the exit behavior of the settings gui after install
 
 *~* Fixed the scroll issue not showing all lines except if you maximize/resize the window.

@@ -23,7 +23,14 @@
 
 *~* Fixed many little bugs related to the log path
 
-*~* Fixed _Ancient Apparition_ typo which caused a bug.
+*~* Fixed hero typos which caused empty results:
+
+   * Ancient Apparition
+   * Lord of Olympus
+   * Death Prophet
+   * Goblin Shredder
+
+_Credits to beta tester._
 
 *~* Fixed some things with the exit behavior of the settings gui after install
 

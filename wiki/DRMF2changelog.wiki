@@ -29,6 +29,7 @@
    * Lord of Olympus
    * Death Prophet
    * Goblin Shredder
+   * Guardian Wisp
 
 _Credits to beta tester._
 

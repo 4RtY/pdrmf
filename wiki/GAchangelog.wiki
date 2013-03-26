@@ -12,6 +12,12 @@
 
 ----
 
+=== 26.03.2013 v1.2.2 ===
+
+*+* Added *Admin Rights* to work with the internet
+
+*~* Changed the code to ignore games in history
+
 === 08.03.2013 v1.2.1 ===
 
 *~* Modified source code to work with the new BGN site.

@@ -12,6 +12,10 @@
 
 ----
 
+=== 26.03.2013 v1.3.1 _Version Fix_ ===
+
+*•* Version changed to v1.3.1
+
 === 24.12.2012 v1.3.1 ~~v1.4~~ ===
 
 *+* Added automatically adding _`<`BGN`>` Island Defense #_ if chosing the typ _Wc3 Island Defense_. If chosen DotA/Custom, the field will be cleared.

@@ -19,7 +19,7 @@
 
 *~* [https://code.google.com/p/pdrmf/issues/list?can=1&q=%5BDRMF2%5D+v1.5.1&colspec=ID+Summary+Status+Priority+Type+Opened+Modified+Closed&cells=tiles General list of bug fixes and changes in v1.5.2]
 
-*~* Improved the commands filter. Filters now for bot commands and game commands (>>> Bot commands <<<, >>> Game commands >>>). Bot commands with the trigger _!_
+*~* Improved the commands filter. Filters now for bot commands and game commands (>>> Bot commands <<<, >>> Game commands <<<). Bot commands with the trigger _!_
 
 *~* Changed the first time install GUI (fixes the font size bug) and fixed 2 icons not to be created with icon downloader
 

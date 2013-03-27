@@ -22,6 +22,8 @@
 
 *+* Added Satyr's den
 
+*+* Added *Admin Rights* for update
+
 *•* Changes concerning the customkeys themself are updated in the !DefenseKeys.txt which can be downloaded manually. You don't have to wait until the latest DK version is released. You can find the readable version [https://code.google.com/p/pdrmf/source/browse/Files/DefenseKeysFile.TXT here].
 
 === 24.12.2012 v1.3.1 ===

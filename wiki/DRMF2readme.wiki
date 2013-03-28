@@ -44,7 +44,8 @@ By default, the ECC will check all clicks of one player or the whole team on the
     * The option can be used with every other option as well, by default the result is a combination of the user's actionlog (like if you ticked off nothing) and the hack check result. If nothing was found, the _>>> Hack Check Result <<<_ line won't appear.
     * Suggestions on 100% fog clicks in either DotA or Island Defense are always welcome because at the moment, it's only useful for Island Defense.
     * *ECC Hero Suggestion GUI* 
-The Enemy Click Checker hero suggestion GUI, suggests as the name says heroes of the enemy team. By typing first letters of the heroes you would like to add and then using the cursor of the keyboard, you can select a hero of the list.
+The Enemy Click Checker hero suggestion GUI, suggests as the name says heroes of the enemy team. By typing first letters of the heroes you would like to add
+and then using the cursor of the keyboard, you can select a hero of the list.
 By using alt+a you can add them, with alt+r you can start the process.
 If you don't want to check for a suggested hero, uncheck him with a simple click.
 

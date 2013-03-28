@@ -50,6 +50,7 @@ By typing first letters of the heroes you would like to add and then using the c
 By using alt+a you can add them, with alt+r you can start the process. If you don't want to check for a suggested hero, uncheck him with a simple click.
 
 === Settings ===
+*Move the mouse cursor other the description text of the setting and an explanation will appear.*
 
     * Default _(define wich GUI should start first)_
       # keep it emty or enter a space to start the normal start-up
@@ -62,6 +63,11 @@ If enabled it will also clear the clipboard each time a new filter GUI was initi
     * !DisableException _(dis-/enable option for heroes filtering)_
       # 0 to disable the option
       # 1 to enable the option to enter hero name(s) which should not be listed if using the _heroes_ option in the _click_ tab. (The option should help to remove the own user's hero clicks.)
+    * Hackcheck
+      # Enables the automatic check for keywords
+      # If _EnableECC_ is also activated (1), it will check for hero clicks as well
+      # the currently *disabled* option _ECCgui_ gives you a hero suggestion of the enemy team (*only for DRMF2 DotA*)
+
 
 === Features ===
 ==== !ResultCrawler ====

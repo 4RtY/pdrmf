@@ -38,7 +38,8 @@ and newly added to their functions.
 
 === !HackCheck _(Tab: Miscs ; Option: !HackCheck)_ ===
 
-    * *The hack check option does not find fog clicks for you!*
+    * *The hack check option may find fog clicks for you!*
+By default, the ECC will check all clicks of one player or the whole team on the enemy heroes before 02:30. However, if you are scouting and select a hero in vision, it might as well be logged in the hack check result.
     * The option searches for key words triggered by off line hacks, trade hack and the mentioned click in Island Defense which is always 100% proof of maphack.
     * The option can be used with every other option as well, by default the result is a combination of the user's actionlog (like if you ticked off nothing) and the hack check result. If nothing was found, the _>>> Hack Check Result <<<_ line won't appear.
     * Suggestions on 100% fog clicks in either DotA or Island Defense are always welcome because at the moment, it's only useful for Island Defense.

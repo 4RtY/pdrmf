@@ -12,7 +12,7 @@
 
 ----
 
-=== 26.03.2013 v1.2.2 ===
+=== 28.03.2013 v1.2.2 ===
 
 *+* Added *Admin Rights* to work with the internet
 

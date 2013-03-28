@@ -85,7 +85,7 @@ If enabled it will also clear the clipboard each time a new filter GUI was initi
 
 
      * Both pop-up windows can be cancelled via button or esc
-     * The !ResultCrawler will only work if a result GUI *exists* and *topmost*.
+     * The !ResultCrawler will only work if a result GUI *exists* and is *topmost*.
      * By default the last result window's content will be searched. However, if you click in another result GUI, it will be taken as the default one.
 
 ==== !EnemyClickChecker ====

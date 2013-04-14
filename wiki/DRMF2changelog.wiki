@@ -52,6 +52,8 @@ _Credits to beta tester._
     * *+* Added parameter 's' to the !EnemeyClickChecker (starting point; see readme)
     * *+* Added parameter 'e' to only filter clicks on the enemy heroes
 
+*+* Since the links in the update GUI don't work (for whatever reason), I've added an extra GUI which enables you to copy the links.
+
 *+* Added a prompt to ask for *administrative rights* for updating/downloading icons if the user isn't already logged in with these rights. `[`Required to access the internet!`]` - Each time you start it. There's at least one positive aspect: There isn't a prompt if you start the Replay Seeker via the menu.
 
 *+* _Clicks on ground_ in the _Clicks_ tab now also search for item ground selections.

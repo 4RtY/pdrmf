@@ -16,7 +16,6 @@
 === v1.5.2 ===
 
 *•* Current beta testing versions:
-    * v1.5.1.1
     * v1.5.1.2
     * v1.5.1.3
     * v1.5.1.4

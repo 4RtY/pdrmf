@@ -15,7 +15,10 @@
 
 === v1.5.2 ===
 
-*•* The size of the exe will probably increase because of the new off-line text and new hex codes for the icons which will be downloaded.
+*•* The size of the exe increases because:
+    * new off-line readme text
+    * new hax codes for images
+    * new code
 
 *~* [https://code.google.com/p/pdrmf/issues/list?can=1&q=%5BDRMF2%5D+v1.5.1&colspec=ID+Summary+Status+Priority+Type+Opened+Modified+Closed&cells=tiles General list of bug fixes and changes in v1.5.2]
 

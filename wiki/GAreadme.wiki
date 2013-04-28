@@ -3,6 +3,7 @@
 
 === Requirement ===
     * Internet Explorer must be installed
+    * I suggest IE10
 
 === Problems ===
     * The web site content couldn't be accessed! What to do now? : Update the IE to the latest version and try to speed it up. You can also try changing the _!RefreshDelay_ in the settings to a higher number (in milliseconds)
@@ -45,6 +46,10 @@ I highly recommend you reading the page whose link is in the settings (!HotkeyMo
     * By right clicking on a line, the gamename will be copied, except it's emty.
     * By closing it, you never really exit it. Use the button _Toggle Board_ to get it back.
     * If you check the box called "always on top", the board will always be above any other window, except for full screen games. Untick and it will behave like a normal window.
+
+=== Game Information ===
+
+_Currently in the alpha version. It will display the information of the player(s) from the BGN site._
 
 === How to choose a good gamename? ===
 

@@ -41,7 +41,7 @@ I highly recommend you reading the page whose link is in the settings (!HotkeyMo
 
     * Press alt to allow temporarily hotkey short cuts for toggle, settings and reload 
 
-=== Game board ===
+=== Game Board ===
     * In the case a gamename wasn't found, it's line (same as the gamename number. E.g. Gamename1 is Island Defense, so Island Defense will also be in the first line) will be emty.
     * By right clicking on a line, the gamename will be copied, except it's emty.
     * By closing it, you never really exit it. Use the button _Toggle Board_ to get it back.

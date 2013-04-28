@@ -12,6 +12,10 @@
 
 ----
 
+==== 27.04.2013 Game Information ====
+
+• Today, I've started the sub-project of listing the player information (slot, name, gateway, country, ip, status) of the players via an option.
+
 === 28.03.2013 v1.2.2 ===
 
 *+* Added *Admin Rights* to work with the internet

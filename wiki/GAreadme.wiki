@@ -55,18 +55,18 @@ I highly recommend you reading the page whose link is in the settings (!HotkeyMo
     * If you check the box called "always on top", the board will always be above any other window, except for full screen games. Untick and it will behave like a normal window.
 
 === Player Information ===
-• To enable it, set IncGUI=1 in the settings.
+    * To enable it, set IncGUI=1 in the settings.
 
-• You can copy each cell of a row by pressing
-    * Alt+1 for the first column: Name
-    * Alt+2 for the second column: Gateway
-    * Alt+3 : Ping
-    * Alt+4 : Country
-    * Alt+5 : IP
-    * Alt+6 : Status
+    *  You can copy each cell of a row by pressing
+        # Alt+1 for the first column: Name
+        # Alt+2 for the second column: Gateway
+        # Alt+3 : Ping
+        # Alt+4 : Country
+        # Alt+5 : IP
+        # Alt+6 : Status
 You can *not* copy the slot. To copy these column you've to either left or right click on a row. By using the specific number, you can copy the cell of the row.
 
-• You can resize the window. The height will keep the same but the width is changeable (from 900 to 400 pixels).
+    * You can resize the window. The height will keep the same but the width is changeable (from 900 to 400 pixels).
 
 === How to choose a good gamename? ===
 

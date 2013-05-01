@@ -51,7 +51,7 @@ I highly recommend you reading the page whose link is in the settings (!HotkeyMo
     * By closing it, you never really exit it. Use the button _Toggle Board_ to get it back.
     * If you check the box called "always on top", the board will always be above any other window, except for full screen games. Untick and it will behave like a normal window.
 
-=== Game Information ===
+=== Player Information ===
 
 You can copy each cell of a row by pressing
     * Alt+1 for the first column: Name

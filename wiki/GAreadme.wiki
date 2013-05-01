@@ -29,6 +29,9 @@
     * Gamename2-8 : Are only listed on the board
     * CopyNewGN : The notification system will automatically copy the new gamename of your _Gamename1_ game. If set to 1, it also allows you to copy the gamename by clicking on the traytips (left click)
     * Start, Stop and !TogglePause are the hotkeys for the buttons. Default hotkeys are: *Shift and s* to start, *shift and a* to abort and *shift and b* to pause. The symbol *~* allows it to send the hotkeys else if you press shift+a, only the GA's start function would fire and the hotkey itself keeps blocked.
+    * AlwaysOnTop : Makes the Game Board always on top by default.
+    * AlwaysOnTop2 : Makes the Player Information window always on top by default.
+Both options can be 1 at the same time.
 I highly recommend you reading the page whose link is in the settings (!HotkeyModifier) as well!
 
 === Buttons ===

@@ -14,7 +14,7 @@
 === v1.2.3 ===
 ==== 27.04.2013 Game Information ====
 
-• Today, I've started the sub-project of listing the player information (slot, name, gateway, country, ip, status) of the players via an option. More about it in the [https://code.google.com/p/pdrmf/wiki/GAreadme GA readme]
+*•* Today, I've started the sub-project of listing the player information (slot, name, gateway, country, ip, status) of the players via an option. More about it in the [https://code.google.com/p/pdrmf/wiki/GAreadme GA readme]
 
 *+* Added a new board called _Player Information_ (lists: slot, name, gateway, ping, country, ip, status)
 

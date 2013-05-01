@@ -14,11 +14,11 @@
 === v1.2.3 ===
 ==== 27.04.2013 Game Information ====
 
-*•* Today, I've started the sub-project of listing the player information of the players via an option. More about it in the [https://code.google.com/p/pdrmf/wiki/GAreadme GA readme]
+*•* Today, I've started the sub-project of listing the player information of the players via an option. More about it in the [https://code.google.com/p/pdrmf/wiki/GAreadme?ts=1367400260&updated=GAreadme#Player_Information GA readme]
 
 *+* Added a new board called _Player Information_ (lists: slot, name, gateway, ping, country, ip, status)
 
-*+* Added copy options (see readme)
+*+* Added copy options (see [https://code.google.com/p/pdrmf/wiki/GAreadme?ts=1367400260&updated=GAreadme#Player_Information GA readme])
 
 *~* Changed the main/start-up GUI
     * Added Toggle Players button

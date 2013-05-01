@@ -32,6 +32,9 @@
     * !AlwaysOnTop : Makes the Game Board always on top by default.
     * !AlwaysOnTop2 : Makes the Player Information window always on top by default.
 Both options can be 1 at the same time.
+
+    * IncGUI : Enables the Player Information board
+
 I highly recommend you reading the page whose link is in the settings (!HotkeyModifier) as well!
 
 === Buttons ===
@@ -52,6 +55,7 @@ I highly recommend you reading the page whose link is in the settings (!HotkeyMo
     * If you check the box called "always on top", the board will always be above any other window, except for full screen games. Untick and it will behave like a normal window.
 
 === Player Information ===
+• To enable it, set IncGUI=1 in the settings.
 
 • You can copy each cell of a row by pressing
     * Alt+1 for the first column: Name

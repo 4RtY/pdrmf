@@ -16,6 +16,15 @@
 
 • Today, I've started the sub-project of listing the player information (slot, name, gateway, country, ip, status) of the players via an option. More about it in the [https://code.google.com/p/pdrmf/wiki/GAreadme GA readme]
 
+*+* Added a new board called _Player Information_ (lists: slot, name, gateway, ping, country, ip, status)
+
+*+* Added copy options (see readme)
+
+*~* Changed the main/start-up GUI
+    * Added Toggle Players button
+    * Added Always on top players GUI checkbox
+    * Shouldn't be so tiny anymore
+
 === 28.03.2013 v1.2.2 ===
 
 *+* Added *Admin Rights* to work with the internet

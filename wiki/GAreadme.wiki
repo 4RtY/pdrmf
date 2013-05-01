@@ -49,7 +49,14 @@ I highly recommend you reading the page whose link is in the settings (!HotkeyMo
 
 === Game Information ===
 
-_Currently in the alpha version. It will display the information of the player(s) from the BGN site._
+You can copy each cell of a row by pressing
+    * Alt+1 for the first column: Name
+    * Alt+2 for the second column: Gateway
+    * Alt+3 : Ping
+    * Alt+4 : Country
+    * Alt+5 : IP
+    * Alt+6 : Status
+You can *not* copy the slot. To copy these column you've to either left or right click on a row. By using the specific number, you can copy the cell of the row.
 
 === How to choose a good gamename? ===
 

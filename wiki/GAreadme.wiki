@@ -29,8 +29,8 @@
     * Gamename2-8 : Are only listed on the board
     * CopyNewGN : The notification system will automatically copy the new gamename of your _Gamename1_ game. If set to 1, it also allows you to copy the gamename by clicking on the traytips (left click)
     * Start, Stop and !TogglePause are the hotkeys for the buttons. Default hotkeys are: *Shift and s* to start, *shift and a* to abort and *shift and b* to pause. The symbol *~* allows it to send the hotkeys else if you press shift+a, only the GA's start function would fire and the hotkey itself keeps blocked.
-    * AlwaysOnTop : Makes the Game Board always on top by default.
-    * AlwaysOnTop2 : Makes the Player Information window always on top by default.
+    * !AlwaysOnTop : Makes the Game Board always on top by default.
+    * !AlwaysOnTop2 : Makes the Player Information window always on top by default.
 Both options can be 1 at the same time.
 I highly recommend you reading the page whose link is in the settings (!HotkeyModifier) as well!
 
@@ -39,6 +39,7 @@ I highly recommend you reading the page whose link is in the settings (!HotkeyMo
     * Stop : Immediately stops the process and resets everything. Also closes the IE.
     * Pause/Unpause : Pauses the program. Nothing happens meanwhile and the start hotkey is also disabled. *Note:* After you unpause, everything goes on and the incoming game statistics will most likely be out-dated. Best would be to pause in the anti-spam phase so it goes on with the refreshing after unpausing.
     * Toggle Board : Can be used to hide/show/recover (after closing it) the board.
+    * Toggle Player Information/current GN : Can be used to hide/show/recover the window.
     * Settings : Opens the settings to edit them
     * Reload : Reloads the settings (everything) while the program is running, so you don't need to restart it.
 

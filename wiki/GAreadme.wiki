@@ -56,6 +56,7 @@ I highly recommend you reading the page whose link is in the settings (!HotkeyMo
 
 === Player Information ===
     * To enable it, set IncGUI=1 in the settings.
+    * *WORKS CURRENTLY ONLY WITH ISLAND DEFENSE*
 
     *  You can copy each cell of a row by pressing
         # Alt+1 for the first column: Name

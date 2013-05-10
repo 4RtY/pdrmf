@@ -20,6 +20,8 @@
 
 *+* Added copy options to the Player Information board (see [https://code.google.com/p/pdrmf/wiki/GAreadme?ts=1367400260&updated=GAreadme#Player_Information GA readme])
 
+*-* Hotkeys disabled
+
 *~* Changed the main/start-up GUI
     * Added Toggle Players button
     * Added Always on top players GUI checkbox

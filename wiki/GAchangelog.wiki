@@ -20,6 +20,8 @@
 
 *+* Added copy options to the Player Information board (see [https://code.google.com/p/pdrmf/wiki/GAreadme?ts=1367400260&updated=GAreadme#Player_Information GA readme])
 
+*+* Added SQL-IP column
+
 *+* Options to:
     * Hide/Show the IE
     * Hide/Show IE errors

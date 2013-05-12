@@ -10,7 +10,7 @@ Hotkeys have been disabled.
 
 === Problems ===
     * The web site content couldn't be accessed! What to do now? : Update the IE to the latest version and try to speed it up. You can also try changing the _!RefreshDelay_ in the settings to a higher number (in milliseconds)
-    * If the current game is full and it disappears from the BGN site, an old game (from the game history) will be chosen and listed on the board until the new game is hosted.
+    * Sometimes the GA doesn't filter the page or has not accessed the IE. Simply restart it.
 
 === Errors ===
     * _Your internet connection must be working_ : Simply reconnect to the internet and try again. *Most likely the permission isn't given. Start the GA with admin rights!*

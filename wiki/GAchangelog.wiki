@@ -28,7 +28,7 @@
     * Auto name check
     * Notification if something has been found, plus log
 
-*+* Links for Usernames. Via ctrl+1 you can open a link (settings) with the given username (e.g.: stats, banlist - you've to edit it)
+*+* Links for Usernames. Via ctrl+1 you can open a link (settings) with the given username from the Player Info GUI line. You can choose any link you want (e.g.: stats, banlist - you've to edit it).
 
 *+* Options to:
     * Hide/Show the IE

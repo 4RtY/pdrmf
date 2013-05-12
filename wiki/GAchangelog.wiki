@@ -22,6 +22,14 @@
 
 *+* Added SQL-IP column
 
+*+* Added a MOD system:
+    * Auto IP check
+    * Auto Country check
+    * Auto name check
+    * Notification if something has been found, plus log
+
+*+* Links for Usernames. Via ctrl+1 you can open a link (settings) with the given username (e.g.: stats, banlist - you've to edit it)
+
 *+* Options to:
     * Hide/Show the IE
     * Hide/Show IE errors

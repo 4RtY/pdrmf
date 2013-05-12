@@ -38,10 +38,10 @@ Hotkeys have been disabled.
 Both options can be 1 at the same time.
     * !UserStatsLink : You can used any link you want which will be opened with the username.
     * IncGUI : Enables the Player Information board
-	* OBSips : A list of IPs for which will be checked (e.g.: 999.22.1,929.11.2)
-	* OBScountries : A list of countries/cities to check for (e.g.: Montreal,Port Saint Lucie)
-	* OBSname : Names to look for
-	* OBSlog : Logs the results in a file
+    * OBSips : A list of IPs for which will be checked (e.g.: 999.22.1,929.11.2)
+    * OBScountries : A list of countries/cities to check for (e.g.: Montreal,Port Saint Lucie)
+    * OBSname : Names to look for
+    * OBSlog : Logs the results in a file
 
 I highly recommend you reading the page whose link is in the settings (!HotkeyModifier) as well!
 

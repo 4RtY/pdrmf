@@ -27,6 +27,7 @@
     * Auto Country check
     * Auto name check
     * Notification if something has been found, plus log
+    * Whitelist to ignore users
 
 *+* Links for Usernames. Via ctrl+1 you can open a link (settings) with the given username from the Player Info GUI line. You can choose any link you want (e.g.: stats, banlist - you've to edit it).
 
@@ -36,10 +37,14 @@
 
 *-* Hotkeys disabled
 
+*-* Reload button disabled. It will reload automatically with each loop.
+
 *~* Changed the main/start-up GUI
     * Added Toggle Players button
     * Added Always on top players GUI checkbox
     * Shouldn't be so tiny anymore
+    * Added toggle button for Game history
+    * Addec button for saving the info
 
 === 28.03.2013 v1.2.2 ===
 

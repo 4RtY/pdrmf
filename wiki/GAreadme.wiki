@@ -2,7 +2,8 @@
 <wiki:toc max_depth="3" />
 
 === Notes ===
-Hotkeys have been disabled.
+    * Hotkeys have been disabled.
+    * Some options will not be functional if you don't restart the GA (e.g. IEerros, IEvisible)
 
 === Requirement ===
     * Internet Explorer must be installed

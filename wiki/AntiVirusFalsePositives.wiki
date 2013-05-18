@@ -1,0 +1,23 @@
+#labels Featured
+In the past AutoHotkey in general has been flagged as a virus or other malware. 
+
+Obviously, these are all false results. There are multiple topics on the web stating that:
+    * http://www.lavasoftsupport.com/index.php?/topic/31553-autohotkey-false-positive/
+    * http://www.donationcoder.com/forum/index.php?topic=15210.0;wap2
+    * http://forum.avast.com/index.php?topic=86579.0
+    * http://forums.malwarebytes.org/index.php?showtopic=86759
+    * http://www.autohotkey.com/board/topic/15771-antivir-false-positives-with-exe-made-with-ahk-104608/
+    * http://www.autohotkey.com/board/topic/29203-an-open-letter-for-antiviral-software-companies/
+
+_In the name of Autohotkey's community:
+
+Good day,
+
+We create software with the open source scripting language Autohotkey. After compiling, by means of packaging the script with a stripped-down version of the script interpreter to an executable binary file, rather than converting the script to machine code, our software is often recognized as malware and therefore as a false positive. This may be because compiled scripts are UPX packed. This is the default setting.
+
+Your antiviral product recognizes every program that was made with Autohotkey as malware, and renders these harmless and useful tools useless. This is a very displeasing behaviour. It gets even worse when our programs are used in companies and because of false positives trusting users get bewildered. Neither our nor your reputation benefits from such behaviour of antiviral software.
+
+Unfortunately this is not the first time that there are false positives with compiled Autohotkey scripts as a background. We'd like to ask you when generating viruses signatures, that Autohotkey's scripting language interpreter is not treated as malware.
+
+Kind regards,
+Autohotkey Community_

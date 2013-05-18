@@ -9,7 +9,7 @@ Obviously, these are all false results. There are multiple topics on the web sta
     * http://www.autohotkey.com/board/topic/15771-antivir-false-positives-with-exe-made-with-ahk-104608/
     * http://www.autohotkey.com/board/topic/29203-an-open-letter-for-antiviral-software-companies/
 
-*_______________________________________________________________________*
+*`_______________________________________________________________________`*
 
 _In the name of Autohotkey's community:_
 

@@ -11,7 +11,7 @@
 *•* Comment/Info
 
 ----
-=== v1.2.3 ===
+=== 18.05.2013 v1.2.3 ===
 ==== 27.04.2013 Game Information ====
 
 *•* Today, I've started the sub-project of listing the player information of the players via an option. More about it in the [https://code.google.com/p/pdrmf/wiki/GAreadme?ts=1367400260&updated=GAreadme#Player_Information GA readme]

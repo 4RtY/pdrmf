@@ -66,7 +66,7 @@ The OBS check will only work if the MODmode is enabled (1). The MODmode will onl
     * If you check the box called "always on top", the board will always be above any other window, except for full screen games. Untick and it will behave like a normal window.
 
 === Player Information ===
-    * *WORKS CURRENTLY ONLY FOR ISLAND DEFENSE BGN*
+    * *WORKS ONLY FOR ISLAND DEFENSE BGN AS GN1*
     * To enable it, set IncGUI=1 in the settings.
 
     *  You can copy each cell of a row by pressing

@@ -9,6 +9,8 @@ Obviously, these are all false results. There are multiple topics on the web sta
     * http://www.autohotkey.com/board/topic/15771-antivir-false-positives-with-exe-made-with-ahk-104608/
     * http://www.autohotkey.com/board/topic/29203-an-open-letter-for-antiviral-software-companies/
 
+[hr]
+
 _In the name of Autohotkey's community:_
 
 _Good day,_
@@ -20,4 +22,5 @@ _Your antiviral product recognizes every program that was made with Autohotkey a
 _Unfortunately this is not the first time that there are false positives with compiled Autohotkey scripts as a background. We'd like to ask you when generating viruses signatures, that Autohotkey's scripting language interpreter is not treated as malware._
 
 _Kind regards,_
+
 _Autohotkey Community_

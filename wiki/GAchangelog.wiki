@@ -44,7 +44,7 @@
     * Added Always on top players GUI checkbox
     * Shouldn't be so tiny anymore
     * Added toggle button for Game history
-    * Addec button for saving the info
+    * Added button for saving the info
 
 === 28.03.2013 v1.2.2 ===
 

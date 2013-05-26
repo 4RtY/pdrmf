@@ -1,4 +1,6 @@
 #summary Readme for the Game Announcer
+
+test
 <wiki:toc max_depth="3" />
 
 === Notes ===

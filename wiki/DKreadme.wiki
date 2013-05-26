@@ -1,4 +1,7 @@
 #summary Readme for the DefenseKeys tool
+
+_The Defense Keys hotkey tool allows you to easily change the hotkeys of Island Defense units. It also supports tooltip changes and secret shop hotkey modifications._
+
 <wiki:toc max_depth="3" />
 
 === Guaranty ===

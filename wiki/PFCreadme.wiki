@@ -1,4 +1,7 @@
 #summary Readme for the Post Format Converter
+
+_The Post Format Converter was developed to give public players a perfectly structured template which they only have to fill out. With many features, click-to-open pages for even faster uploading of screenshots/replays and links to several rules of the community it is the ultimate tool for every user not familiar with the community guidelines/how a forum works._
+
 <wiki:toc max_depth="4" />
 
 ==== What's needed to fill out? ====

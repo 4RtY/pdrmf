@@ -15,7 +15,7 @@
 === v1.3 ===
 ==== 09.06.2013 Version for [https://entgaming.net/ Enterprise Gaming] ====
 
-*•* _GA ENT focuses on the moderation aspect of the lobby._ Thus, *only admins* with access to the site can use the tool.
+*•* _GA ENT focuses on the moderation aspect of the lobby._ Thus, *only admins* with access to the site can use the tool because the information is being parsed from the admin section.
 
 *+* Added auto IE login with encrypted account/password information in the settings
 

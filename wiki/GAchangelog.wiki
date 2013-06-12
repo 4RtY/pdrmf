@@ -11,6 +11,19 @@
 *•* Comment/Info
 
 ----
+
+=== v1.3 ===
+==== 09.06.2013 Version for [https://entgaming.net/ Enterprise Gaming]
+
+*+* Added auto IE login with encrypted account/password information in the settings
+
+*+* Added OBS
+    * ips
+    * provider
+    * state
+
+*-* Disabled Game board
+
 === 18.05.2013 v1.2.3 ===
 ==== 27.04.2013 Game Information ====
 

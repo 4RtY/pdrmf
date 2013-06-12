@@ -13,7 +13,7 @@
 ----
 
 === v1.3 ===
-==== 09.06.2013 Version for [https://entgaming.net/ Enterprise Gaming]
+==== 09.06.2013 Version for [https://entgaming.net/ Enterprise Gaming] ====
 
 *+* Added auto IE login with encrypted account/password information in the settings
 

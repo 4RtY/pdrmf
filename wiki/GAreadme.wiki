@@ -36,6 +36,9 @@ _It became a full moderation tool for mods to have a live overview of what is go
     * Gamename1 : Is the main game with the highest priority. The notification system will only work for this one. It still appears on the game board.
     * !AlwaysOnTop2 : Makes the Player Information window always on top by default.
     * !UserStatsLink : You can used any link you want which will be opened with the username.
+    * L_Username : The login username for IE ENT forum
+    * L_Password : The password for the login
+    * L_Option : To keep track if you wish to be automatically logged in
     * IncGUI : Enables the Player Information board
     * MODmode : Enables the OBS checks
     * OBSips : A list of ips for which will be checked (e.g.: 999.22.1,929.11.2)
@@ -89,3 +92,13 @@ DotA has also many gamenames and since _DotA -apem_ contains _DotA -ap_, how do 
 DotA -ap *#*
 
 The pound makes sure the gamename is 100% correct and with this, there can only be one!
+
+=== Cryptography ===
+
+The Game Announcers use the cryptography from 'Deo' who [http://www.autohotkey.com/board/topic/67155-ahk-l-crypt-ahk-cryptography-class-encryption-hashing/ published the source code] on AutoHotkey.net
+
+I am not the owner nor the creater and don't claim any credit for it.
+
+The GA encrypts the username and password input using AES_128 encryption and MD5 hash and writes it to the settings.ini
+
+For the auto-field filling, it reads the strings from the ini and decrypts them for the input only.

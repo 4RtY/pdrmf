@@ -19,6 +19,8 @@
 
 *~* Made slight changes to the warning traytip (less info so it's not that big) and it gives keywords (e.g. `[`VIA IP`]`) indicating how the user was caught.
 
+*~* Moved Player Information info (gn, slots, time) to the GUI title
+
 *+* Added auto IE login with encrypted account/password information in the settings
 
 *+* Added OBS

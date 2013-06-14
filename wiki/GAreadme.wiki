@@ -27,7 +27,7 @@ _It became a full moderation tool for mods to have a live overview of what is go
 *Rarely*, the site content error can lead to a temporarily malfunction of the IE which leads to other weird erros. But simply restarting the GA solves everything. Once again, this error might only appear after very long usage or other unknown problems with the IE & GA.
 
 === Settings ===
-    * Version : Should not be changed
+|| Version || Should not be changed ||
     * !AntiSpam : The delay in seconds until the page will be refreshed and filtered again. Should be set to 5 for new/incoming games.
     * IEerror : Since the Interent Explorer is needed, the GA will check if it's installed. In case, it errors because it didn't find it, although it's there, set it to 1 to disable the GA's error. The IEerror also shows IE errors since v1.2.3.
     * IEvisible : If set to 1, you can see the IE. If set to 0, it's hidden.

@@ -21,6 +21,8 @@
 
 *~* Moved Player Information info (gn, slots, time) to the GUI title
 
+*+* Right click on any line in the Player Information GUI copies the GN
+
 *+* Added auto IE login with encrypted account/password information in the settings
 
 *+* Added OBS
@@ -28,9 +30,9 @@
     * provider
     * state
 
-*-* Game Board is by default disabled.
+*-* Removed Game Board
 
-*-* Disabled games 7-8
+*-* Removed games support for 7-8
 
 === 18.05.2013 v1.2.3 ===
 ==== 27.04.2013 Game Information ====

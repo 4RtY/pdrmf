@@ -1,4 +1,5 @@
 #summary Readme for the Game Announcer
+#labels Featured,Phase-Deploy
 
 *Site currently under construction due to code conversion from BGN to ENT.*
 

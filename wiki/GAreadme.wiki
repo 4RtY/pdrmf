@@ -39,12 +39,16 @@ Both options can be 1 at the same time.
     * !UserStatsLink : You can used any link you want which will be opened with the username.
     * IncGUI : Enables the Player Information board
     * MODmode : Enables the OBS checks
-    * OBSips : A list of IPs for which will be checked (e.g.: 999.22.1,929.11.2) *They are currently scanned as [http://www.webdnstools.com/dnstools/ipcalc integer]*
+    * OBSips : A list of ips for which will be checked (e.g.: 999.22.1,929.11.2)
+    * OBSsqlip : IPs as [http://www.webdnstools.com/dnstools/ipcalc integer]
     * OBScountries : A list of countries/cities to check for (e.g.: Montreal,Port Saint Lucie)
     * OBSname : Names to look for
+    * OBSstate : The state of the player
     * OBSlog : Logs the results in a file
 
 The OBS check will only work if the MODmode is enabled (1). The MODmode will only work if IncGUI is enabled (1).
+
+*I strongly recommend to use only parts of the IPs or provider/name because it increases the chance of catching a dodger. However, don't choose keywords like "United States" as country because obviously thousand of players will be logged.*
 
 === Buttons ===
     * Start : The start function will first check if the IE is installed, then if you are connected to the internet. After that, the IE will be started (in the background) and navigated to _http://blinkgaming.net/current_games_. It then starts with the anti-spam, refreshing of the site and filtering. This goes on in a loop.

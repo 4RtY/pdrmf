@@ -6,24 +6,24 @@ _It became a full moderation tool for mods to have a live overview of what is go
 <wiki:toc max_depth="3" />
 
 === Notes ===
-    * Hotkeys have been disabled.
     * Some options will not be functional if you don't restart the GA (e.g. IEerros, IEvisible)
 
 === Requirement ===
     * Internet Explorer must be installed
     * I suggest IE10
+    * (v1.3+) You need to have admin access at [https://entgaming.net/ ENT] to use the tool
 
 === Problems ===
     * The web site content couldn't be accessed! What to do now? : Update the IE to the latest version and try to speed it up. You can also try changing the _!RefreshDelay_ in the settings to a higher number (in milliseconds)
     * Sometimes the GA doesn't filter the page or has not accessed the IE. Simply restart it.
     * It rarely occurs that the cells are filled with some HTML code stuffs but after the next refresh it's displayed correctly again.
-
 === Errors ===
     * _Your internet connection must be working_ : Simply reconnect to the internet and try again. *Most likely the permission isn't given. Start the GA with admin rights!*
     * _The site content could not be accessed_ : No content to filter was found, so the GA will stop and you either restart it or manually check if the [http://blinkgaming.net/current_games2/_/list/ BGN site] is really down.
     * _Internet Explorer doesn't exit anymore_ : Although, the IE is hidden so this can't happend, something must have closed the IE process. The GA stops and you can decide to restart it, so a new instance of the IE will be started.
     * _GA starts and stops._ Simply restart the program.
     * _I am not getting any results._ Either the BGN site for the games is different/new, down/not working or your configuration is false.
+    * _Error. Re-log!_ Seems like you stopped the filtering and wanted to restart it. You'll have to restart the GA completely.
 
 *Rarely*, the site content error can lead to a temporarily malfunction of the IE which leads to other weird erros. But simply restarting the GA solves everything. Once again, this error might only appear after very long usage or other unknown problems with the IE & GA.
 
@@ -34,12 +34,7 @@ _It became a full moderation tool for mods to have a live overview of what is go
     * IEvisible : If set to 1, you can see the IE. If set to 0, it's hidden.
     * !RefreshDelay : The GA waits for the IE to finish refreshing the site. It's checking every x millisconds when it's done (x = the number you entered). Although, it should work with a pretty low number as well, tests have proven, it's fixing this problem with a higher one. Just test it out yourself.
     * !DisableSound : If set to 1, it disables the sound on new/incoming games and the warning message of MODmode.
-    * !DisableNotifications : If set to 1, it disables the notification system. But the board keeps updated.
     * Gamename1 : Is the main game with the highest priority. The notification system will only work for this one. It still appears on the game board.
-    * Gamename2-8 : Are only listed on the board
-    * CopyNewGN : The notification system will automatically copy the new gamename of your _Gamename1_ game. If set to 1, it also allows you to copy the gamename by clicking on the traytips (left click)
-    * Start, Stop and !TogglePause are the hotkeys for the buttons. Default hotkeys are: *Shift and s* to start, *shift and a* to abort and *shift and b* to pause. The symbol *~* allows it to send the hotkeys else if you press shift+a, only the GA's start function would fire and the hotkey itself keeps blocked.
-    * !AlwaysOnTop : Makes the Game Board always on top by default.
     * !AlwaysOnTop2 : Makes the Player Information window always on top by default.
 Both options can be 1 at the same time.
     * !UserStatsLink : You can used any link you want which will be opened with the username.
@@ -59,35 +54,20 @@ The OBS check will only work if the MODmode is enabled (1). The MODmode will onl
     * Toggle Board : Can be used to hide/show/recover (after closing it) the board.
     * Toggle Player Information/current GN : Can be used to hide/show/recover the window.
     * Settings : Opens the settings to edit them
-    * Reload : Reloads the settings (everything) while the program is running, so you don't need to restart it.
-
-    * Press alt to allow temporarily hotkey short cuts for toggle, settings and reload 
-
-=== Game Board ===
-    * In the case a gamename wasn't found, it's line (same as the gamename number. E.g. Gamename1 is Island Defense, so Island Defense will also be in the first line) will be emty.
-    * By right clicking on a line, the gamename will be copied, except it's emty.
-    * By closing it, you never really exit it. Use the button _Toggle Board_ to get it back.
-    * If you check the box called "always on top", the board will always be above any other window, except for full screen games. Untick and it will behave like a normal window.
 
 === Player Information ===
-    * *WORKS ONLY FOR ISLAND DEFENSE BGN AS GN1*
     * To enable it, set IncGUI=1 in the settings.
 
-    *  You can copy each cell of a row by pressing
-        # Alt+1 for the first column: Name
-        # Alt+2 for the second column: Gateway
-        # Alt+3 : Ping
-        # Alt+4 : Country
-        # Alt+5 : IP
-        # Alt+6 : Status
-You can *not* copy the slot. To copy these column you've to either left or right click on a row. By using the specific number, you can copy the cell of the row.
+    * You can copy each cell of a row by pressing _Alt_ and the corresponding column number (Column _Name_ = 1)
 
     * You run links (default browser chosen) with the username. Select a line, press ctrl+1 and the link (!UserStatsLink in the settings) will be opened. You've got many possibilities now - depending on your access:
        # stats link
        # use the ENT alias checker
        # use the banlist checker, etc
-
-    * You can resize the window. The height will keep the same but the width is changeable (from 900 to 400 pixels).
+   
+    * Right click on any line and you copy the current game name
+    * If the columns are too big and aren't fully shown in the GUI anymore, you can use your mouse wheel to scroll to the left/right
+    * The title contains the current gamename, slot number and corresponding full slot number of the autohosted game, start time (where the GA first seen it), current time and the elapsed time
 
 === How to choose a good gamename? ===
 

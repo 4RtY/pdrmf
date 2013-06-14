@@ -9,8 +9,7 @@ _It became a full moderation tool for mods to have a live overview of what is go
     * Some options will not be functional if you don't restart the GA (e.g. IEerros, IEvisible)
 
 === Requirement ===
-    * Internet Explorer must be installed
-    * I suggest IE10
+    * Internet Explorer must be installed (I suggest IE10)
     * (v1.3+) *You must have admin access on [https://entgaming.net/ ENT] to use the tool*
 
 === Problems ===

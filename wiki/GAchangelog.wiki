@@ -26,7 +26,7 @@
     * provider
     * state
 
-*-* Game Board is by default disabled. Can be activated via option. However, GA ENT focuses on *one game only*.
+*-* Game Board is by default disabled.
 
 === 18.05.2013 v1.2.3 ===
 ==== 27.04.2013 Game Information ====

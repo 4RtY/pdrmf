@@ -11,7 +11,7 @@ _It became a full moderation tool for mods to have a live overview of what is go
 === Requirement ===
     * Internet Explorer must be installed
     * I suggest IE10
-    * (v1.3+) You need to have admin access at [https://entgaming.net/ ENT] to use the tool
+    * (v1.3+) *You must have admin access on [https://entgaming.net/ ENT] to use the tool*
 
 === Problems ===
     * The web site content couldn't be accessed! What to do now? : Update the IE to the latest version and try to speed it up. You can also try changing the _!RefreshDelay_ in the settings to a higher number (in milliseconds)

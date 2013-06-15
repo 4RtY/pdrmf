@@ -62,6 +62,9 @@ The OBS check will only work if the MODmode is enabled (1). The MODmode will onl
 || Buttons ||
 || Login || Logs you ins ||
 || _Automatically log me in_ || Saves the username & password and auto-fills the fields with the latest used data ||
+|| Information || Gives you an overview of what can go wrong:
+test
+test ||
 
 https://pdrmf.googlecode.com/files/login.jpg
 

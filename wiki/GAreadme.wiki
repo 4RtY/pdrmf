@@ -41,7 +41,7 @@ _It became a full moderation tool for mods to have a live overview of what is go
 || !UserStatsLink || You can used any link you want which will be opened with the username. ||
 || L_Username || The login username for IE ENT forum ||
 || L_Password || The password for the login ||
-|| L_Option || To keep track if you wish to be automatically logged in
+|| L_Option || To keep track if you wish to be automatically logged in ||
 || IncGUI || Enables the Player Information board ||
 || MODmode || Enables the OBS checks ||
 || OBSips || A list of ips for which will be checked (e.g.: 999.22.1,929.11.2) ||

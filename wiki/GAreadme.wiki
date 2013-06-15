@@ -8,6 +8,7 @@ _The Game Announcer is a powerful tool which automatically analyzes and observes
 === Notes ===
     * The options _IEerros_ and _IEvisible_ will not be functional if you don't restart the GA. This means: You can change any other options while running the GA and they'll be taken over.
     * (v1.3+) *Supports all kind of games but only for one game name will be filtered.*
+    * The ENT pages corrects its data with every second update. If a player joins, his ping is often 0 and his gateway is Garena. Thus, this false information will be taken over by the GA _until_ the page corrects itself with the update.
 
 === Requirement ===
     * Internet Explorer must be installed (I suggest IE10)

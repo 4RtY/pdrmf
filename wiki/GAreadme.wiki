@@ -29,7 +29,7 @@ _It became a full moderation tool for mods to have a live overview of what is go
 *Rarely*, the site content error can lead to a temporarily malfunction of the IE which leads to other weird errors. But simply restarting the GA solves everything. Once again, this error might only appear after very long usage or other unknown problems with the IE & GA.
 
 === Settings ===
-|| Version || Should not be changed ||
+|| Version || Should not be changed or you get an error. ||
 || !AntiSpam || The delay in seconds until the page will be refreshed and filtered again. Should be set to 5 for new/incoming games. ||
 || IEerror || Since the Interent Explorer is needed, the GA will check if it's installed. In case, it errors because it didn't find it, although it's there, set it to 1 to disable the GA's error. The IEerror also shows IE errors since v1.2.3. ||
 || IEvisible || If set to 1, you can see the IE. If set to 0, it's hidden. ||
@@ -38,10 +38,10 @@ _It became a full moderation tool for mods to have a live overview of what is go
 || Gamename1 || Is the main game with the highest priority. The notification system will only work for this one. It still appears on the game board. ||
 || !AlwaysOnTop2 || Makes the Player Information window always on top by default. ||
 || !UserStatsLink || You can used any link you want which will be opened with the username. ||
-|| L_Username || The login username for IE ENT forum ||
-|| L_Password || The password for the login ||
+|| L_Username || The login username for IE ENT forum. *Don't manually edit this!* ||
+|| L_Password || The password for the login. *Don't manually edit this!* ||
 || L_Option || To keep track if you wish to be automatically logged in ||
-|| IncGUI || Enables the Player Information board ||
+|| IncGUI || Enables the Player Information board. *Must be _1_ for the program to work.* ||
 || MODmode || Enables the OBS checks ||
 || OBSips || A list of ips for which will be checked (e.g.: 999.22.1,929.11.2) ||
 || OBSsqlip || IPs as [http://www.webdnstools.com/dnstools/ipcalc integer] ||

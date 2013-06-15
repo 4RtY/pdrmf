@@ -15,7 +15,11 @@
 
 === v1.3.1 ===
 
+*•* Private Beta
+
 *+* Supports alt+7 & 8
+
+*+* Debug setting added
 
 === 15.06.2013 v1.3 ===
 ==== 09.06.2013 Version for [https://entgaming.net/ Enterprise Gaming] ====

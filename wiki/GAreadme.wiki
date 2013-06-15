@@ -1,10 +1,7 @@
 #summary Readme for the Game Announcer
 #labels Featured,Phase-Deploy
 
-*Site currently under construction due to code conversion from BGN to ENT.*
-
-_The Game Announcer was made to list and announce already hosted and upcoming games. A lot of features have been added in the past to easily modify the program to suit your needs. Plus, many functions to make the life easier._ 
-_It became a full moderation tool for mods to have a live overview of what is going on in the lobby with options to automatically detect IPs, countries, names and many other information._
+_The Game Announcer is a powerful tool which automatically analyzes and observes the ENT game lobby for you. It notifies you if it detected something and automatically logs it. It also provides some more features to make the moderation easier._
 
 <wiki:toc max_depth="3" />
 

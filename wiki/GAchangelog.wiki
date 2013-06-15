@@ -1,4 +1,5 @@
 #summary Change Log for the Game Announcer
+#labels Featured
 <wiki:toc max_depth="3" />
 
 == Legend ==

@@ -9,7 +9,7 @@ _It became a full moderation tool for mods to have a live overview of what is go
 <wiki:toc max_depth="3" />
 
 === Notes ===
-    * Some options will not be functional if you don't restart the GA (e.g. IEerros, IEvisible)
+    * The options _IEerros_ and _IEvisible_ will not be functional if you don't restart the GA.
 
 === Requirement ===
     * Internet Explorer must be installed (I suggest IE10)

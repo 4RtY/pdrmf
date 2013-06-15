@@ -56,12 +56,13 @@ The OBS check will only work if the MODmode is enabled (1). The MODmode will onl
 *I strongly recommend to use only parts of the IPs or provider/name because it increases the chance of catching a dodger. However, don't choose keywords like "United States" as country because obviously thousand of players will be logged.*
 
 === Buttons ===
-    * Start : The start function will first check if the IE is installed, then if you are connected to the internet. After that, the IE will be started (in the background) and navigated to _http://blinkgaming.net/current_games_. It then starts with the anti-spam, refreshing of the site and filtering. This goes on in a loop.
-    * Stop : Immediately stops the process and resets everything. Also closes the IE.
-    * Pause/Unpause : Pauses the program. Nothing happens meanwhile and the start hotkey is also disabled. *Note:* After you unpause, everything goes on and the incoming game statistics will most likely be out-dated. Best would be to pause in the anti-spam phase so it goes on with the refreshing after unpausing.
-    * Toggle Board : Can be used to hide/show/recover (after closing it) the board.
-    * Toggle Player Information/current GN : Can be used to hide/show/recover the window.
-    * Settings : Opens the settings to edit them
+|| Start || The start function will first check if the IE is installed, then if you are connected to the internet. It then navigates to the site. ||
+|| Stop || Immediately stops the process and resets everything. Also closes the IE. ||
+|| Pause/Unpause || Pauses the program. Nothing happens meanwhile and the start hotkey is also disabled. *Note:* After you unpause, everything goes on and the incoming game statistics will most likely be out-dated. Best would be to pause in the anti-spam phase so it goes on with the refreshing after unpausing. ||
+|| Toggle Board || Can be used to hide/show/recover (after closing it) the board. ||
+|| Toggle Player Information/current GN || Can be used to hide/show/recover the window. ||
+|| Settings || Opens the settings to edit them ||
+|| Log || Opens the log file ||
 
 === Player Information ===
     * To enable it, set IncGUI=1 in the settings.

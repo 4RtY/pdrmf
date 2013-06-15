@@ -7,6 +7,7 @@ _The Game Announcer is a powerful tool which automatically analyzes and observes
 
 === Notes ===
     * The options _IEerros_ and _IEvisible_ will not be functional if you don't restart the GA.
+    * (v1.3+) *Supports all kind of games but only for one game name will be filtered.*
 
 === Requirement ===
     * Internet Explorer must be installed (I suggest IE10)

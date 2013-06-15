@@ -81,7 +81,7 @@ But LoD has 2 modes, so be specific which one you want, either:
     * `[`ENT`]` DotA LoD -sdems6d2 #149
     * `[`ENT`]` DotA LoD -sds6d2 #275
 
-I decided to filter for the second one, so in the settings, you've to write: GamenameX=DotA LoD -sds6d2 (with x as a number between 1-8)
+I decided to filter for the second one, so in the settings, you've to write: Gamename=DotA LoD -sds6d2
 
 It's actually pretty simple. GA filters and checks if the line contains the keywords from the settings. 
 
@@ -90,7 +90,7 @@ It's actually pretty simple. GA filters and checks if the line contains the keyw
 DotA has also many gamenames and since _DotA -apem_ contains _DotA -ap_, how do I filter for _DotA -ap_? Easy! Just make it like that:
 DotA -ap *#*
 
-The pound makes sure the gamename is 100% correct and with this, there can only be one!
+*The pound makes sure the gamename is 100% correct and with this, there can only be one!*
 
 === Cryptography ===
 

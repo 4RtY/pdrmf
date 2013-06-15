@@ -12,10 +12,6 @@ _The Game Announcer is a powerful tool which automatically analyzes and observes
     * Internet Explorer must be installed (I suggest IE10)
     * (v1.3+) *You must have admin access on [https://entgaming.net/ ENT] to use the tool*
 
-=== Problems ===
-    * The web site content couldn't be accessed! What to do now? : Update the IE to the latest version and try to speed it up. You can also try changing the _!RefreshDelay_ in the settings to a higher number (in milliseconds)
-    * Sometimes the GA doesn't filter the page or has not accessed the IE. Simply restart it.
-    * It rarely occurs that the cells are filled with some HTML code stuffs but after the next refresh it's displayed correctly again.
 === Errors ===
 || _Your internet connection must be working_ || Simply reconnect to the internet and try again. ||
 || _The site content could not be accessed_ || No content to filter was found, so the GA will stop and you either restart it or manually check if the ENT site is really down. ||

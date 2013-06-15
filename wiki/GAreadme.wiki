@@ -80,17 +80,17 @@ The OBS check will only work if the MODmode is enabled (1). The MODmode will onl
 
 === How to choose a good gamename? ===
 
-Choosing a good gamename to filter for, you'll first have to find out which gamenames exist. So check out this [http://blinkgaming.net/current_games site]. As example, I'll use Island Defense. The gamename on the site is: `<`BGN`>` Island Defense #xxx. Since there're not any other gamenames, writing _Island Defense_ in the settings will be enough. However, there're other games like DotA. Simply writing DotA as a gamename won't be enough - it will find the first gamename containing DotA and it might not be the one you wanted.
+Choosing a good gamename to filter for, you'll first have to find out which gamenames exist. So check out this [https://entgaming.net/forum/games.php site]. As example, I'll use Island Defense. The gamename on the site is: `[`ENT`]` Island Defense #xxx. Since there're not any other gamenames, writing _Island Defense_ in the settings will be enough. However, there're other games like DotA. Simply writing DotA as a gamename won't be enough - it will find the first gamename containing DotA and it might not be the one you wanted.
 So check out which DotA gamenames there're. I'll choose a LoD game and a normal one. 
 But LoD has 2 modes, so be specific which one you want, either:
-    * `<`BGN`>` DotA LoD -sdems6d2 #149
-    * `<`BGN`>` DotA LoD -sds6d2 #275
+    * `[`ENT`]` DotA LoD -sdems6d2 #149
+    * `[`ENT`]` DotA LoD -sds6d2 #275
 
 I decided to filter for the second one, so in the settings, you've to write: GamenameX=DotA LoD -sds6d2 (with x as a number between 1-8)
 
 It's actually pretty simple. GA filters and checks if the line contains the keywords from the settings. 
 
-*But* don't add the slots to the gamenames, neither the gamenumer like #111. `<`BGN`>` doesn't matter since all gamenames have it.
+*But* don't add the slots to the gamenames, neither the gamenumer like #111. `[`ENT`]` doesn't matter since all gamenames have it.
 
 DotA has also many gamenames and since _DotA -apem_ contains _DotA -ap_, how do I filter for _DotA -ap_? Easy! Just make it like that:
 DotA -ap *#*

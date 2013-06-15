@@ -63,6 +63,8 @@ The OBS check will only work if the MODmode is enabled (1). The MODmode will onl
 
 *The Toggle Board and !AlwaysOnTop have been disabled.*
 
+https://pdrmf.googlecode.com/files/GUI.jpg
+
 === Player Information ===
     * To enable it, set IncGUI=1 in the settings.
 
@@ -76,6 +78,8 @@ The OBS check will only work if the MODmode is enabled (1). The MODmode will onl
     * Right click on any line and you copy the current game name
     * If the columns are too big and aren't fully shown in the GUI anymore, you can use your mouse wheel to scroll to the left/right
     * The title contains the current gamename, slot number and corresponding full slot number of the autohosted game, start time (where the GA first seen it), current time and the elapsed time
+
+https://pdrmf.googlecode.com/files/GUI2%20-%20Kopie.jpg
 
 === How to choose a good gamename? ===
 

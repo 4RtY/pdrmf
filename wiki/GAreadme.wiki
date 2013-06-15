@@ -26,7 +26,7 @@ _It became a full moderation tool for mods to have a live overview of what is go
 || _I am not getting any results._ || Either the ENT site for the games is different/new, down/not working or your configuration is false. ||
 || _Error. Re-log!_ || Seems like you stopped the filtering and wanted to restart it. You'll have to restart the GA completely. It might also be that you don't have admin access to the site. ||
 
-*Rarely*, the site content error can lead to a temporarily malfunction of the IE which leads to other weird erros. But simply restarting the GA solves everything. Once again, this error might only appear after very long usage or other unknown problems with the IE & GA.
+*Rarely*, the site content error can lead to a temporarily malfunction of the IE which leads to other weird errors. But simply restarting the GA solves everything. Once again, this error might only appear after very long usage or other unknown problems with the IE & GA.
 
 === Settings ===
 || Version || Should not be changed ||

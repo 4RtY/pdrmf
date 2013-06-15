@@ -51,6 +51,20 @@ The OBS check will only work if the MODmode is enabled (1). The MODmode will onl
 
 *I strongly recommend to use only parts of the IPs or provider/name because it increases the chance of catching a dodger. However, don't choose keywords like "United States" as country because obviously thousand of players will be logged.*
 
+=== Login GUI ===
+
+|| Login Status ||
+|| Starting IE || Starts the Internet Explorer ||
+|| IE Check || Checks if the IE installed ||
+|| Connection Check || Checks if you are connected to the internet ||
+|| Ready || The Login button gets enabled and you can start ||
+
+|| Buttons ||
+|| Login || Logs you ins ||
+|| _Automatically log me in_ || Saves the username & password and auto-fills the fields with the latest used data ||
+
+https://pdrmf.googlecode.com/files/login.jpg
+
 === Buttons ===
 || Start || The start function will first check if the IE is installed, then if you are connected to the internet. It then navigates to the site. ||
 || Stop || Immediately stops the process and resets everything. Also closes the IE. ||

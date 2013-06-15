@@ -58,7 +58,8 @@ The OBS check will only work if the MODmode is enabled (1). The MODmode will onl
 || IE Check || Checks if the IE installed ||
 || Connection Check || Checks if you are connected to the internet ||
 || Ready || The Login button gets enabled and you can start ||
-|| Error. Re-log! || see [https://code.google.com/p/pdrmf/wiki/GAreadme#Errors errors]) ||
+|| Error. Re-log! || see [https://code.google.com/p/pdrmf/wiki/GAreadme#Errors errors] ||
+
 || Buttons ||
 || Login || Logs you ins ||
 || _Automatically log me in_ || Saves the username & password and auto-fills the fields with the latest used data ||
@@ -95,6 +96,23 @@ https://pdrmf.googlecode.com/files/GUI.jpg
     * The title contains the current gamename, slot number and corresponding full slot number of the autohosted game, start time (where the GA first seen it), current time and the elapsed time
 
 https://pdrmf.googlecode.com/files/GUI2%20-%20Kopie.jpg
+
+=== Log ===
+
+Format: 
+
+`[` day / month / year - hour : minute : second `]`
+`[` detection format `]` player gateway IP provider SQLip country state
+
+Detection format: There are six kinds of detection formats. Each OBS option has an own one:
+    * VIA ACC
+    * VIA PROVIDER
+    * VIA IP
+    * VIA SQL
+    * VIA GEO COUNTRY
+    * VIA GEO STATE
+
+You can easily see how the player was detected and you can start investigating with the detected info. This spares you the time to make a full check of every information.
 
 === How to choose a good gamename? ===
 

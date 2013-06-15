@@ -58,7 +58,7 @@ The OBS check will only work if the MODmode is enabled (1). The MODmode will onl
 || IE Check || Checks if the IE installed ||
 || Connection Check || Checks if you are connected to the internet ||
 || Ready || The Login button gets enabled and you can start ||
-
+|| Error. Re-log! || see [https://code.google.com/p/pdrmf/wiki/GAreadme#Errors errors]) ||
 || Buttons ||
 || Login || Logs you ins ||
 || _Automatically log me in_ || Saves the username & password and auto-fills the fields with the latest used data ||

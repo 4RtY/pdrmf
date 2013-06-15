@@ -29,6 +29,7 @@ _It became a full moderation tool for mods to have a live overview of what is go
 *Rarely*, the site content error can lead to a temporarily malfunction of the IE which leads to other weird errors. But simply restarting the GA solves everything. Once again, this error might only appear after very long usage or other unknown problems with the IE & GA.
 
 === Settings ===
+*1 means on/enable, 0 means off/disable*
 || Version || Should not be changed or you get an error. ||
 || !AntiSpam || The delay in seconds until the page will be refreshed and filtered again. Should be set to 5 for new/incoming games. ||
 || IEerror || Since the Interent Explorer is needed, the GA will check if it's installed. In case, it errors because it didn't find it, although it's there, set it to 1 to disable the GA's error. The IEerror also shows IE errors since v1.2.3. ||
@@ -45,7 +46,7 @@ _It became a full moderation tool for mods to have a live overview of what is go
 || MODmode || Enables the OBS checks ||
 || OBSips || A list of ips for which will be checked (e.g.: 999.22.1,929.11.2) ||
 || OBSsqlip || IPs as [http://www.webdnstools.com/dnstools/ipcalc integer] ||
-|| OBScountries || A list of countries/cities to check for (e.g.: Montreal,Port Saint Lucie) ||
+|| OBScountries || A list of countries to check for (e.g.: Germany) ||
 || OBSname || Names to look for ||
 || OBSstate || The state of the player ||
 || OBSlog || Logs the results in a file ||

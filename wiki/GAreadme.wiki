@@ -102,6 +102,7 @@ https://pdrmf.googlecode.com/files/GUI2%20-%20Kopie.jpg
 Format: 
 
 `[` day / month / year - hour : minute : second `]`
+
 `[` detection format `]` player gateway IP provider SQLip country state
 
 Detection format: There are six kinds of detection formats. Each OBS option has an own one:
@@ -113,6 +114,8 @@ Detection format: There are six kinds of detection formats. Each OBS option has 
     * VIA GEO STATE
 
 You can easily see how the player was detected and you can start investigating with the detected info. This spares you the time to make a full check of every information.
+
+If the name was logged due to _VIA ACC_ and the player also contains parts of OBSprovider, _VIA PROVIDER_ *will not* be logged because it would be doubled then.
 
 === How to choose a good gamename? ===
 

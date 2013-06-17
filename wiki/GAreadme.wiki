@@ -48,7 +48,7 @@ _The Game Announcer is a powerful tool which automatically analyzes and observes
 || OBScountries || A list of countries to check for (e.g.: Germany) ||
 || OBSname || Names to look for ||
 || OBSstate || The state of the player ||
-|| OBScity || GA converts the [http://en.wikipedia.org/wiki/List_of_U.S._state_abbreviations ANSI abbreviations] from the ENT page. To filter for them use the GUI city names ||
+|| OBScity || GA converts the [http://en.wikipedia.org/wiki/List_of_U.S._state_abbreviations ANSI abbreviations] from the ENT page. To filter for them use the GUI city names. Depending on the country, the ENT page might as well contain numbers like [http://en.wikipedia.org/wiki/List_of_dialling_codes_in_Germany dailling codes], they'll *not* be converted. ||
 || OBSlog || Logs the results in a file ||
 || Whitelist || A list of names for which will not be logged even if his infos contain some from them above ||
 || !GameHistory || Makes a duplicate of the current lobby as a new GUI. Can be useful if you are ingame and would like to have the information of a player without browsing the forums. ||

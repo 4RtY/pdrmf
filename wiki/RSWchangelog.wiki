@@ -12,6 +12,12 @@
 
 ----
 
+=== v1.3 ===
+
+*+* Added updater & settings
+
+*-* Removed the "Please enter a time" notification
+
 === 22.06.2013 v1.2 ===
 
 *•* Project resumed.

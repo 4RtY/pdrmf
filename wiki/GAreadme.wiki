@@ -109,8 +109,6 @@ https://pdrmf.googlecode.com/files/GUI2%20-%20Kopie.jpg
 
 Format: 
 
-`[` day / month / year - hour : minute : second `]`
-
 `[` detection format `]` player gateway IP provider SQLip country state
 
 Detection format: There are six kinds of detection formats. Each OBS option has an own one:

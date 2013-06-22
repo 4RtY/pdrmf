@@ -1,5 +1,4 @@
 #summary Change Log for the Replay Seeker Watcher
-#labels Deprecated
 <wiki:toc max_depth="3" />
 
 = Legend =

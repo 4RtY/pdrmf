@@ -18,7 +18,7 @@
 
 *~* Fixed the cancel click 
 
-==== • 10.02.2013 Project `[`RSW`]` has been stopped. ====
+=== 10.02.2013 Project `[`RSW`]` has been stopped. ===
 
 === v1.1 ===
 

@@ -12,6 +12,12 @@
 
 ----
 
+=== 22.06.2013 v1.2 ===
+
+*•* Project resumed.
+
+*~* Fixed the cancel click 
+
 == • 10.02.2013 Project `[`RSW`]` has been stopped. ==
 
 === v1.1 ===

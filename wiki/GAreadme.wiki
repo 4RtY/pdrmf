@@ -14,7 +14,7 @@ _The Game Announcer is a powerful tool which automatically analyzes and observes
     * The ENT pages corrects its data with every second update. If a player joins, his ping is often 0 and his gateway is Garena. Thus, this false information will be taken over by the GA _until_ the page corrects itself with the update.
 
 === Beta Bugs ===
-    * If the game you've in your settings is followed by a public game (does not contain [ENT]), the board will most likely mess up some cells. However, it won't affect the users in the desired game.
+    * If the game you've in your settings is followed by a public game (does not contain [!ENT]), the board will most likely mess up some cells. However, it won't affect the users in the desired game.
 
 === Requirement ===
     * Internet Explorer must be installed (I suggest IE10)

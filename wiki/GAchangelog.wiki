@@ -12,7 +12,17 @@
 
 ----
 
-=== v1.3.2 ===
+=== 1.3.3 Priv Beta ===
+
+*~* Fixed column _city_ not to show _---_ if empty
+
+*~* Fixed the OBSlog to log empty lines
+
+*~* Slightly changed the login gui
+
+*~* Fixed rows 11-13 to show content even if there aren't 11-13 slots
+
+=== v1.3.2 Priv Beta ===
 
 *~* Fixed credit file's content
 
@@ -28,7 +38,7 @@
 
 *-* Completely removed the login gui if you stop the tool. It only caused bugs and it doesn't work with the IE in general anyway
 
-=== v1.3.1 ===
+=== v1.3.1 Priv Beta ===
 
 *•* Private Beta
 

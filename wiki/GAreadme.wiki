@@ -1,5 +1,5 @@
 #summary Readme for the Game Announcer
-#labels Featured,Phase-Deploy
+#labels Phase-Deploy
 
 _The Game Announcer is a powerful tool which automatically analyzes and observes the ENT game lobby for you. It notifies you if it detected something and automatically logs it. It also provides some more features to make the moderation easier._
 

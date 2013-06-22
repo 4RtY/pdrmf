@@ -13,4 +13,4 @@ The tool will automatically exit if:
     # after the sync is over
 
 === Hotkeys ===
-|| Alt + Esc || Exists the tool ||
+|| Alt + Esc || Exits the tool ||

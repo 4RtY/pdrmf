@@ -26,6 +26,8 @@
 
 *-* Removed a lot of stuffs to make the tool more smoother
 
+*-* Completely removed the login gui if you stop the tool. It only caused bugs and it doesn't work with the IE in general anyway
+
 === v1.3.1 ===
 
 *•* Private Beta

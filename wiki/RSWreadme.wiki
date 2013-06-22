@@ -1,4 +1,16 @@
 #summary Readme for the Replay Seeker Watcher
 <wiki:toc max_depth="3" />
 
-== • 10.02.2013 Project `[`RSW`]` has been stopped. ==
+_The Replay Seeker Watcher stops the Replay Seeker in case it bugs again. This means: if the seeker forwards behind the given time, the watcher will stop it._
+
+=== How to use it ===
+    * First start the Replay Seeker and enter a time
+    * Then start the watcher and you are done.
+
+The tool will automatically exit if:
+    # the seeker isn't started
+    # no time is given _or_ the time has already been reached
+    # after the sync is over
+
+=== Hotkeys ===
+| Alt + Esc | Exists the tool |

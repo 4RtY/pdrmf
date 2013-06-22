@@ -71,8 +71,6 @@ The OBS check will only work if the MODmode is enabled (1). ~~The MODmode will o
 || _Automatically log me in_ || Saves the username & password and auto-fills the fields with the latest used data ||
 || Information || Gives you an overview of what can go wrong: wrong acc/pw, no access to the admin site, IE failed (see [https://code.google.com/p/pdrmf/wiki/GAreadme#Errors errors]) ||
 
-https://pdrmf.googlecode.com/files/login.jpg
-
 === Buttons ===
 || Start || The start function will first check if the IE is installed, then if you are connected to the internet. It then navigates to the site. ||
 || Stop || Immediately stops the process and resets everything. Also closes the IE. ||
@@ -85,25 +83,20 @@ https://pdrmf.googlecode.com/files/login.jpg
 
 *The Toggle Board and !AlwaysOnTop have been disabled.*
 
-https://pdrmf.googlecode.com/files/GUI.jpg
-
 === Player Information ===
-    * To enable it, set IncGUI=1 in the settings.
 
-    * You can copy each cell of a row by pressing _Alt_ and the corresponding column number (Column _Name_ = 1)
+    * You can copy each cell of a row by pressing _Alt_ and the corresponding column number (starting the number 1 for the column _Name_)
 
-    * You run links (default browser chosen) with the username. Select a line, press ctrl+1 and the link (!UserStatsLink in the settings) will be opened. You've got many possibilities now - depending on your access:
+    * You can run links (default browser chosen) with the username. Select a line, press ctrl+1 and the link (!UserStatsLink in the settings) will be opened. You've got many possibilities now - depending on your access:
        # stats link
        # use the ENT alias checker
        # use the banlist checker, etc
+
+    * You can make an IP range check (xxx.xxx.xxx. instead of xxx.xxx.xxx.xxx) with ctrl+2. Dont forget to select the row to have the correct IP.
    
     * Right click on any line and you copy the current game name
     * If the columns are too big and aren't fully shown in the GUI anymore, you can use your mouse wheel to scroll to the left/right
     * The title contains the current gamename, slot number and corresponding full slot number of the autohosted game, start time (where the GA first seen it), current time and the elapsed time
-
-https://pdrmf.googlecode.com/files/GUI2%20-%20Kopie.jpg
-
-*Alt 7+8 are supported since v1.3.1*
 
 === Log ===
 

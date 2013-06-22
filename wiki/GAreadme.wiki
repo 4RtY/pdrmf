@@ -23,8 +23,8 @@ _The Game Announcer is a powerful tool which automatically analyzes and observes
 === Errors ===
 || Your internet connection must be working. || Try to fix the connection or simply restart the GA ||
 || Internet Explorer isn't installed. || If IE isn't installed, do that or if the GA falsely judged that, set IEerror to 1 ||
-|| Login failed. || Reasons: Wrong account/Password, no access to the admin site ||
-|| Time out! || Loading of the game pages took too long. ||
+|| Login failed. || Reasons: Wrong account/Password or no access to the admin site. ||
+|| Time out! || Loading of the game pages took too long. In that case make manually sure that the ENT page loads correctly. Sometimes, it might be an ENT problem, too. ||
 
 === Settings ===
 *1 means on/enable, 0 means off/disable*

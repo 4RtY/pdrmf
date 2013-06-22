@@ -1,4 +1,4 @@
-#Summary Troubleshooting for the DRMF(2)
+#summary Troubleshooting for the DRMF(2)
 
 == DotA Replay Manager Filter Bugs & Known Problems ==
 

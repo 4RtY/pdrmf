@@ -1,5 +1,5 @@
 #summary Change Log for the Game Announcer
-<wiki:toc max_depth="3" />
+<wiki:toc max_depth="4" />
 
 == Legend ==
 *+* Added

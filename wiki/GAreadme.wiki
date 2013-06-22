@@ -21,13 +21,10 @@ _The Game Announcer is a powerful tool which automatically analyzes and observes
     * (v1.3+) *You must have admin access on [https://entgaming.net/ ENT] to use the tool*
 
 === Errors ===
-|| _Your internet connection must be working_ || Simply reconnect to the internet and try again. ||
-|| _The site content could not be accessed_ || No content to filter was found, so the GA will stop and you either restart it or manually check if the ENT site is really down. ||
-|| _Internet Explorer doesn't exit anymore_ || Although, the IE is hidden so this can't happend, something must have closed the IE process. The GA stops and you can decide to restart it, so a new instance of the IE will be started. ||
-|| _I am not getting any results._ || Either the ENT site for the games is different/new, down/not working or your configuration is false. ||
-|| _Error. Re-log!_ || Seems like you stopped the filtering and wanted to restart it. You'll have to restart the GA completely. It might also be that you don't have admin access to the site. ||
-
-*Rarely*, the site content error can lead to a temporarily malfunction of the IE which leads to other weird errors. But simply restarting the GA solves everything. Once again, this error might only appear after very long usage or other unknown problems with the IE & GA.
+|| Your internet connection must be working. || Try to fix the connection or simply restart the GA ||
+|| Internet Explorer isn't installed. || If IE isn't installed, do that or if the GA falsely judged that, set IEerror to 1 ||
+|| Login failed. || Reasons: Wrong account/Password, no access to the admin site ||
+|| Time out! || Loading of the game pages took too long. ||
 
 === Settings ===
 *1 means on/enable, 0 means off/disable*

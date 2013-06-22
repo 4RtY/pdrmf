@@ -14,8 +14,7 @@ _The Game Announcer is a powerful tool which automatically analyzes and observes
     * The ENT pages corrects its data with every second update. If a player joins, his ping is often 0 and his gateway is Garena. Thus, this false information will be taken over by the GA _until_ the page corrects itself with the update.
 
 === Beta Bugs ===
-    * Randomly stops working
-    * Player Information board (empty) appears after stopping the filter
+    * Come cells are messed up but the problem fixs itself after a few refreshes/a new game
 
 === Requirement ===
     * Internet Explorer must be installed (I suggest IE10)
@@ -44,7 +43,7 @@ _The Game Announcer is a powerful tool which automatically analyzes and observes
 || L_Username || The login username for IE ENT forum. *Don't manually edit this!* ||
 || L_Password || The password for the login. *Don't manually edit this!* ||
 || L_Option || To keep track if you wish to be automatically logged in ||
-|| IncGUI || Enables the Player Information board. *Must be _1_ for the program to work.* ||
+~~|| IncGUI || Enables the Player Information board. *Must be _1_ for the program to work.* ||~~ 
 || MODmode || Enables the OBS checks ||
 || OBSips || A list of ips for which will be checked (e.g.: 999.22.1,929.11.2) ||
 || OBSsqlip || IPs as [http://www.webdnstools.com/dnstools/ipcalc integer] ||

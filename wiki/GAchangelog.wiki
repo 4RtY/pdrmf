@@ -16,6 +16,8 @@
 
 *+* Added IP range checker (see readme, Player Information)
 
+*~* Fixed logging again and remove gateways to avoid double logging due to ENT page updating itself on the second time
+
 ==== v1.3.3 Priv Beta ====
 
 *~* Fixed column _city_ not to show _---_ if empty

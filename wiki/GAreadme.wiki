@@ -53,8 +53,6 @@ _The Game Announcer is a powerful tool which automatically analyzes and observes
 || !GameHistory || Makes a duplicate of the current lobby as a new GUI. Can be useful if you are ingame and would like to have the information of a player without browsing the forums. ||
 || Debug || Logs variables' content and shows certain progress steps ||
 
-The OBS check will only work if the MODmode is enabled (1). ~~The MODmode will only work if IncGUI is enabled (1).~~
-
 *I strongly recommend to use only parts of the IPs or provider/name because it increases the chance of catching a dodger. However, don't choose keywords like "United States" as country because obviously thousand of players will be logged.*
 
 === Login GUI ===
@@ -64,15 +62,12 @@ The OBS check will only work if the MODmode is enabled (1). ~~The MODmode will o
 || IE Check || Checks if the IE installed ||
 || Connection Check || Checks if you are connected to the internet ||
 || Ready || The Login button gets enabled and you can start ||
-|| Error. Re-log! || see [https://code.google.com/p/pdrmf/wiki/GAreadme#Errors errors] ||
 
 || Buttons ||
 || Login || Logs you ins ||
 || _Automatically log me in_ || Saves the username & password and auto-fills the fields with the latest used data ||
-|| Information || Gives you an overview of what can go wrong: wrong acc/pw, no access to the admin site, IE failed (see [https://code.google.com/p/pdrmf/wiki/GAreadme#Errors errors]) ||
 
 === Buttons ===
-|| Start || The start function will first check if the IE is installed, then if you are connected to the internet. It then navigates to the site. ||
 || Stop || Immediately stops the process and resets everything. Also closes the IE. ||
 || Pause/Unpause || Pauses the program. Nothing happens meanwhile and the start hotkey is also disabled. *Note:* After you unpause, everything goes on and the incoming game statistics will most likely be out-dated. Best would be to pause in the anti-spam phase so it goes on with the refreshing after unpausing. ||
 || Toggle Player Information || Can be used to hide/show/recover the window. ||

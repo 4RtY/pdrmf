@@ -18,6 +18,8 @@
 
 *+* Added IP range checker (see readme, Player Information)
 
+*+* Added url check in case you disconnected, so the GA stops
+
 *~* Fixed logging again and remove gateways to avoid double logging due to ENT page updating itself on the second time
 
 *-* Removed the internet check

@@ -22,6 +22,8 @@
 
 *-* Removed the internet check
 
+*-* Removed certain functions which slowed the GA down and caused bugs
+
 ==== v1.3.3 Priv Beta ====
 
 *~* Fixed column _city_ not to show _---_ if empty

@@ -14,9 +14,13 @@
 
 ==== v1.3.4 Priv Beta ====
 
+*+* Added checkbox to toggle IE (show/hide)
+
 *+* Added IP range checker (see readme, Player Information)
 
 *~* Fixed logging again and remove gateways to avoid double logging due to ENT page updating itself on the second time
+
+*-* Removed the internet check
 
 ==== v1.3.3 Priv Beta ====
 

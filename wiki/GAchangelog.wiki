@@ -12,6 +12,10 @@
 
 ----
 
+==== v1.3.5 Priv Beta ====
+
+*~* Added/fixed more filter corrections/replacements
+
 ==== v1.3.4 Priv Beta ====
 
 *+* Added checkbox to toggle IE (show/hide)
@@ -21,8 +25,6 @@
 *+* Added url check in case you disconnected, so the GA stops
 
 *~* Fixed logging again and remove gateways to avoid double logging due to ENT page updating itself on the second time
-
-*~* Fixed filtering
 
 *-* Removed the internet check
 

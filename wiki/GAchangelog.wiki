@@ -16,6 +16,8 @@
 
 *•* v1.3.6 Priv Beta
 
+*+* Added auto-login
+
 *~* Filter corrections
 
 *•* v1.3.5 Priv Beta

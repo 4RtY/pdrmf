@@ -12,11 +12,13 @@
 
 ----
 
-==== v1.3.5 Priv Beta ====
+=== v1.3 Beta Changelog ===
+
+*•* v1.3.5 Priv Beta
 
 *~* Added/fixed more filter corrections/replacements
 
-==== v1.3.4 Priv Beta ====
+*•* v1.3.4 Priv Beta
 
 *+* Added checkbox to toggle IE (show/hide)
 
@@ -30,7 +32,7 @@
 
 *-* Removed certain functions which slowed the GA down and caused bugs
 
-==== v1.3.3 Priv Beta ====
+*•* v1.3.3 Priv Beta
 
 *~* Fixed column _city_ not to show _---_ if empty
 
@@ -40,7 +42,7 @@
 
 *~* Fixed rows 11-13 to show content even if there aren't 11-13 slots
 
-==== v1.3.2 Priv Beta ====
+*•* v1.3.2 Priv Beta
 
 *~* Fixed credit file's content
 
@@ -56,7 +58,7 @@
 
 *-* Completely removed the login gui if you stop the tool. It only caused bugs and it doesn't work with the IE in general anyway
 
-==== v1.3.1 Priv Beta ====
+*•* v1.3.1 Priv Beta
 
 *•* Private Beta
 

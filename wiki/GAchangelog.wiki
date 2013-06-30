@@ -26,6 +26,12 @@
 
 *+* Added url check in case you disconnected, so the GA stops
 
+*~* New filter algorithm
+
+*~* If the gateway is empty it's _G/E_ for either Garena or econnect.
+
+*~* Fixed cell if empty
+
 *~* Filter corrections
 
 *~* Fixed logging again and remove gateways to avoid double logging due to ENT page updating itself on the second time
@@ -55,6 +61,10 @@
 *-* Removed a lot of stuffs to make the tool more smoother
 
 *-* Completely removed the login gui if you stop the tool. It only caused bugs and it doesn't work with the IE in general anyway
+
+*-* Removed disable sound
+
+*-* Removed notifications for new/current games
 
 === 15.06.2013 v1.3 ===
 ==== 09.06.2013 Version for Enterprise Gaming ====

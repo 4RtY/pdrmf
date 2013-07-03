@@ -39,7 +39,6 @@ _The Game Announcer is a powerful tool which automatically analyzes and observes
 || L_Username || The login username for IE ENT forum. *Don't manually edit this!* ||
 || L_Password || The password for the login. *Don't manually edit this!* ||
 || L_Option || To keep track if you wish to be automatically logged in ||
-|| ~~IncGUI~~ || ~~Enables the Player Information board. *Must be _1_ for the program to work.*~~ || 
 || MODmode || Enables the OBS checks ||
 || OBSips || A list of ips for which will be checked (e.g.: 999.22.1,929.11.2) ||
 || OBSsqlip || IPs as [http://www.webdnstools.com/dnstools/ipcalc integer] ||

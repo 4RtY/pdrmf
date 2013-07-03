@@ -15,9 +15,6 @@ _The Game Announcer is a powerful tool which automatically analyzes and observes
     * *G/E* means Garena _or_ Econnect. 
     * The page and the GA wont filter corresponding to the slots. If the only player in the lobby is on slot 10, the GA will put him on slot 1 until new players joined.
 
-=== Bugs ===
-    * The login might fail, although the account and password are correct. If it doesn't work after the third attempt, just restart the tool.
-
 === Requirement ===
     * Internet Explorer must be installed (I suggest IE10)
     * (v1.3+) *You must have admin access on [https://entgaming.net/ ENT] to use the tool*
@@ -25,7 +22,7 @@ _The Game Announcer is a powerful tool which automatically analyzes and observes
 === Errors ===
 || Your internet connection must be working. || Try to fix the connection or simply restart the GA ||
 || Internet Explorer isn't installed. || If IE isn't installed, do that or if the GA falsely judged that, set IEerror to 1 ||
-|| Login failed. || Reasons: Wrong account/Password or no access to the admin site. ||
+|| Login failed. || Reasons: Wrong account/Password or no access to the admin site. Might as well be a tech issue - simply restart the tool to fix it. ||
 || Time out! || Loading of the game pages took too long. In that case make manually sure that the ENT page loads correctly. Sometimes, it might be an ENT problem, too. ||
 
 === Settings ===

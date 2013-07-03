@@ -14,3 +14,10 @@ The tool will automatically exit if:
 
 === Hotkeys ===
 || Esc || Exits the tool ||
+
+=== Known Bugs ===
+
+Since the tool isn't that important, certain bugs won't be fixed.
+    * If the replay seeker doesn't exist, the message box pops up two times.
+    * If the tool version is higher than the settings' version, nothing happens.
+    * Rarely, even the RSW doesn't stop the RS.

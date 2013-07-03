@@ -13,6 +13,7 @@ _The Game Announcer is a powerful tool which automatically analyzes and observes
     * (v1.3+) *Supports all kind of games but only for one game name will be filtered.*
     * The ENT pages corrects its data with every second update. If a player joins, his ping is often 0 and his gateway is Garena. Thus, this false information will be taken over by the GA _until_ the page corrects itself with the update.
     * The page and the GA wont filter corresponding to the slots. If the only player in the lobby is on slot 10, the GA will put him on slot 1 until new players joined.
+    * *G/E* means Garena _or_ Econnect. 
 
 === Bugs ===
     * The login might fail, although the account and password are correct. If it doesn't work after the third attempt, just restart the tool.

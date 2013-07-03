@@ -12,7 +12,13 @@
 
 ----
 
-=== v1.3 Beta Changelog ===
+=== v1.3.7 ===
+
+*+* Added a notification for Anti-Spam if the value is below 3. The user will be informed about the advantages of a higher value.
+
+=== 03.07.2013 v1.3.6 ===
+
+==== v1.3 Beta Changelog ====
 
 *+* Supports alt+7 & 8
 

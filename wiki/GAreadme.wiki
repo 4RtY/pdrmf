@@ -12,9 +12,10 @@ _The Game Announcer is a powerful tool which automatically analyzes and observes
     * The options _IEerros_ and _IEvisible_ will not be functional if you don't restart the GA. This means: You can change any other options while running the GA and they'll be taken over.
     * (v1.3+) *Supports all kind of games but only for one game name will be filtered.*
     * The ENT pages corrects its data with every second update. If a player joins, his ping is often 0 and his gateway is Garena. Thus, this false information will be taken over by the GA _until_ the page corrects itself with the update.
+    * The page and the GA wont filter corresponding to the slots. If the only player in the lobby is on slot 10, the GA will put him on slot 1 until new players joined.
 
-=== Beta Bugs ===
-    * If the game you've in your settings is followed by a public game (does not contain `[`ENT`]`), the board will most likely mess up some cells. However, it won't affect the users in the desired game.
+=== Bugs ===
+    * The login might fail, although the account and password are correct. If it doesn't work after the third attempt, just restart the tool.
 
 === Requirement ===
     * Internet Explorer must be installed (I suggest IE10)

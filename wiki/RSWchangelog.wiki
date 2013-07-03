@@ -12,9 +12,11 @@
 
 ----
 
-=== v1.3.1 ===
+=== 03.07.2013 v1.3.1 ===
 
 *~* Fixed typo in the update beta version message
+
+*~* Fixed a bug
 
 === 22.06.2013 v1.3 ===
 

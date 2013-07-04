@@ -16,7 +16,7 @@
 
 *+* Added a notification for Anti-Spam if the value is below 3. The user will be informed about the advantages of a higher value.
 
-*~* Removing <html> in header
+*~* Removing `<`html`>` in header
 
 === 03.07.2013 v1.3.6 ===
 

@@ -13,14 +13,15 @@
 
 ----
 
-== 31.05.2013 v1.5.2 ==
+== v1.5.3 ==
 
-*•* Current beta testing versions:
-    * v1.5.1.2
-    * v1.5.1.3
-    * v1.5.1.4
-    * v1.5.1.5
-    * v1.5.1.6
+*~* Fixed hackcheck for one user
+
+*~* Fixed the 0x51 action (trade hack)
+
+*~* Fixed specific hero search
+
+== 31.05.2013 v1.5.2 ==
 
 *•* The size of the exe increases because:
     * new off-line readme text

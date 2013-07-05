@@ -15,11 +15,7 @@
 
 == v1.5.3 ==
 
-*~* Fixed hackcheck for one user
-
-*~* Fixed the 0x51 action (trade hack)
-
-*~* Fixed specific hero search
+*~* [https://code.google.com/p/pdrmf/issues/list?can=1&q=v1.5.2&colspec=ID+Summary+Status+Priority+Type+Opened+Modified+Closed&cells=tiles Bug fixes]
 
 == 31.05.2013 v1.5.2 ==
 

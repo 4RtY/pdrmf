@@ -1,6 +1,6 @@
 #summary Change Log for the merged DotA Replay Manager Filter
 #labels Featured
-<wiki:toc max_depth="3" />
+<wiki:toc max_depth="4" />
 
 = Legend =
 *+* Added
@@ -105,7 +105,7 @@ _Credits to beta tester._
 
 *~* Modifier hotkey link in the settings (tab: hotkeys) has been changed to a more detailed one
 
-== 29.11.2012 v1.5 ==
+=== 29.11.2012 v1.5 ===
 
 *~* Some [https://code.google.com/p/pdrmf/issues/list?can=1&q=v1.4&colspec=ID+Summary+Status+Priority+Type+Opened+Modified+Closed+Reporter&cells=tiles changes & bug fixes]
 
@@ -134,15 +134,15 @@ _Credits to beta tester._
 
 *-* Removed EEC from ID menu
 
-=== Alpha 1.4.2 ===
+==== Alpha 1.4.2 ====
 
 *~* Fixed playerlist for ID
 
-=== Alpha 1.4.1 === 
+==== Alpha 1.4.1 ==== 
 
 *•* Hotfix due to the playerlist
 
-== 23.10.2012 v1.4 ==
+=== 23.10.2012 v1.4 ===
 
 *~* Fixed the not working playerlist for DotA
 
@@ -154,7 +154,7 @@ _Credits to beta tester._
 
 *-* Removed the debugging ctrl+d hotkey which presses the load button in the DRM (forgot to remove)
 
-== 10.10.2012 v1.3 ==
+=== 10.10.2012 v1.3 ===
 
 *•* Will be compiled as x32 for x32 users - x64 can use it anyway
 
@@ -191,7 +191,7 @@ _Added a GUI for icon downloading. Settings, logo and placeholder icons are auto
 *+* Added the 'clicks-on-heroes' filter an option to add a hero's name which should not be added to the list.
 E.g: I want all clicks of the user xyz but then I also get his own hero's clicks listed - entering his hero's name in the inputbox will solve this. (Can be disabled in the settings or the box can be cancelled if it pops up)
 
-== 22.09.2012 v1.2 ==
+=== 22.09.2012 v1.2 ===
 
 *~* Added/Changed lots of details to improve the program's usability.
 
@@ -211,7 +211,7 @@ E.g: I want all clicks of the user xyz but then I also get his own hero's clicks
 
 *•* 'Game info' tab does not have to be selected anymore!
 
-== 16.09.2012 v1.1 ==
+=== 16.09.2012 v1.1 ===
 
 *~* Reload now also pressed the 'load action log' button (so you don't have to select to tabs because of the playerlist)
 
@@ -235,7 +235,7 @@ E.g: I want all clicks of the user xyz but then I also get his own hero's clicks
 
 *•* Game info tab has to be opened if using the player refreshing button
 
-== 27.08.2012 v1.0 ==
+=== 27.08.2012 v1.0 ===
 
 *•* Started --- Based on: DotA v5.1 `|` ID v6.5 
 
@@ -251,6 +251,6 @@ E.g: I want all clicks of the user xyz but then I also get his own hero's clicks
 
 *~* The update option will now check for both ID and DotA. (Will probably be changed to check the DRMF2's (merged) version only.
 
-== Story ==
+=== Story ===
 
 The whole DRMF project started on the 06.05.2012 with version 1.0 of the DRMF for Island Defense. Then the DRMF for DotA was coded (18.05.2012) and beginning with the 27th of august, the DRMF2 started.

@@ -2,7 +2,7 @@
 #labels Featured
 <wiki:toc max_depth="4" />
 
-= Legend =
+== Legend ==
 *+* Added
 
 *-* Removed
@@ -251,6 +251,6 @@ E.g: I want all clicks of the user xyz but then I also get his own hero's clicks
 
 *~* The update option will now check for both ID and DotA. (Will probably be changed to check the DRMF2's (merged) version only.
 
-=== Story ===
+== Story ==
 
 The whole DRMF project started on the 06.05.2012 with version 1.0 of the DRMF for Island Defense. Then the DRMF for DotA was coded (18.05.2012) and beginning with the 27th of august, the DRMF2 started.

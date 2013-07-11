@@ -13,19 +13,19 @@
 
 ----
 
-== v1.5.4 ==
+=== v1.5.4 ===
 
 *~* Fixed the drop down box for the enemy click checker
 
 *~* Disabled _Beta_ variable
 
-== 05.07.2013 v1.5.3 ==
+=== 05.07.2013 v1.5.3 ===
 
 *~* [https://code.google.com/p/pdrmf/issues/list?can=1&q=v1.5.2&colspec=ID+Summary+Status+Priority+Type+Opened+Modified+Closed&cells=tiles Bug fixes]
 
 *~* Fixed specific hero search for one user in combination with the user exception option
 
-== 31.05.2013 v1.5.2 ==
+=== 31.05.2013 v1.5.2 ===
 
 *•* The size of the exe increases because:
     * new off-line readme text

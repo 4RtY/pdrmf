@@ -19,6 +19,8 @@
 
 *~* Fixed empty result for DotA solo hackcheck
 
+*~* Fixed symbols in settings gui
+
 *~* Disabled _Beta_ variable
 
 === 05.07.2013 v1.5.3 ===

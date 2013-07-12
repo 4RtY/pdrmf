@@ -17,6 +17,8 @@
 
 *~* Fixed the drop down box for the enemy click checker
 
+*~* Fixed empty result for DotA solo hackcheck
+
 *~* Disabled _Beta_ variable
 
 === 05.07.2013 v1.5.3 ===

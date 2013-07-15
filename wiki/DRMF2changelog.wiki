@@ -15,6 +15,8 @@
 
 === v1.5.4 ===
 
+*~* Fixed to get an error message after usage of hero exception with third user
+
 *~* Fixed the drop down box for the enemy click checker
 
 *~* Fixed empty result for DotA solo hackcheck
@@ -22,6 +24,8 @@
 *~* Fixed symbols in settings gui
 
 *~* Disabled _Beta_ variable
+
+*-* Removed Info & Done box
 
 === 05.07.2013 v1.5.3 ===
 

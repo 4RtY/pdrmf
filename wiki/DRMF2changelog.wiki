@@ -15,6 +15,8 @@
 
 === v1.5.4 ===
 
+*~* ECC has been disabled for LoD because it doesn't work with it.
+
 *~* Fixed to get an error message after usage of hero exception with third user
 
 *~* Fixed the drop down box for the enemy click checker

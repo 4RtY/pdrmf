@@ -23,9 +23,11 @@
 
 *~* Fixed symbols in settings gui
 
+*~* Fixed the ECC gui to have 2 empty lines as options
+
 *~* Disabled _Beta_ variable
 
-*-* Removed Info & Done box
+*-* Removed Info, Done and "Please be patient" box
 
 === 05.07.2013 v1.5.3 ===
 

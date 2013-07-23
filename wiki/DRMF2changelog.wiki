@@ -15,6 +15,12 @@
 
 === v1.5.4 ===
 
+*+* Added a menu item to close all result windows
+
+*+* Added LoD detection to the analyzer
+
+*~* Fixed the ECC suggestion GUI for only 3 results
+
 *~* ECC has been disabled for LoD because it doesn't work with it.
 
 *~* Fixed to get an error message after usage of hero exception with third user

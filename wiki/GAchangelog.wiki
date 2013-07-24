@@ -14,6 +14,8 @@
 
 === v1.3.8 ===
 
+*+* Added toggle option to hide main GUI
+
 *~* Fixed updater on installing
 
 *~* If the gamename is _n/a_, it wont be copied

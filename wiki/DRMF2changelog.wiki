@@ -13,12 +13,13 @@
 
 ----
 
-=== 26.07.2013 ===
+=== v1.5.4 ===
+
+==== 26.07.2013 ====
 
 *•* Development for Legion TD started.
     * Currently changed (_developer notes_): LTDchosen, LTD, start-up, refresh, test var
 
-=== v1.5.4 ===
 
 *+* Added a menu item to close all result windows
 

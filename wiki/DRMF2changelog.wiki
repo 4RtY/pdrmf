@@ -16,6 +16,7 @@
 === 26.07.2013 ===
 
 *•* Development for Legion TD started.
+    * Currently changed (_developer notes_): LTDchosen, LTD, start-up, refresh, test var
 
 === v1.5.4 ===
 

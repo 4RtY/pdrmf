@@ -51,10 +51,10 @@ The Enemy Click Checker hero suggestion GUI, suggests as the name says heroes of
 By typing first letters of the heroes you would like to add and then using the cursor of the keyboard, you can select a hero of the list.
 By using alt+a you can add them, with alt+r you can start the process. If you don't want to check for a suggested hero, uncheck him with a simple click.
 
-=== Sync & SyncStore ===
+=== Sync & !SyncStore ===
 
     * *Sync* is an option for all three (ID, DotA, LTD). It aims to remove double lines which often appear due to the DRM glitch. It also removes Scenario Triggers
-    * *SyncStore* is an option only for LTD. It removes the stats data which is being logged by the bot in the log.
+    * *!SyncStore* is an option only for LTD. It removes the stats data which is being logged by the bot in the log.
 
 *Both options are strongly recommended for LTD to dramatically reduce the result size.*
 

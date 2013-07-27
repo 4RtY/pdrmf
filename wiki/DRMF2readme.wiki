@@ -79,6 +79,8 @@ By using alt+a you can add them, with alt+r you can start the process. If you do
 || Neutrals || Lists you all selection on neutral units & buildings. ||
 || Anti-Stuck || Lists you all anti-stuck usages. ||
 || Detonation || Lists you all worker detonations. ||
+|| Sync & !SyncStore || [https://code.google.com/p/pdrmf/wiki/DRMF2readme#Sync_&_SyncStore Describtion] ||
+|| HackCheck || [https://code.google.com/p/pdrmf/wiki/DRMF2readme#HackCheck Describtion] ||
 
 === Sync & !SyncStore ===
 
@@ -106,6 +108,7 @@ If enabled it will also clear the clipboard each time a new filter GUI was initi
       # If _EnableECC_ is also activated (1), it will check for hero clicks as well
       # the currently *disabled* option _ECCgui_ gives you a hero suggestion of the enemy team (*only for DRMF2 DotA*)
 
+*Disabled for LoD.*
 
 === Features ===
 ==== !ResultCrawler ====

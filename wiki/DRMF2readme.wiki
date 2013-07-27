@@ -51,6 +51,35 @@ The Enemy Click Checker hero suggestion GUI, suggests as the name says heroes of
 By typing first letters of the heroes you would like to add and then using the cursor of the keyboard, you can select a hero of the list.
 By using alt+a you can add them, with alt+r you can start the process. If you don't want to check for a suggested hero, uncheck him with a simple click.
 
+=== Option Overview ===
+|| Commands || Shows the usage of bot commands. ||
+|| Share || Lists all share actions. ||
+|| Chat Log || Shows the chat log. ||
+|| All || Lists all the communication to the opposite team. ||
+|| Allies || Lists all the communication to the allied team. ||
+|| Private Chat || Lists the private chats. ||
+|| Item Usage || Shows every usage/drop/switch/move actions of items. ||
+|| Ping || Lists all pings. ||
+|| Subgroup || Lists you all selections. ||
+|| Click on ground || Lists you all right clicks. ||
+|| Change selection || Lists you all selection changes. ||
+|| Group Hotkey || Lists you all group hotkeys. ||
+|| Buildings targeted || Lists you all building selections only. ||
+|| Kills || Lists you all the kills. ||
+|| Deaths || Lists you all the deaths. ||
+|| Assists || Lists you all the assisted kills. ||
+|| Runes || Lists you which runes were picked up. ||
+|| Spells || Shows you which spells were used. ||
+|| Courier || Lists you all clicks on couriers. ||
+|| Heroes || Lists you all clicks on heroes. ||
+|| Sentinel || Lists you all clicks on sentinel buildings. ||
+|| Scourge || Lists you all clicks on scourge buildings. ||
+|| Builders || Lists you all selection of the unit group _Builders_. ||
+|| Titans || Lists you all selection on the titan's force. ||
+|| Neutrals || Lists you all selection on neutral units & buildings. ||
+|| Anti-Stuck || Lists you all anti-stuck usages. ||
+|| Detonation || Lists you all worker detonations. ||
+
 === Sync & !SyncStore ===
 
     * *Sync* is an option for all three (ID, DotA, LTD). It aims to remove double lines which often appear due to the DRM glitch. It also removes Scenario Triggers

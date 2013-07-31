@@ -13,7 +13,7 @@
 
 ----
 
-=== 31.7.2013 v1.5.4 ===
+=== 31.07.2013 v1.5.4 ===
 
 *•* _26/7/2013_ Development for Legion TD started - [https://code.google.com/p/pdrmf/issues/list?can=1&q=id%3A194%2C195%2C196%2C197%2C198%2C199%2C200%2C202%2C204 Changes]
 

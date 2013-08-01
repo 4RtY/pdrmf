@@ -43,3 +43,11 @@ _Secret ENT staff tool for gathering information._
 || Buttons ||
 || Login || Logs you ins ||
 || _Automatically log me in_ || Saves the username & password and auto-fills the fields with the latest used data ||
+
+=== Cryptography ===
+
+The Game Announcers use the cryptography from 'Deo' who [http://www.autohotkey.com/board/topic/67155-ahk-l-crypt-ahk-cryptography-class-encryption-hashing/ published the source code] on !AutoHotkey.net. I am not the owner nor the creater and don't claim any credit for it.
+
+The GA encrypts the username and password input using AES_128 encryption and MD5 hash and writes it to the settings.ini
+
+For the auto-field filling, it reads the strings from the ini and decrypts them for the input only.

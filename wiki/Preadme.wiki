@@ -6,4 +6,40 @@ _Secret ENT staff tool for gathering information._
 
 <wiki:toc max_depth="3" />
 
+=== Requirement ===
+    * Internet Explorer must be installed (I suggest IE10)
+    * (v1.3+) *You must have admin access on [https://entgaming.net/ ENT] to use the tool*
+
+=== Errors ===
+|| Your internet connection must be working. || Try to fix the connection or simply restart the GA ||
+|| Internet Explorer isn't installed. || If IE isn't installed, do that or if the GA falsely judged that, set IEerror to 1 ||
+|| Login failed. || Reasons: Wrong account/Password or no access to the admin site. Might as well be a tech issue - simply restart the tool to fix it. ||
+|| Time out! || Loading of the game pages took too long. In that case make manually sure that the ENT page loads correctly. Sometimes, it might be an ENT problem, too. ||
+
 === Settings ===
+*1 means on/enable, 0 means off/disable*
+|| Version || Don't touch it. ||
+|| IEerror || Shows Internet Explorer errors. ||
+|| IEvisible || Shows or hides the IE. ||
+|| size || The font size of the result. ||
+|| LastUsageDay || Don't touch it. ||
+|| L_Username || Forum login name. *Don't manually edit it.* ||
+|| L_Password || Forum login password. *Don't manually edit it.* ||
+|| L_Option || Saves the login data in the settings. ||
+|| AutoLogin || Logs you automatically in. ||
+|| KeyUsers || Communication from those users. ||
+|| KeyWords || Communication containing those words. ||
+|| KeyUnique || Same as KeyWords. ||
+|| Users || Users who will be listed in the combobox where you can choose from. It will automatically add new users to the settings. ||
+
+=== Login GUI ===
+
+|| Login Status ||
+|| Starting IE || Starts the Internet Explorer ||
+|| IE Check || Checks if the IE installed ||
+|| Connection Check || Checks if you are connected to the internet ||
+|| Ready || The Login button gets enabled and you can start ||
+
+|| Buttons ||
+|| Login || Logs you ins ||
+|| _Automatically log me in_ || Saves the username & password and auto-fills the fields with the latest used data ||

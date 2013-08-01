@@ -16,6 +16,8 @@ _Secret ENT staff tool for gathering information._
 || Login failed. || Reasons: Wrong account/Password or no access to the admin site. Might as well be a tech issue - simply restart the tool to fix it. ||
 || Time out! || Loading of the game pages took too long. In that case make manually sure that the ENT page loads correctly. Sometimes, it might be an ENT problem, too. ||
 
+If you still get a login error, turn IEvisible to 1 and if it annoys you, you can toggle it off later.
+
 === Settings ===
 *1 means on/enable, 0 means off/disable*
 || Version || Don't touch it. ||

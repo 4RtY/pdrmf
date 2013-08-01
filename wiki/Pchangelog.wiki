@@ -1,0 +1,9 @@
+#summary Changelog for the project P
+
+*Changelog is currently under construction.*
+
+<wiki:toc max_depth="3" />
+
+=== v1.0 ===
+
+=== 26.07.2013 Unofficial start ===

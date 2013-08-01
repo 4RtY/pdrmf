@@ -26,7 +26,7 @@ _Secret ENT staff tool for gathering information._
 || L_Username || Forum login name. *Don't manually edit it.* ||
 || L_Password || Forum login password. *Don't manually edit it.* ||
 || L_Option || Saves the login data in the settings. ||
-|| AutoLogin || Logs you automatically in. ||
+|| !AutoLogin || Logs you automatically in. ||
 || !KeyUsers || Communication from those users. ||
 || !KeyWords || Communication containing those words. ||
 || !KeyUnique || Same as !KeyWords. ||

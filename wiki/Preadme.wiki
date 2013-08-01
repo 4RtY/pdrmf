@@ -22,14 +22,14 @@ _Secret ENT staff tool for gathering information._
 || IEerror || Shows Internet Explorer errors. ||
 || IEvisible || Shows or hides the IE. ||
 || size || The font size of the result. ||
-|| LastUsageDay || Don't touch it. ||
+|| !LastUsageDay || Don't touch it. ||
 || L_Username || Forum login name. *Don't manually edit it.* ||
 || L_Password || Forum login password. *Don't manually edit it.* ||
 || L_Option || Saves the login data in the settings. ||
 || AutoLogin || Logs you automatically in. ||
-|| KeyUsers || Communication from those users. ||
-|| KeyWords || Communication containing those words. ||
-|| KeyUnique || Same as KeyWords. ||
+|| !KeyUsers || Communication from those users. ||
+|| !KeyWords || Communication containing those words. ||
+|| !KeyUnique || Same as !KeyWords. ||
 || Users || Users who will be listed in the combobox where you can choose from. It will automatically add new users to the settings. ||
 
 === Login GUI ===

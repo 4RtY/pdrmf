@@ -2,4 +2,4 @@
 
 All tools on this page are automatically checking for updates if it's the 1th, 8th, 16th or 23th of a month.
 
-For some programs, you can also manually check for it by pressing the update button _or_ you change the _LastUsageDay_ value in the settings to either 01, 08, 16 or 23 to trigger an update check on start-up.
+For some programs, you can also manually check for it by pressing the update button _or_ you change the _!LastUsageDay_ value in the settings to either 01, 08, 16 or 23 to trigger an update check on start-up.

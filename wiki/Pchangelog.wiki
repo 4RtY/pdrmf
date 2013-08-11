@@ -4,6 +4,18 @@
 
 <wiki:toc max_depth="3" />
 
+=== 11.08.2013 v1.2 ===
+
+*+* Added abort button
+
+*+* Added GUI changing button
+
+*~* Fixed specific user
+
+*~* Fixed other stuffs
+
+=== 10.08.2013 v1.1 ===
+
 === 01.08.2013 v1.0 ===
 
 === 26.07.2013 Started developing ===

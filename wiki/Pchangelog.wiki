@@ -4,6 +4,10 @@
 
 <wiki:toc max_depth="3" />
 
+=== v1.3 ===
+
+*+* Specific User GUI will automatically filter for the user's chat as well without modifying the settings
+
 === 11.08.2013 v1.2 ===
 
 *+* Added abort button

@@ -23,7 +23,7 @@ If you still get a login error, turn IEvisible to 1 and if it annoys you, you ca
 || Version || Don't touch it. ||
 || IEerror || Shows Internet Explorer errors. ||
 || IEvisible || Shows or hides the IE. ||
-|| size || The font size of the result. ||
+|| size || The font size of the result text. ||
 || !LastUsageDay || Don't touch it. ||
 || L_Username || Forum login name. *Don't manually edit it.* ||
 || L_Password || Forum login password. *Don't manually edit it.* ||
@@ -45,6 +45,26 @@ If you still get a login error, turn IEvisible to 1 and if it annoys you, you ca
 || Buttons ||
 || Login || Logs you ins ||
 || _Automatically log me in_ || Saves the username & password and auto-fills the fields with the latest used data ||
+
+=== Supported maps ===
+
+The following maps are supported. Maps which are not listed below might not be listed in the result due to server complications.
+
+    * Battleships
+    * Castle Fight
+    * Civilization Wars
+    * Hero Line Wars
+    * Island Defense
+    * Legion TD Mega
+    * Naruto Wars Unlimited
+    * Rabbits vs Sheep
+    * Risk Devolution
+    * Tree Tag
+    * Castle Fight 1v1
+    * Legion TD Mega HR
+    * LIHL (ENT LTD IHL)
+    * DotA euro
+    * DotA us/ca
 
 === Cryptography ===
 

@@ -8,6 +8,8 @@
 
 *+* Specific User GUI will automatically filter for the user's chat as well without modifying the settings
 
+*+* Specific User GUI will list the unfiltered chatlog of a user if no option has been chosen.
+
 === 11.08.2013 v1.2 ===
 
 *+* Added abort button

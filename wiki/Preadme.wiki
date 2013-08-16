@@ -44,7 +44,8 @@ If you still get a login error, turn IEvisible to 1 and if it annoys you, you ca
 
 || Buttons ||
 || Login || Logs you ins ||
-|| _Automatically log me in_ || Saves the username & password and auto-fills the fields with the latest used data ||
+|| _Auto-Login || Automatically logs you in if the info is valid ||
+|| Save Login Data || Saves the hashed login information for the next time ||
 
 === Features ===
 

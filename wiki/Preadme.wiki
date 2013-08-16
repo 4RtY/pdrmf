@@ -6,7 +6,7 @@ _Secret ENT staff tool for gathering information._
 
 <wiki:toc max_depth="3" />
 
-=== Requirement ===
+=== Requirements ===
     * Internet Explorer must be installed (I suggest IE10)
     * (v1.3+) *You must have admin access on [https://entgaming.net/ ENT] to use the tool*
 

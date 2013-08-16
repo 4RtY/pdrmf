@@ -46,6 +46,15 @@ If you still get a login error, turn IEvisible to 1 and if it annoys you, you ca
 || Login || Logs you ins ||
 || _Automatically log me in_ || Saves the username & password and auto-fills the fields with the latest used data ||
 
+=== Features ===
+
+    * Right click on a line to copy the content, right click on multiply lines to copy all of them/add more
+    * Double left click on a lobby/game info line which contains a link to the site to open it
+
+=== Specific User GUI ===
+    * If you choose no option at all, the given username's whole communication will be the unfiltered result.
+    * If you choose no gateway, the first gateway with games on it will be chosen.
+
 === Supported maps ===
 
 The following maps are supported. Maps which are not listed below might not be listed in the result due to server complications.

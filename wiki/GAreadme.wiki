@@ -22,6 +22,8 @@ _The Game Announcer is a powerful tool which automatically analyzes and observes
 || Login failed. || Reasons: Wrong account/Password or no access to the admin site. Might as well be a tech issue - simply restart the tool to fix it. ||
 || Time out! || Loading of the game pages took too long. In that case make manually sure that the ENT page loads correctly. Sometimes, it might be an ENT problem, too. ||
 
+*Do not use the update button while a proxy check is going on.*
+
 === Settings ===
 *1 means on/enable, 0 means off/disable*
 || Version || Should not be changed or you get an error. ||

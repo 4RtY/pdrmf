@@ -16,6 +16,8 @@
 
 *+* Added toggle option to hide main GUI
 
+*+* Added proxy check if enabled (but take a look at the [https://code.google.com/p/pdrmf/wiki/GAreadme#Errors errors])
+
 *~* Fixed updater on installing
 
 *~* If the gamename is _n/a_, it wont be copied

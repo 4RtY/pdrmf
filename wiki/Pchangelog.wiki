@@ -10,6 +10,8 @@
 
 *+* Specific User GUI will list the unfiltered chatlog of a user if no option has been chosen.
 
+*+* Added veto settings to leave out certain lines
+
 === 11.08.2013 v1.2 ===
 
 *+* Added abort button

@@ -16,7 +16,9 @@
 
 *+* Added toggle option to hide main GUI
 
-*+* Added proxy check if enabled (but take a look at the [https://code.google.com/p/pdrmf/wiki/GAreadme#Errors errors])
+*+* Added proxy check if enabled
+
+*+* Added option to disable the alert for an user who was already informed about
 
 *~* Fixed updater on installing
 

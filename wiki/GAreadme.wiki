@@ -110,8 +110,8 @@ If the name was logged due to _VIA ACC_ and the player also contains parts of OB
 === Proxy Check ===
 
 The proxy checker if enabled (1) uses the following two sources to check for a proxy:
-    * http://whatismyipaddress.com/ip-lookup
-    * http://www.ip-adress.com/ip_tracer/
+    * http://whatismyipaddress.com/ip-lookup (_VIA PROXY1_)
+    * http://www.ip-adress.com/ip_tracer/ (_VIA PROXY2_)
 
 If at least one detected an ip as proxy, it will be logged. However, it doesn't mean it's a 100% valid proxy. Make sure to investigate the case.
 

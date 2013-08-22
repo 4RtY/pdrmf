@@ -71,6 +71,7 @@ _The Game Announcer is a powerful tool which automatically analyzes and observes
 || Toggle History || Shows/Hides/Recovers the GUI ||
 || Settings || Opens the settings to edit them ||
 || Log || Opens the log file ||
+|| Tray Icon || Double click the tray icon and it hides the main GUI ||
 
 *The Toggle Board and !AlwaysOnTop have been disabled.*
 

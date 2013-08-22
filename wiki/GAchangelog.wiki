@@ -12,7 +12,7 @@
 
 ----
 
-=== v1.3.8 ===
+=== 22.08.2013 v1.3.8 ===
 
 *+* Added toggle option to hide main GUI
 

@@ -30,7 +30,7 @@ If you still get a login error, turn IEvisible to 1 and if it annoys you, you ca
 || !AutoLogin || Logs you automatically in. ||
 || !KeyUsers || Communication from those users. ||
 || !KeyWords || Communication containing those words. ||
-|| !KeyUnique || Same as !KeyWords. ||
+|| !KeyUnique || Lines containing those words. ||
 || Users || Users who will be listed in the combobox where you can choose from. It will automatically add new users to the settings. ||
 
 === Login GUI ===

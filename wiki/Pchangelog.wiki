@@ -12,6 +12,10 @@
 
 *~* Fixed the td> for some users
 
+=== v1.3.2 ===
+
+*+* Added notification if the IE doesn't exist anymore
+
 === 23.08.2013 v1.3 ===
 
 *+* Specific User GUI will automatically filter for the user's chat as well without modifying the settings

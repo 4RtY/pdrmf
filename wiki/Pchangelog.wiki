@@ -12,6 +12,8 @@
 
 *+* Added veto settings to leave out certain lines
 
+*+* Added veto option to leave out lines containing certain words
+
 === 11.08.2013 v1.2 ===
 
 *+* Added abort button

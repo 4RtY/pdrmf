@@ -4,6 +4,12 @@
 
 <wiki:toc max_depth="3" />
 
+=== v1.3.2 ===
+
+*+* Added notification if the IE doesn't exist anymore
+
+*~* Fixed icon bug on update
+
 === 23.08.2013 v1.3.1 ===
 
 *~* Had to remove some debugging stuffs which caused an error
@@ -11,10 +17,6 @@
 *~* Fixed all ee.entgaming.net links
 
 *~* Fixed the td> for some users
-
-=== v1.3.2 ===
-
-*+* Added notification if the IE doesn't exist anymore
 
 === 23.08.2013 v1.3 ===
 

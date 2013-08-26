@@ -14,7 +14,7 @@
 
 === v1.3.9 ===
 
-*+* Readded sound now that NameList option is available
+*+* Readded sound now that !NameList option is available
 
 *~* Fixed icon bug on update
 

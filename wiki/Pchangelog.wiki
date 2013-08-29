@@ -10,6 +10,8 @@
 
 *~* Fixed icon bug on update
 
+*-* Fixed econnect gateway
+
 === 23.08.2013 v1.3.1 ===
 
 *~* Had to remove some debugging stuffs which caused an error

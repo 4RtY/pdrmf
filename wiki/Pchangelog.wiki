@@ -10,6 +10,8 @@
 
 *~* Fixed icon bug on update
 
+*~* [https://code.google.com/p/pdrmf/issues/list?can=1&q=%5BP%5D+v1.3.1 General bug fixes]
+
 *-* Fixed econnect gateway
 
 === 23.08.2013 v1.3.1 ===

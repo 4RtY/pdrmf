@@ -14,6 +14,8 @@
 
 === v1.3.9 ===
 
+*+* Added RegEx for OBS settings to make it very detailed.
+
 *+* Readded sound now that !NameList option is available
 
 *~* Fixed icon bug on update

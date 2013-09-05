@@ -16,6 +16,8 @@
 
 *+* Added RegEx for OBS settings to make it very detailed.
 
+*+* Added time information to log entries (d:m:y - h:m:s)
+
 *+* Readded sound now that !NameList option is available
 
 *~* Fixed icon bug on update

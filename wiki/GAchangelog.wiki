@@ -14,7 +14,7 @@
 
 === v1.3.9 ===
 
-*+* Added RegEx for OBS settings to make it very detailed.
+*+* Added !RegEx for OBS settings to make it very detailed.
 
 *+* Added time information to log entries (d:m:y - h:m:s)
 

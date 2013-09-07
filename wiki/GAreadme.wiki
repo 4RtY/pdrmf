@@ -122,7 +122,7 @@ The IPs are being saved to avoid mass checking of the same IP which delays the p
 
 Since v1.3.9 the GA also supports [http://en.wikipedia.org/wiki/Regular_expression Regular Expressions] (!RegEx) which will help to make as detailed search patterns as possible. This section will give some examples on how to use them.
 
-    * Basic wildcard for everything: If you've got a provider called: _199-255-210-21.anchorfree.com_, you can simply modify it for the settings like this: {{[199-255-210-(.`*`).anchorfree.com]}} and it will match any provider with the ip range and the provider name. Everything between the minus (-) and the provider name (anchorfree) can be random now. Possible matches:
+    * Basic wildcard for everything: If you've got a provider called: _199-255-210-21.anchorfree.com_, you can simply modify it for the settings like this: {{199-255-210-(.`*`).anchorfree.com}} and it will match any provider with the ip range and the provider name. Everything between the minus (-) and the provider name (anchorfree) can be random now. Possible matches:
 _199-255-210-21.anchorfree.com_
 _199-255-210-225.anchorfree.com_
 _199-255-210-125.anchorfree.com_

@@ -124,11 +124,12 @@ Since v1.3.9 the GA also supports [http://en.wikipedia.org/wiki/Regular_expressi
 
 *Basic wildcard* for everything: If you've got a provider called: _199-255-210-21.anchorfree.com_, you can simply modify it for the settings like this: _199-255-210-*(.`*`)*.anchorfree.com_ and it will match any provider with the ip range and the provider name. Everything between the minus (-) and the provider name (anchorfree) can be a random character. Possible matches: 199-255-210-21.anchorfree.com, 199-255-210-225.anchorfree.com, 199-255-210-125.anchorfree.com, etc.
 
-It also works for provider such as _ip4daa72d0.direct-adsl.nl_. Simply replace the ip range patterns with the wildcard *(.`*`)* and you are done. E.g. _ip4da(.`*`).direct-*(.`*`)*.nl_. Every OBS setting supports RegEx!
+It also works for provider such as _ip4daa72d0.direct-adsl.nl_. Simply replace the ip range patterns with the wildcard *(.`*`)* and you are done. E.g. _ip4da(.`*`).direct-*(.`*`)*.nl_. Every OBS setting supports !RegEx!
 
 For more details on what you can use: [http://l.autohotkey.net/docs/misc/RegEx-QuickRef.htm http://l.autohotkey.net/docs/misc/RegEx-QuickRef.htm]
 
 *Important:* Some characters have to be _escaped_. Those are \.`*`?+[{|()^$ must be preceded by a backslash to be seen as literal. For example, \. is a literal period and \\ is a literal backslash.
+An example would be the OBSnames which can be used to detect name spoofers via |. Since this character has to be escaped, add it in your settings as _\|_.
 
 === How to choose a good gamename? ===
 

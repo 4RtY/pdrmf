@@ -122,9 +122,13 @@ The IPs are being saved to avoid mass checking of the same IP which delays the p
 
 Since v1.3.9 the GA also supports [http://en.wikipedia.org/wiki/Regular_expression Regular Expressions] (!RegEx) which will help to make as detailed search patterns as possible. This section will give some examples on how to use them.
 
-*Basic wildcard* for everything: If you've got a provider called: _199-255-210-21.anchorfree.com_, you can simply modify it for the settings like this: _199-255-210-*(.`*`)*.anchorfree.com_ and it will match any provider with the ip range and the provider name. Everything between the minus (-) and the provider name (anchorfree) can be a random character. Possible matches: 199-255-210-21.anchorfree.com, 199-255-210-225.anchorfree.com, 199-255-210-125.anchorfree.com
+*Basic wildcard* for everything: If you've got a provider called: _199-255-210-21.anchorfree.com_, you can simply modify it for the settings like this: _199-255-210-*(.`*`)*.anchorfree.com_ and it will match any provider with the ip range and the provider name. Everything between the minus (-) and the provider name (anchorfree) can be a random character. Possible matches: 199-255-210-21.anchorfree.com, 199-255-210-225.anchorfree.com, 199-255-210-125.anchorfree.com, etc.
 
-It also works for provider such as _ip4daa72d0.direct-adsl.nl_. Simply replace the ip range patterns with the wildcard *(.`*`)* and you are done. E.g. _ip4da(.`*`).direct-*(.`*`)*.nl_
+It also works for provider such as _ip4daa72d0.direct-adsl.nl_. Simply replace the ip range patterns with the wildcard *(.`*`)* and you are done. E.g. _ip4da(.`*`).direct-*(.`*`)*.nl_. Every OBS setting supports RegEx!
+
+For more details on what you can use: [http://l.autohotkey.net/docs/misc/RegEx-QuickRef.htm http://l.autohotkey.net/docs/misc/RegEx-QuickRef.htm]
+
+*Important:* Some characters have to be _escaped_. Those are \.`*`?+[{|()^$ must be preceded by a backslash to be seen as literal. For example, \. is a literal period and \\ is a literal backslash.
 
 === How to choose a good gamename? ===
 

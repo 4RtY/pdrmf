@@ -16,7 +16,7 @@
 
 *+* Added information board with links if you double left click a line
 
-*+* Added ProxyFilter option
+*+* Added !ProxyFilter option
 
 *~* Slightly changed the login process. It will skip the steps if the url was successfully accessed.
 

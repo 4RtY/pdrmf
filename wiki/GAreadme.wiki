@@ -47,6 +47,7 @@ _The Game Announcer is a powerful tool which automatically analyzes and observes
 || !GameHistory || Makes a duplicate of the current lobby as a new GUI. Can be useful if you are ingame and would like to have the information of a player without browsing the forums. ||
 || namelist || Disables the alert system for a player once it informed you about him (to avoid mass spamming) ||
 || proxycheck || Enables proxy checking ||
+|| !ProxyFilter || A list of key words to check for while scanning IP for proxy ||
 || Debug || Logs variables' content and shows certain progress steps. (Should only be activated if you encounter errors/bugs.)||
 
 *I strongly recommend to use only parts of the IPs or provider/name because it increases the chance of catching a dodger. However, don't choose keywords like "United States" as country because obviously thousand of players will be logged.*

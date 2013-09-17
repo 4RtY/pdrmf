@@ -24,7 +24,7 @@
 
 *+* Added Game History GUI font size from the settings
 
-*~* Fixed after-update login
+*~* Fixed login after update
 
 *~* Speeded up first filtering
 

@@ -18,6 +18,10 @@
 
 *+* Added !ProxyFilter option
 
+*+* Added Game History GUI font size from the settings
+
+*~* Fixed after-update login
+
 *~* Slightly changed the login process. It will skip the steps if the url was successfully accessed.
 
 === 07.09.2013 v1.3.9 ===

@@ -14,6 +14,10 @@
 
 === v1.4 ===
 
+*+* Added two tools:
+    * IP Converter (converts IP to sql)
+    * Hostname Converter (converts hostnames to IPs and IPs to hostnames)
+
 *+* Added information board with links if you double left click a line
 
 *+* Added !ProxyFilter option

@@ -8,6 +8,6 @@
 For the Game Announcer:
     * The '[http://www.autohotkey.com/board/topic/67155-ahk-l-crypt-ahk-cryptography-class-encryption-hashing/ Crypt - ahk cryptography class (Encryption, Hashing)]' script is coded by 'Deo'.
 
-    * The '[http://www.autohotkey.com/board/topic/67989-func-httprequest-for-web-apis-ahk-b-ahk-lunicodex64/ HTTPRequest: for Web APIs [AHK-B + AHK-L+Unicode+x64]]' script is coded by '[VxE]'.
+    * The '[http://www.autohotkey.com/board/topic/67989-func-httprequest-for-web-apis-ahk-b-ahk-lunicodex64/ HTTPRequest: for Web APIs [AHK-B + AHK-L+Unicode+x64]]' script is coded by '[!VxE]'.
 
     * The '[http://www.autohotkey.com/forum/viewtopic.php?p=355775 AHKsock - A simple AHK implementation of Winsock (TCP/IP)]' is coded by '!TheGood'.

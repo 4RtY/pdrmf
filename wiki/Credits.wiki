@@ -4,3 +4,12 @@
    * Yokola95 for testing the Game Announcer v1.1
    * Users for reporting bugs and suggesting new things
    * [http://www.autohotkey.com/ AutoHotkey] & the ahk community for their help
+
+The cryptography script is coded by 'Deo'.
+http://www.autohotkey.com/board/topic/67155-ahk-l-crypt-ahk-cryptography-class-encryption-hashing/
+
+The 'HTTPRequest' script is coded by '[VxE]'.
+http://www.autohotkey.com/board/topic/67989-func-httprequest-for-web-apis-ahk-b-ahk-lunicodex64/
+
+The 'AHKsock - A simple AHK implementation of Winsock (TCP/IP)' is coded by 'TheGood'
+http://www.autohotkey.com/forum/viewtopic.php?p=355775

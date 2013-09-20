@@ -4,7 +4,7 @@
 
 <wiki:toc max_depth="3" />
 
-=== v1.3.2 ===
+=== 20.09.2013 v1.3.2 ===
 
 *+* Added notification if the IE doesn't exist anymore
 

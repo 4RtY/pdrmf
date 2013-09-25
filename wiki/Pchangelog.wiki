@@ -4,6 +4,10 @@
 
 <wiki:toc max_depth="3" />
 
+=== v1.3.3 ===
+
+*~* [https://code.google.com/p/pdrmf/issues/list?can=1&q=id%3D223%2C224 Bug fixes]
+
 === 20.09.2013 v1.3.2 ===
 
 *+* Added notification if the IE doesn't exist anymore

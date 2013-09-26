@@ -15,7 +15,7 @@
 
 === v1.5.5 ===
 
-*+* Added _Sentry Ward_ unit ID _oeye_
+*+* Added _Sentry Ward_ unit ID _oeye_ for DotA
 
 === 31.07.2013 v1.5.4 ===
 

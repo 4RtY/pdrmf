@@ -2,6 +2,7 @@
    * Damat & !DonTomaso for the [http://dotasecrets.wordpress.com/latest-downloads/softwares/replay-parsers/replay-seeker/ ReplaySeeker]
    * Metall-Drago & !BurnShady for testing the first versions of the DotA Replay Manager Filter (2)
    * Yokola95 for testing the Game Announcer v1.1
+   * 13omb for reporting not replaced unit IDs
    * Users for reporting bugs and suggesting new things
    * [http://www.autohotkey.com/ AutoHotkey] & the ahk community for their help
 

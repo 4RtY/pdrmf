@@ -16,6 +16,7 @@
 === v1.5.5 ===
 
 *+* Added _Sentry Ward_ unit ID _oeye_ for DotA
+*+* Added _Goblin Land Mine_ unit ID _n00O_ for DotA
 
 === 31.07.2013 v1.5.4 ===
 

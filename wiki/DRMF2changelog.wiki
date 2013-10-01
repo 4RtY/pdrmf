@@ -15,10 +15,11 @@
 
 === v1.5.5 ===
 
-*+* Added 
+*+* Added
     * _Sentry Ward_ unit ID _oeye_
     * _Goblin Land Mine_ unit ID _n00O_
     * _Spirit Tower - level 2_ unit ID _u00D_
+    * _Crypt Fiend (Burrowed)_ unit ID _u010_
 
 === 31.07.2013 v1.5.4 ===
 

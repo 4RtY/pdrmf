@@ -133,6 +133,8 @@ For more *details* on what you can use: [http://l.autohotkey.net/docs/misc/RegEx
 An example would be the OBSnames which can be used to detect name spoofers via |. Since this character has to be escaped, add it in your settings as _\|_.
 
 *REGEX IS CASE SENSITIVE! burn is not the same as Burn*
+To avoid this, make the search string case-insensitive:
+*i)*burn will look for burn and Burn
 
 === How to choose a good gamename? ===
 

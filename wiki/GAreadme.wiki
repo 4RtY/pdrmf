@@ -132,6 +132,8 @@ For more *details* on what you can use: [http://l.autohotkey.net/docs/misc/RegEx
 *Important:* Some characters have to be _escaped_. Those are \.`*`?+[{|()^$ must be preceded by a backslash to be seen as literal. For example, \. is a literal period and \\ is a literal backslash.
 An example would be the OBSnames which can be used to detect name spoofers via |. Since this character has to be escaped, add it in your settings as _\|_.
 
+*REGEX IS CASE SENSITIVE! burn is not the same as Burn*
+
 === How to choose a good gamename? ===
 
 Choosing a good gamename to filter for, you'll first have to find out which gamenames exist. So check out this [https://entgaming.net/forum/games.php site]. As example, I'll use Island Defense. The gamename on the site is: `[`ENT`]` Island Defense #xxx. Since there're not any other gamenames, writing _Island Defense_ in the settings will be enough. However, there're other games like DotA. Simply writing DotA as a gamename won't be enough - it will find the first gamename containing DotA and it might not be the one you wanted.

@@ -18,6 +18,8 @@
 
 *~* If an OBS has been detected, it wont check for proxies
 
+*~* Anti-Spam delay max set to 9 seconds and minimum still 3 seconds
+
 === 20.09.2013 v1.4 ===
 
 *+* Added two tools:

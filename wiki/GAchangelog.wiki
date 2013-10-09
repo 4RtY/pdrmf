@@ -12,9 +12,11 @@
 
 ----
 
-=== v1.4.1 ===
+=== v1.5 ===
 
 *+* Added Settings GUI
+
+*+* Added Profile Manager (for OBS)
 
 *~* If an OBS has been detected, it wont check for proxies
 

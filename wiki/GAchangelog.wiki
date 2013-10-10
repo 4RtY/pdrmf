@@ -22,6 +22,8 @@
 
 *~* Anti-Spam delay max set to 9 seconds and minimum still 3 seconds
 
+*~* Other [https://code.google.com/p/pdrmf/issues/list?can=1&q=GA+v1.4.0 changes & fixes]
+
 === 20.09.2013 v1.4 ===
 
 *+* Added two tools:

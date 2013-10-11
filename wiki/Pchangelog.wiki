@@ -1,14 +1,12 @@
 #summary Changelog for the project P
 
-*Changelog is currently under construction.*
-
 <wiki:toc max_depth="3" />
 
 === v1.3.3 ===
 
 *+* [https://code.google.com/p/pdrmf/wiki/Preadme#Features RButton feature]
 
-*~* [https://code.google.com/p/pdrmf/issues/list?can=1&q=id%3D223%2C224 Bug fixes]
+*~* [https://code.google.com/p/pdrmf/issues/list?can=1&q=P+v1.3.2 Bug fixes]
 
 === 20.09.2013 v1.3.2 ===
 

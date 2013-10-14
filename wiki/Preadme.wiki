@@ -32,8 +32,8 @@ If you still get a login error, turn IEvisible to 1 and if it annoys you, you ca
 || !KeyWords || Communication containing those words. ||
 || !KeyUnique || Lines containing those words. ||
 || Users || Users who will be listed in the combobox where you can choose from. It will automatically add new users to the settings. ||
-|| TrackUsers || Enables the tracking of users who often play with the specific user ||
-|| UserIndex || Number of games to put the 'friends' on the list ||
+|| !TrackUsers || Enables the tracking of users who often play with the specific user ||
+|| !UserIndex || Number of games to put the 'friends' on the list ||
 || Veto || Lines to keep out ||
 
 === Login GUI ===

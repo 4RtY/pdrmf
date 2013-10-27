@@ -24,7 +24,9 @@
     * _Soul Keeper_ unit ID _E02U_
     * _Soul Keeper_ unit ID _E02W_
 
-*~* Fixed settings gui (EnableECC and Monthly)
+*~* Fixed settings gui (load and save)
+
+*~* Fixed !ResultCrawler
 
 === 31.07.2013 v1.5.4 ===
 

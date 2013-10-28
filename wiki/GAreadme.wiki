@@ -109,6 +109,8 @@ You can easily see how the player was detected and you can start investigating w
 
 If the name was logged due to _VIA ACC_ and the player also contains parts of OBSprovider, _VIA PROVIDER_ *will not* be logged because it would be doubled then.
 
+=== Multi Game ===
+
 === Proxy Check ===
 
 The proxy checker if enabled (1) uses the following two sources to check for a proxy:

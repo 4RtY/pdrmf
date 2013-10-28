@@ -16,6 +16,8 @@
 
 *+* Added [https://code.google.com/p/pdrmf/wiki/GAreadme?ts=1382976448&updated=GAreadme#Multi_Game multi game] support
 
+*+* Added Profile Edit option (handy for MG)
+
 *~* Increased time-out duration from 20 to 60 seconds (3 tries)
 
 *~* Fixed _gamename1_ changing the content after changing the current profile and saving it without actually changing it

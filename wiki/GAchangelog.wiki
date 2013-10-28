@@ -14,7 +14,9 @@
 
 === v1.4.2 ===
 
-*~* Fixed _gamename1_ changing the content after changing the profile and saving it without changing the current gamename
+*+* Added [https://code.google.com/p/pdrmf/wiki/GAreadme?ts=1382976448&updated=GAreadme#Multi_Game multi game] support
+
+*~* Fixed _gamename1_ changing the content after changing the current profile and saving it without actually changing it
 
 === 20.10.2013 v1.4.1 ===
 

@@ -48,6 +48,7 @@ _The Game Announcer is a powerful tool which automatically analyzes and observes
 || namelist || Disables the alert system for a player once it informed you about him (to avoid mass spamming) ||
 || proxycheck || Enables proxy checking ||
 || !ProxyFilter || A list of key words to check for while scanning IP for proxy ||
+|| !MultiGames || Enables the !MutliGames feature (see below) ||
 || Debug || Logs variables' content and shows certain progress steps. (Should only be activated if you encounter errors/bugs.)||
 
 *I strongly recommend to use only parts of the IPs or provider/name because it increases the chance of catching a dodger. However, don't choose keywords like "United States" as country because obviously thousand of players will be logged.*
@@ -112,8 +113,8 @@ If the name was logged due to _VIA ACC_ and the player also contains parts of OB
 === Multi Game ===
 
     * If enabled (1), it will collect each game name from the profiles and their settings and checks the current ENT games for it.
-    * ProxyCheck does only work for the default profile.
-    * The profile will be logged as _MG_ (MultiGames) because no specific profile is loaded.
+    * !ProxyCheck does only work for the default profile.
+    * The profile will be logged as _MG_ (!MultiGames) because no specific profile is loaded.
     * The Player Information Board only lists the default profile game.
 
 === Proxy Check ===

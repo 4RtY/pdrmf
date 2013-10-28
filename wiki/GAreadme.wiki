@@ -112,10 +112,9 @@ If the name was logged due to _VIA ACC_ and the player also contains parts of OB
 
 === Multi Game ===
 
-    * If enabled (1), it will collect each game name from the profiles and their settings and checks the current ENT games for it.
-    * All settings apply on all games.
+    * If enabled (1), it will collect each game name from the profiles with the corresponding settings and checks the current ENT games for it.
+    * Every game will keep its own settings profile
     * !ProxyCheck does only work for the default profile.
-    * The profile will be logged as _MG_ (!MultiGames) because no specific profile is loaded.
     * The Player Information Board only lists the default profile game.
 
 === Proxy Check ===

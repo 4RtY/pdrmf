@@ -96,7 +96,7 @@ _The Game Announcer is a powerful tool which automatically analyzes and observes
 
 Format: 
 
-`[` a - b :: c - d `]` e 
+`[`a - b :: c - d`]` e 
 
    * *a* being the date
    * *b* being the time

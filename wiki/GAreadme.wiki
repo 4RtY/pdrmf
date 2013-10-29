@@ -96,19 +96,24 @@ _The Game Announcer is a powerful tool which automatically analyzes and observes
 
 Format: 
 
-`[` detection format `]` player gateway IP provider SQLip country state
+`[` a - b :: c - d `]` e 
 
-Detection format: There are six kinds of detection formats. Each OBS option has an own one:
-    * VIA ACC
-    * VIA PROVIDER
-    * VIA IP
-    * VIA SQL
-    * VIA GEO COUNTRY
-    * VIA GEO STATE
+   * *a* being the date
+   * *b* being the time
+   * *c* being the profile
+   * *d* being the OBS setting (how it got detected)
+   * *e* being the rest of the player information. Detection format: There are six kinds of detection formats. Each OBS option has an own one:
+    # VIA ACC
+    # VIA PROVIDER
+    # VIA IP
+    # VIA SQL
+    # VIA GEO COUNTRY
+    # VIA GEO STATE
 
 You can easily see how the player was detected and you can start investigating with the detected info. This spares you the time to make a full check of every information.
 
 If the name was logged due to _VIA ACC_ and the player also contains parts of OBSprovider, _VIA PROVIDER_ *will not* be logged because it would be doubled then.
+You receive a traytip notification, regardless if the user is already logged or not.
 
 === Multi Game ===
 

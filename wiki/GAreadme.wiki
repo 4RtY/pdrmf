@@ -50,7 +50,7 @@ _The Game Announcer is a powerful tool which automatically analyzes and observes
 || !ProxyFilter || A list of key words to check for while scanning IP for proxy ||
 || !MultiGames || Enables the !MutliGames feature (see below) ||
 || Debug || Logs variables' content and shows certain progress steps. (Should only be activated if you encounter errors/bugs.)||
-|| DoubleLog || If enabled, it logs the results with gateway. However, due to the G/E issue, the result be will be double logged.||
+|| !DoubleLog || If enabled, it logs the results with gateway. However, due to the G/E issue, the result be will be double logged.||
 
 *I strongly recommend to use only parts of the IPs or provider/name because it increases the chance of catching a dodger. However, don't choose keywords like "United States" as country because obviously thousand of players will be logged.*
 

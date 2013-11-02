@@ -14,6 +14,8 @@
 
 === v1.4.2 ===
 
+*+* Added RegEx Hostname Range Checker to specific user info GUI
+
 *+* Added _!DoubleLog_ option
 
 *+* Added [https://code.google.com/p/pdrmf/wiki/GAreadme?ts=1382976448&updated=GAreadme#Multi_Game multi game] support

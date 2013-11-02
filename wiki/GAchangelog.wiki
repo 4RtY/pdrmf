@@ -14,7 +14,7 @@
 
 === v1.4.2 ===
 
-*+* Added RegEx Hostname Range Checker to specific user info GUI
+*+* Added !RegEx Hostname Range Checker to specific user info GUI
 
 *+* Added _!DoubleLog_ option
 

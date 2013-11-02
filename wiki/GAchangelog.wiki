@@ -14,6 +14,8 @@
 
 === v1.4.2 ===
 
+*+* Added _DoubleLog_ option
+
 *+* Added [https://code.google.com/p/pdrmf/wiki/GAreadme?ts=1382976448&updated=GAreadme#Multi_Game multi game] support
 
 *+* Added Profile Edit option (handy for MG)

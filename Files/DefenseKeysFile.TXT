@@ -1,6 +1,6 @@
 // DefenseKeys - aRt)Y - ProjectDRMF@gmail.com
 // The last line are the options and belong in the settings.ini
-// Last Update: 29.01.2013
+// Last Update: 03.11.2013
 
 [CmdMove]
 [CmdMove] // Command Move
@@ -60,6 +60,98 @@ Name=Repair
 Tip=|cffffcc00R|repair
 Hotkey=R
 Unhotkey=R
+[end]
+[Granitacles]
+[Granitacles]
+[A0F3] // Pebble Toss
+Name="Pebble Toss"
+Hotkey=T
+Researchhotkey=T
+[A00K] // Sand Storm
+Name="Sand Storm"
+Tip="Sand Storm (|cffffcc00V|r)","",""
+Hotkey=V
+Researchhotkey="V"
+[A00O] // Sentry Stone
+Name="Sentry Stone"
+Tip="Sentry Stone (|cffffcc00D|r)","Sentry Stone (|cffffcc00D|r)","Sentry Stone (|cffffcc00D|r)"
+Hotkey=D
+[A026] // Atrribute Bonus
+Name=Attribute Bonus
+Researchhotkey="U"
+[A00E] // Earth's Valor
+Name="Earth's Valor"
+Tip="(|cffffcc00X|r) Activate Earth's Valor"
+Hotkey=X
+Researchhotkey="X"
+[A0FL] // Hurl Boulder
+Name="Hurl Boulder"
+Tip="Hurl Boulder - (|cffffd700Q|r)","Acid |cffffcc00B|romb - [|cffffcc00Level 2|r]","Acid |cffffcc00B|romb - [|cffffcc00Level 3|r]"
+Hotkey=Q
+Researchhotkey=B
+[A022] // Healing Stone
+Name="Healing Stone"
+Tip="(|cffffcc00E|r) Healing Stone","H|cffffcc00e|raling Stone","H|cffffcc00e|raling Stone"
+Hotkey=E
+[end]
+[Voltron]
+[Voltron]
+[A05Y] // Forked Lightning
+Name=Forked Lightning
+Tip="Forked Lightning (|cffffcc00Q|r) - [|cffffcc00Level 1|r]","Forked Lightning (|cffffcc00Q|r) - [|cffffcc00Level 2|r]","Forked Lightning (|cffffcc00Q|r) - [|cffffcc00Level 3|r]"
+Hotkey=Q
+Researchhotkey="Q"
+[A05Z] // Static Sphere
+Name="Static Sphere"
+Tip="Static Sphere (|cffffcc00E|r) - [|cffffcc00Level 1|r]","Static Sphere (|cffffcc00E|r) - [|cffffcc00Level 2|r]","Static Sphere (|cffffcc00E|r) - [|cffffcc00Level 3|r]","Static Sphere (|cffffcc00E|r) - [|cffffcc00Level 4|r]"
+Hotkey=E
+Researchhotkey="E"
+[A05X] // Ionic Shield
+Name="Ionic Shield"
+Researchhotkey="I"
+[A061] // Conduction
+Name="Conduction"
+Tip="Conduction (|cffffcc00X|r)","|cffffcc00B|rlink - [|cffffcc00Level 2|r]","|cffffcc00B|rlink - [|cffffcc00Level 3|r]"
+Hotkey=X
+Researchhotkey="X"
+[A05W] // Atmospheric Charge
+Name="Atmospheric Charge"
+Tip="Atmospheric Charge (|cffffcc00D|r)"
+Researchhotkey="R"
+Hotkey=D
+[A062] // Dark Current
+Name="Dark Current"
+Tip="Dark Current (|cffffcc00V|r)","",""
+Hotkey=V
+Researchhotkey="D"
+[end]
+[Bubonicus]
+[Bubonicus]
+[A06M] // Death Void
+Name="Death Void"
+Tip="Death Void (|cffffcc00V|r)","",""
+Hotkey=V
+Researchhotkey="V"
+[A0G7] // Corpse Launch
+Name="Corpse Launch"
+Tip="Corpse Launch (|cffffcc00Q|r) - [|cffffcc00Level 1|r]","Corpse Launch (|cffffcc00Q|r) - [|cffffcc00Level 2|r]","Corpse Launch (|cffffcc00Q|r) - [|cffffcc00Level 3|r]"
+Hotkey=Q
+Researchhotkey="Q"
+[A06K] // Bloodlust
+Name=Bloodlust
+Tip="Bloodlust (|cffffcc00C|r) - [|cffffcc00Level 1|r]","Bloodlust (|cffffcc00C|r) - [|cffffcc00Level 2|r]","Bloodlust (|cffffcc00C|r) - [|cffffcc00Level 3|r]"
+Hotkey=C
+Researchhotkey=C
+[A0EJ] // Spray of Decay
+Name="Spray of Decay"
+Tip="Spray of Decay (|cffffcc00E|r) - [|cffffcc00Level 1|r]","Spray of Decay (|cffffcc00E|r) - [|cffffcc00Level 2|r]","Spray of Decay (|cffffcc00E|r) - [|cffffcc00Level 3|r]","Spray of Decay (|cffffcc00E|r) - [|cffffcc00Level 4|r]"
+Hotkey=E
+Researchhotkey="E"
+[A08S] // Plague
+Name="Plague"
+Tip="Plague (|cffffcc00X|r)"
+Hotkey=X
+Researchhotkey="X"
 [end]
 [Murloc]
 [Murloc]
@@ -599,4 +691,4 @@ Hotkey=R
 Tip="Purchase |cffffcc00R|regenerative Spines"
 [end]
 
-// ---Commands---|CmdMove|CmdStop|CmdHoldPos|CmdAttack|CmdPatrol|CmdSelectSkill|CmdCancel|---Miscs---|Gather Gold|Gather|Repair|Teleport|Blink|---Builders---|Murloc|Gnoll|Dryad|Arachnid|Pirate|Troll|Ogre|Radioactive|Morphling|Tauren|Draenei|Pandaren|Huntress|Demonologist|Faerie Dragon|Goblin|Nature|Magnataur|Satyr|---Scret Shop---|Eye|Wards|Potion|Scroll|Trident|Scales|Shadowstone|TP|ManualP|ManualH|GreaterTurtleRecipe|BracersRecipe|HammerRecipe|WillRecipe|MightRecipe|RingRecipe|CloakRecipe|StoneRecipe|Teleporter|Sword|---Merchant of Recipes|DominatorRec|AnkhRec|ArmorFateRec|GauntletsRageRec|ShadowCatcherRec|LifeEssRec|---Merchant of Consumables---|Chimaera|ReplenishmentPotion|Wand|StaffOfTeleportation|---Merchant of Artifacts---|WindCatcher|Pearl|MoonCrystal|MagicCoral|AbysmalWater|TridentOfPower|GemOfHaste|Webbed|RegSpines
+// Options=---Commands---|CmdMove|CmdStop|CmdHoldPos|CmdAttack|CmdPatrol|CmdSelectSkill|CmdCancel|---Miscs---|Gather Gold|Gather|Repair|Teleport|Blink|---Titans---|Granitacles|Voltron|Bubonicus|---Builders---|Murloc|Gnoll|Dryad|Arachnid|Pirate|Troll|Ogre|Radioactive|Morphling|Tauren|Draenei|Pandaren|Huntress|Demonologist|Faerie Dragon|Goblin|Nature|Magnataur|Satyr|---Scret Shop---|Eye|Wards|Potion|Scroll|Trident|Scales|Shadowstone|TP|ManualP|ManualH|GreaterTurtleRecipe|BracersRecipe|HammerRecipe|WillRecipe|MightRecipe|RingRecipe|CloakRecipe|StoneRecipe|Teleporter|Sword|---Merchant of Recipes|DominatorRec|AnkhRec|ArmorFateRec|GauntletsRageRec|ShadowCatcherRec|LifeEssRec|---Merchant of Consumables---|Chimaera|ReplenishmentPotion|Wand|StaffOfTeleportation|---Merchant of Artifacts---|WindCatcher|Pearl|MoonCrystal|MagicCoral|AbysmalWater|TridentOfPower|GemOfHaste|Webbed|RegSpines

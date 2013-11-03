@@ -62,9 +62,12 @@ To sum this up: At the beginning of a game, make sure the hotkeys are working co
     * The spell blink for Speed Turtle, Balthasar,  Greater Gnoll Tracker, Gnoll Tracker, Furbolg Shaman, Spearloc, Stone Thrower, Abominable Snow Man, Greater Speed Turtle, Tauren Guard
 
 === Titans ===
-    * Granitacles (all spells)
-    * Voltron (all spells)
-    * Bubonicus (all spells)
+==== Granitacles ====
+    * all spells
+==== Voltron ====
+    * all spells
+==== Bubonicus ====
+    * all spells
 
 === Builders ===
 ==== Murloc ====

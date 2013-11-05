@@ -35,7 +35,7 @@ _The Game Announcer is a powerful tool which automatically analyzes and observes
 || L_Username || The login username for IE ENT forum. *Don't manually edit this!* ||
 || L_Password || The password for the login. *Don't manually edit this!* ||
 || L_Option || To keep track if you wish to be automatically logged in ||
-|| AutoLogin || Logs you automatically in if login data is given. ||
+|| !AutoLogin || Logs you automatically in if login data is given. ||
 || MODmode || Enables the OBS checks ||
 || OBSips || A list of ips for which will be checked (e.g.: 999.22.1,929.11.2) ||
 || OBSsqlip || IPs as [http://www.webdnstools.com/dnstools/ipcalc integer] ||
@@ -93,6 +93,16 @@ _The Game Announcer is a powerful tool which automatically analyzes and observes
     * Right click on any line and you copy the current game name
     * If the columns are too big and aren't fully shown in the GUI anymore, you can use your mouse wheel to scroll to the left/right
     * The title contains the current gamename, slot number and corresponding full slot number of the autohosted game, start time (where the GA first seen it), current time and the elapsed time
+
+=== Whitelist ===
+
+Since the whitelist has been given a gateway specific feature, I'll explain how to use it.
+
+If you add _user1@europe.battle.net_ in the settings and the detected user1 is from europe, it will not be logged. If he's from a different realm, he will be logged.
+
+If you do not care about specific realms, just put _user1_ in the settings.
+
+Whitelist supports RegEx, so you can also use _user1@(.*)west(.*)
 
 === Log ===
 

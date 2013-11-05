@@ -19,7 +19,7 @@ _The Game Announcer is a powerful tool which automatically analyzes and observes
 === Errors ===
 || Your internet connection must be working. || Try to fix the connection or simply restart the GA ||
 || Internet Explorer isn't installed. || If IE isn't installed, do that or if the GA falsely judged that, set IEerror to 1 ||
-|| Login failed. || Reasons: Wrong account/Password or no access to the admin site. Might as well be a tech issue - simply restart the tool to fix it. ||
+|| Login failed. || Reasons: Wrong account/Password or no access to the admin site. Might as well be a tech issue - simply restart the tool after waiting one or two minutes to fix it. ||
 || Time out! || Loading of the game pages took too long. In that case make manually sure that the ENT page loads correctly. Sometimes, it might be an ENT problem, too. ||
 
 === Settings ===
@@ -28,13 +28,14 @@ _The Game Announcer is a powerful tool which automatically analyzes and observes
 || !AntiSpam || The delay in seconds until the page will be refreshed and filtered again. Should be set to 5 for new/incoming games. ||
 || IEerror || Since the Interent Explorer is needed, the GA will check if it's installed. In case, it errors because it didn't find it, although it's there, set it to 1 to disable the GA's error. The IEerror also shows IE errors since v1.2.3. ||
 || IEvisible || If set to 1, you can see the IE. If set to 0, it's hidden. ||
-|| !RefreshDelay || The GA waits for the IE to finish refreshing the site. It's checking every x millisconds when it's done (x = the number you entered). Although, it should work with a pretty low number as well, tests have proven, it's fixing this problem with a higher one. Just test it out yourself. ||
-|| Gamename1 || Is the main game with the highest priority. The notification system will only work for this one. ||
+|| !RefreshDelay || The GA waits for the IE to finish refreshing the site. It's checking every x millisconds when it's done (x = the number you entered). Although, it should work with a pretty low number as well, tests have proven, it's fixing this problem with a higher one. Just test it out yourself. (3 min, 9 max) ||
+|| GamenameX || Default gamename for the player information board. ||
 || !AlwaysOnTop2 || Makes the Player Information window always on top by default. ||
-|| !UserStatsLink || You can used any link you want which will be opened with the username. ||
+|| !UserStatsLink || You can used any link you want which will be opened with the username.||
 || L_Username || The login username for IE ENT forum. *Don't manually edit this!* ||
 || L_Password || The password for the login. *Don't manually edit this!* ||
 || L_Option || To keep track if you wish to be automatically logged in ||
+|| AutoLogin || Logs you automatically in if login data is given. ||
 || MODmode || Enables the OBS checks ||
 || OBSips || A list of ips for which will be checked (e.g.: 999.22.1,929.11.2) ||
 || OBSsqlip || IPs as [http://www.webdnstools.com/dnstools/ipcalc integer] ||
@@ -48,11 +49,11 @@ _The Game Announcer is a powerful tool which automatically analyzes and observes
 || namelist || Disables the alert system for a player once it informed you about him (to avoid mass spamming) ||
 || proxycheck || Enables proxy checking ||
 || !ProxyFilter || A list of key words to check for while scanning IP for proxy ||
+|| DisableSound || (0) turns sound on, (1) turns sound off ||
 || !MultiGames || Enables the !MutliGames feature (see below) ||
 || Debug || Logs variables' content and shows certain progress steps. (Should only be activated if you encounter errors/bugs.)||
 || !DoubleLog || If enabled, it logs the results with gateway. However, due to the G/E issue, the result be will be double logged.||
-
-*I strongly recommend to use only parts of the IPs or provider/name because it increases the chance of catching a dodger. However, don't choose keywords like "United States" as country because obviously thousand of players will be logged.*
+|| ProfileX || The name of the profile which you can later edit/load/delete ||
 
 === Login GUI ===
 

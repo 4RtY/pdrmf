@@ -49,7 +49,7 @@ _The Game Announcer is a powerful highly individually configurable tool which au
 || namelist || Disables the alert system for a player once it informed you about him (to avoid mass spamming) ||
 || proxycheck || Enables proxy checking ||
 || !ProxyFilter || A list of key words to check for while scanning IP for proxy ||
-|| DisableSound || (0) turns sound on, (1) turns sound off ||
+|| !DisableSound || (0) turns sound on, (1) turns sound off ||
 || !MultiGames || Enables the !MutliGames feature (see below) ||
 || Debug || Logs variables' content and shows certain progress steps. (Should only be activated if you encounter errors/bugs.)||
 || !DoubleLog || If enabled, it logs the results with gateway. However, due to the G/E issue, the result be will be double logged.||

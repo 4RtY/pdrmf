@@ -127,7 +127,7 @@ You can easily see how the player was detected and you can start investigating w
 If the name was logged due to _VIA ACC_ and the player also contains parts of OBSprovider, _VIA PROVIDER_ *will not* be logged because it would be doubled then.
 You receive a traytip notification, regardless if the user is already logged or not.
 
-If _DoubleLog_ is activated, both _G/E_ and _gateway_ of the user will be logged.
+If _!DoubleLog_ is activated, both _G/E_ and _gateway_ of the user will be logged.
 
 === Profile Manager ===
 
@@ -153,7 +153,7 @@ Deletes a custom profile. Deleting the default profile is not possible!
     * !ProxyCheck does only work for the default profile.
     * The Player Information Board only lists the default profile game.
 
-If you didn't add any custom profiles, it wont affect the GA at all. The MultiGame option simply loads the other profiles as well.
+If you didn't add any custom profiles, it wont affect the GA at all. The !MultiGame option simply loads the other profiles as well.
 
 In the custom profile, you can add two game names in one. For example:
 _Gamename4=DotA apem us/ca,DotA arem us/ca_
@@ -171,7 +171,7 @@ If at least one detected an ip as proxy, it will be logged. However, it doesn't 
 
 The IPs are being saved to avoid mass checking of the same IP which delays the process. However, after a restart, it starts from zero again.
 
-ProxyCheck works only for the current loaded default profile.
+!ProxyCheck works only for the current loaded default profile.
 
 === Regular Expressions ===
 

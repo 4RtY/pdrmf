@@ -102,7 +102,7 @@ If you add _user1@europe.battle.net_ in the settings and the detected user1 is f
 
 If you do not care about specific realms, just put _user1_ in the settings.
 
-Whitelist supports RegEx, so you can also use _user1@(.*)west(.*)
+Whitelist supports !RegEx, so you can also use _user1@(.`*`)west(.`*`)
 
 === Log ===
 

@@ -26,6 +26,8 @@
 
 *~* Fixed _gamename1_ changing the content after changing the current profile and saving it without actually changing it
 
+*~* Private beta testing [https://code.google.com/p/pdrmf/issues/list?can=1&q=GA+v1.4.1 fixes/adjustments]
+
 === 20.10.2013 v1.4.1 ===
 
 *+* Added Settings GUI
@@ -37,8 +39,6 @@
 *~* Anti-Spam delay max set to 9 seconds and minimum still 3 seconds
 
 *~* Other [https://code.google.com/p/pdrmf/issues/list?can=1&q=GA+v1.4.0 changes & fixes]
-
-*~* Private beta testing [https://code.google.com/p/pdrmf/issues/list?can=1&q=GA+v1.4.1 fixes/adjustments]
 
 === 20.09.2013 v1.4 ===
 

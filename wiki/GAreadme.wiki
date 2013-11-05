@@ -153,6 +153,8 @@ Deletes a custom profile. Deleting the default profile is not possible!
     * !ProxyCheck does only work for the default profile.
     * The Player Information Board only lists the default profile game.
 
+If you didn't add any custom profiles, it wont affect the GA at all. The MultiGame option simply loads the other profiles as well.
+
 In the custom profile, you can add two game names in one. For example:
 _Gamename4=DotA apem us/ca,DotA arem us/ca_
 

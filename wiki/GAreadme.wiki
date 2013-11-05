@@ -117,12 +117,37 @@ You can easily see how the player was detected and you can start investigating w
 If the name was logged due to _VIA ACC_ and the player also contains parts of OBSprovider, _VIA PROVIDER_ *will not* be logged because it would be doubled then.
 You receive a traytip notification, regardless if the user is already logged or not.
 
+If _DoubleLog_ is activated, both _G/E_ and _gateway_ of the user will be logged.
+
+=== Profile Manager ===
+
+==== Add ====
+You can add profiles. Giving a profile name and game name is necessary. If you want to enter new keywords, put them in a new line for each of them.
+
+==== Load ====
+Load a new profile as default one (for the player information board).
+
+==== Edit ====
+Enables you to edit a custom profile (except the default - current loaded - one (you can find them in the settings gui)).
+
+Put new keywords in a new line
+
+==== Delete ====
+
+Deletes a custom profile. Deleting the default profile is not possible!
+
 === Multi Game ===
 
     * If enabled (1), it will collect each game name from the profiles with the corresponding settings and checks the current ENT games for it.
     * Every game will keep its own settings profile
     * !ProxyCheck does only work for the default profile.
     * The Player Information Board only lists the default profile game.
+
+In the custom profile, you can add two game names in one. For example:
+_Gamename4=DotA apem us/ca,DotA arem us/ca_
+
+This will check both games and uses the Profile4 settings for both of them.
+If you use such a multi-game name profile, the last game name in the setting will be used for the player information board (after shortly showing the first game name).
 
 === Proxy Check ===
 
@@ -133,6 +158,8 @@ The proxy checker if enabled (1) uses the following two sources to check for a p
 If at least one detected an ip as proxy, it will be logged. However, it doesn't mean it's a 100% valid proxy. Make sure to investigate the case.
 
 The IPs are being saved to avoid mass checking of the same IP which delays the process. However, after a restart, it starts from zero again.
+
+ProxyCheck works only for the current loaded default profile.
 
 === Regular Expressions ===
 

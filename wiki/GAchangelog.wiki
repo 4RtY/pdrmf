@@ -24,6 +24,8 @@
 
 *+* Added Profile Edit option (handy for MG)
 
+*~* Changed Profile Manager Edit/Load/Delete system
+
 *~* Increased time-out duration from 20 to 60 seconds (3 tries)
 
 *~* Fixed _gamename1_ changing the content after changing the current profile and saving it without actually changing it

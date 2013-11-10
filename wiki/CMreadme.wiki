@@ -1,0 +1,15 @@
+#summary Readme for the Clipboard Modifier tool
+
+_The clipboard modifier spares you some time.
+
+<wiki:toc max_depth="3" />
+
+=== Usage ===
+    * Copy the list (with each name/IP on a new line
+    * Choose one of the options
+    * Done
+
+=== Note ===
+    * If you choose to open the IP ranges in the browser, it wont copy the rsult.
+    * Do not open too many IPs in the browser or it might slow down your pc.
+    * Link used: namelookup.php

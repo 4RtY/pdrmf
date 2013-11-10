@@ -8,7 +8,7 @@ _The clipboard modifier spares you some time.
     * Modify IPs
 Removes all duplicates and increases the range by removing the last 1-3 digits (111.222.333.444 -> 111.222.333.)
 
-    *Remove doubles
+    * Remove doubles
 Removes duplicates alts.
 
 === Usage ===

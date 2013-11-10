@@ -95,7 +95,7 @@ _The Game Announcer is a powerful highly individually configurable tool which au
     * The title contains the current gamename, slot number and corresponding full slot number of the autohosted game, start time (where the GA first seen it), current time and the elapsed time
 
 === Whitelist ===
-
+*>= v1.4.2*
 Since the whitelist has been given a gateway specific feature, I'll explain how to use it.
 
 If you add _user1@europe.battle.net_ in the settings and the detected user1 is from europe, it will not be logged. If he's from a different realm, he will be logged.
@@ -103,6 +103,8 @@ If you add _user1@europe.battle.net_ in the settings and the detected user1 is f
 If you do not care about specific realms, just put _user1_ in the settings.
 
 Whitelist supports !RegEx, so you can also use _user1@(.`*`)west(.`*`)
+However, if _!DoubleLog_ is enabled, you also have to add _G/E_ if you make the realm specific:
+_user1@((.`*`)west(.`*`)|G/E)_
 
 === Log ===
 

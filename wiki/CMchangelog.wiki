@@ -1,0 +1,16 @@
+#summary Change Log for the Clipboard Modifier
+<wiki:toc max_depth="3" />
+
+== Legend ==
+*+* Added
+
+*-* Removed
+
+*~* Fixed/Changed
+
+*•* Comment/Info
+
+----
+
+=== 10.11.2013 v1.0 ===
+*•* Release

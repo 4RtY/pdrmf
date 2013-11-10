@@ -12,5 +12,9 @@
 
 ----
 
+=== v1.1 ===
+
+*~* Fixed exit on closing the tool without choosing an option
+
 === 10.11.2013 v1.0 ===
 *•* Release

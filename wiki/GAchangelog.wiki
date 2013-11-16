@@ -14,7 +14,7 @@
 
 === v1.4.3 ===
 
-*~* Fixed listening _econnect_ in the user specific information gui
+*~* Fixed listing _econnect_ in the user specific information gui
 
 === 15.11.2013 v1.4.2 ===
 

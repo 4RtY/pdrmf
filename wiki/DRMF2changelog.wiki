@@ -23,6 +23,7 @@
     * _Oracle_ unit ID _N0MD_
     * _Soul Keeper_ unit ID _E02U_
     * _Soul Keeper_ unit ID _E02W_
+    * replaced Troll Warlord unit ID (was listed as Storm Spirit)
 
 *~* Fixed settings gui (load and save)
 

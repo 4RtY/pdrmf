@@ -14,6 +14,8 @@
 
 === v1.4.3 ===
 
+*~* Fixed logging of results with a comma in the details (e.g. country)
+
 *~* Fixed listing _econnect_ in the user specific information gui
 
 === 15.11.2013 v1.4.2 ===

@@ -6,7 +6,7 @@
 
 === Known Issues ===
 
-With the map modifications of Island Defense by ENT, the DRM can not extract the chat of the replay with the result that the DRMF can not compile a player list. However, every options will still be functional for all players.
+With the map modifications of Island Defense by ENT (uxIslandDefense1-3), the DRM can not extract the chat of the replay with the result that the DRMF can not compile a player list. However, every options will still be functional for all players.
 
 === General ===
     * Must be used with the latest DotA Replay Manager version (>= 3.02b) 

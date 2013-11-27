@@ -4,6 +4,10 @@
 
 *Contains options & features of the current developed version.*
 
+=== Known Issues ===
+
+With the map modifications of Island Defense by ENT, the DRM can not extract the chat of the replay with the result that the DRMF can not compile a player list. However, every options will still be functional for all players.
+
 === General ===
     * Must be used with the latest DotA Replay Manager version (>= 3.02b) 
     * Basically, it contains the *same options* as the version for [https://code.google.com/p/pdrmf/wiki/IDreadme Island Defense] and [https://code.google.com/p/pdrmf/wiki/DOTAreadme DotA] since both versions are in the DRMF2.

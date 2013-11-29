@@ -17,6 +17,7 @@
 
 *+* Added
     * _Sentry Ward_ unit ID _oeye_
+    * _Observer Ward_ unit ID _o004_
     * _Goblin Land Mine_ unit ID _n00O_
     * _Spirit Tower - level 2_ unit ID _u00D_
     * _Crypt Fiend (Burrowed)_ unit ID _u010_

@@ -2,11 +2,13 @@
 
 <wiki:toc max_depth="3" />
 
-=== v1.3.3 ===
+=== 14.12.2013 v1.3.3 ===
 
 *+* [https://code.google.com/p/pdrmf/wiki/Preadme#Features RButton feature]
 
 *+* [https://code.google.com/p/pdrmf/wiki/Preadme?ts=1381765376&updated=Preadme#Settings TrackUsers feature]
+
+*+* Increased index of games
 
 *~* [https://code.google.com/p/pdrmf/issues/list?can=1&q=P+v1.3.2 Bug fixes]
 

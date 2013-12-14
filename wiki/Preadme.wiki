@@ -51,9 +51,10 @@ If you still get a login error, turn IEvisible to 1 and if it annoys you, you ca
 
 === Features ===
 
-    * Right click on a line to copy the content, right click on multiply lines to copy all of them/add more
+    * Select line(s) and right click to copy the content
     * Keep a line right clicked (>750ms) to clear the clipboard
     * Double left click on a lobby/game info line which contains a link to the site to open it
+    * Right click on a lobby/game info line and your clipboard clears (copies the info afterwards)
 
 === Specific User GUI ===
     * If you choose no option at all, the given username's whole communication will be the unfiltered result.

@@ -2,6 +2,10 @@
 
 <wiki:toc max_depth="3" />
 
+=== 19.01.2013 v1.3.4 ===
+
+*+* Dynamic multi game support
+
 === 14.12.2013 v1.3.3 ===
 
 *+* [https://code.google.com/p/pdrmf/wiki/Preadme#Features RButton feature]

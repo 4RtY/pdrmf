@@ -8,6 +8,10 @@
 
 *+* Added min/max games for 'all games'.
 
+*~* Changed old dropdown box back.
+
+*-* Removed update.
+
 === 19.01.2013 v1.3.4 ===
 
 *+* Dynamic multi game support

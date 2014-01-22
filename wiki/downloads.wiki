@@ -4,6 +4,7 @@
 
 === Google's statement ===
 http://google-opensource.blogspot.de/2013/05/a-change-to-google-code-download-service.html
+
 _Existing projects with downloads will see no visible changes until January 14, 2014 and will no longer have the ability to create new downloads starting on January 15, 2014._
 
 === Where can I download the tools now? ===

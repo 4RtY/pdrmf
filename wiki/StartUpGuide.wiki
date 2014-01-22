@@ -1,5 +1,5 @@
 #summary Start-Up guide for the DRMF2
-#labels Phase-Deploy,Featured
+#labels Phase-Deploy
 
 === Using the DRMF2 for the very first time ===
     # First of all [https://code.google.com/p/dota-replay-manager/downloads/list download] the DotA Replay Manager

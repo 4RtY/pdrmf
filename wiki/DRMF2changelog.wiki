@@ -1,5 +1,4 @@
 #summary Change Log for the merged DotA Replay Manager Filter
-#labels Featured
 <wiki:toc max_depth="4" />
 
 == Legend ==

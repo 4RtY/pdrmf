@@ -1,4 +1,5 @@
 #summary Download Information
+#labels Featured,Phase-QA
 
 <wiki:toc max_depth="3" />
 
@@ -9,3 +10,7 @@ _"Existing projects with downloads will see no visible changes until January 14,
 
 === Where can I download the tools now? ===
 I'll upload the tools via google drive. You can download them from there.
+
+=== Update Info? ===
+
+You'll not receive any update information for the new tools. I'll remove all version check files to avoid version problems in the future.

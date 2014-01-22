@@ -5,6 +5,7 @@
 === 22.01.2013 v1.3.4.2 ===
 
 *•* [https://drive.google.com/file/d/0B8JoWU-WbXbeenhybjZ5bDN5OWc Download] | [https://www.virustotal.com/de/url/6c78f70706de2171f6c46f20e0972727b65a051bde8cd19798340c0b48faeb55/analysis/1390412428/ url scan]
+
 *+* Added min/max games for 'all games'.
 
 === 19.01.2013 v1.3.4 ===

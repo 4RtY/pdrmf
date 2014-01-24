@@ -14,6 +14,10 @@
 
 === v1.4.3 ===
 
+*•* [Download] | [Url Scan]
+
+*•* Win32 support.
+
 *~* Fixed logging of results with a comma in the details (e.g. country)
 
 *~* Fixed listing _econnect_ in the user specific information gui

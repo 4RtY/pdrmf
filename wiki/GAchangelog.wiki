@@ -14,7 +14,7 @@
 
 === v1.4.3 ===
 
-*•* [Download] | [Url Scan]
+*•* Download | Url Scan
 
 *•* Win32 support.
 

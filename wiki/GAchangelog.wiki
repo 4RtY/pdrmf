@@ -22,6 +22,8 @@
 
 *~* Fixed listing _econnect_ in the user specific information gui
 
+*-* Removed update function
+
 === 15.11.2013 v1.4.2 ===
 
 *+* Added gateway specific support for the whitelist

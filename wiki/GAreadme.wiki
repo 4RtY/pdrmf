@@ -174,7 +174,7 @@ If at least one detected an ip as proxy, it will be logged. However, it doesn't 
 
 The IPs are being saved to avoid mass checking of the same IP which delays the process. However, after a restart, it starts from zero again.
 
-!ProxyCheck works only for the current loaded default profile.
+!ProxyCheck works only for the current loaded profile.
 
 === Regular Expressions ===
 

@@ -14,6 +14,8 @@
 
 === v1.4.3.1 ===
 
+*•* [https://drive.google.com/file/d/0B8JoWU-WbXbeZW0zaHN3ODNvbVU Download] | [https://www.virustotal.com/de/url/4397f26d1076a5fcbd7a457aaccfdfb4377f39126abf3fc239c70eddfd60bc37/analysis/1390931650/ Url Scan]
+
 *+* Added T&J slot number.
 
 *~* Fixed Player Info board refreshing for each game if using a multi-profile which is not the default one.

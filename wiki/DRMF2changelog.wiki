@@ -14,6 +14,10 @@
 
 === v1.5.5 ===
 
+*•* Download | Url Scan
+
+*•* Win32 support - Win64 users can still use it 
+
 *+* Added
     * _Sentry Ward_ unit ID _oeye_
     * _Observer Ward_ unit ID _o004_
@@ -26,11 +30,15 @@
     * replaced Troll Warlord unit ID (was listed as Storm Spirit)
     * _Alchimist (ultimate)_ unit ID _N01H_
 
+*~* Fixed playerlist refreshing for maps which have no chatlog.
+
 *~* Fixed settings gui (load and save)
 
 *~* Fixed !ResultCrawler
 
 *~* Fixed ID map error message to appear although DotA map was chosen
+
+*-* Removed the update function
 
 === 31.07.2013 v1.5.4 ===
 

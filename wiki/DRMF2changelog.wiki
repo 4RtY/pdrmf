@@ -30,6 +30,8 @@
     * replaced Troll Warlord unit ID (was listed as Storm Spirit)
     * _Alchimist (ultimate)_ unit ID _N01H_
 
+*~* Fixed [https://code.google.com/p/pdrmf/issues/detail?id=189 solo hackcheck] 
+
 *~* Fixed playerlist refreshing for maps which have no chatlog.
 
 *~* Fixed settings gui (load and save)

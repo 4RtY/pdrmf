@@ -32,6 +32,8 @@
 
 *~* Fixed [https://code.google.com/p/pdrmf/issues/detail?id=189 solo hackcheck] 
 
+*~* Fixed ECC solo not giving out a result
+
 *~* Fixed playerlist refreshing for maps which have no chatlog.
 
 *~* Fixed settings gui (load and save)

@@ -12,9 +12,9 @@
 
 ----
 
-=== v1.5.5 ===
+=== 29.01.2014 v1.5.5 ===
 
-*•* Download | Url Scan
+*•* [https://drive.google.com/file/d/0B8JoWU-WbXbeVTd3cVBGRjJPWG8 Download] | [https://www.virustotal.com/de/url/8155417fb2ec043f60d8d2e7f5cd130cd76bcabf745de3c257ed289d976a99f1/analysis/1390997609/ Url Scan]
 
 *•* Win32 support - Win64 users can still use it 
 

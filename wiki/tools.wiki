@@ -1,0 +1,10 @@
+#summary List of all current tools.
+<wiki:toc max_depth="3" />
+
+    * *GA* _(Game Announcer)_
+Latest Version: [https://docs.google.com/file/d/0B8JoWU-WbXbeZW0zaHN3ODNvbVU v1.4.3.1] | [https://code.google.com/p/pdrmf/wiki/GAchangelog Changelog] | [https://code.google.com/p/pdrmf/wiki/GAreadme Readme] :: Shows, observes and analyzes the ENT lobby.
+
+    * *DK* _(Defense Keys)_
+Latest Version: [https://code.google.com/p/pdrmf/downloads/detail?name=Defense%20Keys%20%28v1.3.1%29.exe v1.3.1] | [https://code.google.com/p/pdrmf/wiki/DKchangelog Changelog] | [https://code.google.com/p/pdrmf/wiki/DKreadme Readme] :: A hotkey tool for Island Defense which also changes the items' shop hotkeys.
+
+----

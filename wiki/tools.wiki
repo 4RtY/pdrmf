@@ -9,5 +9,3 @@ Latest Version: [https://docs.google.com/file/d/0B8JoWU-WbXbeZW0zaHN3ODNvbVU v1.
 
     * *DK* _(Defense Keys)_
 Latest Version: [https://code.google.com/p/pdrmf/downloads/detail?name=Defense%20Keys%20%28v1.3.1%29.exe v1.3.1] | [https://code.google.com/p/pdrmf/wiki/DKchangelog Changelog] | [https://code.google.com/p/pdrmf/wiki/DKreadme Readme] :: A hotkey tool for Island Defense which also changes the items' shop hotkeys.
-
-----

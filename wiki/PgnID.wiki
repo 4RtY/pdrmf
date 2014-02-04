@@ -1,4 +1,3 @@
-#labels Deprecated
 If (game = "Castle Fight")
 	game = 1
 If (game = "Are you a lucker")

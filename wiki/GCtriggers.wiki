@@ -20,7 +20,7 @@ _Additional information for the settings to configure the filter._
 
 For more information, read [https://code.google.com/p/dota-replay-manager/source/browse/docs/w3g_actions.txt here].
 
-Example usage:
+Example usage and [http://pastebin.com/1FZkzFa8 result]
 {{{
 Triggers=0x11
 Triggers=0x000D020A

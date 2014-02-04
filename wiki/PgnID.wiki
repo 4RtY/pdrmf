@@ -1,4 +1,11 @@
-=== The gamenames are case-_sensitive_! ===
+#summary GN to ID
+
+_A list of game names with their corresponding bot IDs for Enterprise Gaming. They are needed for tools such as PRISM or Game Crawler._
+
+<wiki:toc max_depth="3" />
+
+
+=== The game names are case-_sensitive_! ===
 
 If (game = "Castle Fight")
 	game = 1

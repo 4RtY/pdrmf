@@ -1,6 +1,6 @@
 #summary Game Crawler Triggers Wiki
 
-_Currently under construction..._
+_Additional information for the settings to configure the filter._
 
 <wiki:toc max_depth="4" />
 

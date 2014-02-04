@@ -3,3 +3,17 @@
 _Currently under construction..._
 
 <wiki:toc max_depth="4" />
+
+=== Note ===
+
+If the a line does *not* contain the _trigger2_ keywords, it will be ignored. The _trigger2_ is necessary to avoid mass collecting of useless data.
+
+=== Triggers ===
+
+||Island Defense (detonation)||flags=76,flags=68||
+||Legion TD Mega (anti-stuck)||0x000D020A||
+
+=== Triggers2 ===
+
+||0x11||Unit/building ability with target position||
+For more information, read [https://code.google.com/p/dota-replay-manager/source/browse/docs/w3g_actions.txt here].

@@ -1,0 +1,17 @@
+#summary Change Log for the Game Crawler
+<wiki:toc max_depth="4" />
+
+== Legend ==
+*+* Added
+
+*-* Removed
+
+*~* Fixed/Changed
+
+*•* Comment/Info
+
+----
+
+=== v1.0 ===
+
+*•* Release

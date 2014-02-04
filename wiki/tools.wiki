@@ -1,4 +1,5 @@
 #summary List of all current tools.
+#labels Featured
 <wiki:toc max_depth="3" />
 
     * *DRMF* _(DotA Replay Manager Filter)_

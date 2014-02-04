@@ -1,3 +1,5 @@
+=== The gamenames are case-_sensitive_! ===
+
 If (game = "Castle Fight")
 	game = 1
 If (game = "Are you a lucker")

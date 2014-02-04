@@ -8,7 +8,7 @@ _Currently under construction..._
 
 If a line does *not* contain the _triggers2_ keywords, it will be ignored. The _triggers2_ is necessary to avoid mass collecting of useless data.
 
-The _triggers_ are to make the result more detailed.
+The _[https://code.google.com/p/pdrmf/wiki/GCtriggers?ts=1391536574&updated=GCtriggers#Triggers triggers]_ are to make the result more detailed.
 
 === Triggers ===
 

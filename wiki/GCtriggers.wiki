@@ -1,5 +1,5 @@
-#summary Currently under construction...
+#summary Game Crawler Triggers Wiki
 
-_The Game Crawler..._
+_Currently under construction..._
 
 <wiki:toc max_depth="4" />

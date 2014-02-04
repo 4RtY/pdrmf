@@ -146,5 +146,5 @@ If (game = "DotA sdem euro")
 If (game = "Legion TD Mega euro")
 	game = 96
 
-
+=== Gamenames Setting Option ===
 Gamenames=Castle Fight|Are you a lucker|Pokemon Defense|DotA ap us/ca|Tropical Tower Wars|DotA rdem us/ca|DotA apem us/ca|Fortress Survival|Wintermaul One|Gem TD|Tree Tag|Civilization Wars|Legion TD MEga|Battleships Pro 5v5|YouTD v1.01|Vampirism Zero|Troll and Elves|SWAT Aftermath|Pudge Wars|lihl|Hero Wars 3v3|DotA HR us/ca -rd|TD Chaos War|LoD -sds6d2|Pig Farm TD|Power Towers|Legion TD Mega 1v1|Line Tower Wars|Angel Arena Allstars|DotA arem us/ca|\/\/ /\/\ \/\/|Azeroth Wars|Jurassic Park Survival|Green TD Mega|Enfo's TS|Team Line Tower Wars|Blood Tournament TD|Castle Defense|Hero Line Wars|Legion TD 3.5 Beta|White TD|Hero Line Wars Deluxe|Island Defense|entidih|Custom Hero Arena|X Hero Siege|DotA sdem A-BAL us/ca|DotA arem A-BAL us/ca|DotA ap AUTOBAL us/ca|DotA apem A-BAL us/ca|NWU -sdsm|LoD -sdems6bod2|Element TD|Hero Line Wars RoC|Legion TD Mega A-BAL|Rabbits vs Sheep|LoD -sds6bod2|WoW Arena Allstars|Survival|Burbenog TD|Risk Devoultion|Tech Wars BC|Tom and Jerry|DotA apem euro|DotA apem A-BAL euro|DotA sdem euro|Legion TD Mega euro|

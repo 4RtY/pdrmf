@@ -12,10 +12,11 @@ The _[https://code.google.com/p/pdrmf/wiki/GCtriggers?ts=1391536574&updated=GCtr
 
 === Triggers ===
 
-||Island Defense (detonation)||flags=76,flags=68||
-||Legion TD Mega (anti-stuck)||0x000D020A||
+||Island Defense||detonation||flags=76,flags=68||
+||Legion TD Mega||anti-stuck||0x000D020A||
 
 === Triggers2 ===
 
 ||0x11||Unit/building ability with target position||
+
 For more information, read [https://code.google.com/p/dota-replay-manager/source/browse/docs/w3g_actions.txt here].

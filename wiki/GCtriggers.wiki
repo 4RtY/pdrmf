@@ -6,7 +6,7 @@ _Currently under construction..._
 
 === Note ===
 
-If the a line does *not* contain the _trigger2_ keywords, it will be ignored. The _trigger2_ is necessary to avoid mass collecting of useless data.
+If a line does *not* contain the _trigger2_ keywords, it will be ignored. The _trigger2_ is necessary to avoid mass collecting of useless data.
 
 === Triggers ===
 

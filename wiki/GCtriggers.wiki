@@ -9,6 +9,8 @@ _Additional information for the settings to configure the filter._
     * If a line does *not* contain the _triggers2_ keywords, it will be ignored. The _triggers2_ is necessary to avoid mass collecting of useless data.
     * The _triggers_ are to make the result more detailed.
 
+[https://code.google.com/p/pdrmf/wiki/GCreadme Readme]
+
 === Triggers ===
 
 ||Island Defense||detonation||flags=76,flags=68||

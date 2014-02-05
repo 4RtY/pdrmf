@@ -1,5 +1,44 @@
 #summary Readme for the Game Crawler
 
-_Currently under construction._
+_The Game Crawler offers two options: Firstly, to scan through replays in your folder and secondly, to download replays from a specific genre and check through them._
 
 <wiki:toc max_depth="3" />
+
+=== Note ===
+
+    * Only official replays from ENT are currently supported. Means: The files must consist of digits.
+    * The qlog.exe will popup multiple times after each other. If you scan > 10 games, you shouldn't be playing games while doing this.
+
+=== How to start? ===
+
+# Start the tool (files will be created).
+# Edit the settings with [https://code.google.com/p/pdrmf/wiki/GCtriggers triggers] and press the reload tab.
+# Nothing more. 
+
+=== Settings ===
+
+||Version||Your current version.||
+||Gamenames||List to choose a genre from (can be edited).||
+||Size||Font size of the result.||
+||triggers2||Raw filtering||
+||triggers||Fine filtering (first the second one, then this one)||
+||L_Option||Save login data||
+||AutoLogin||Login if data in settings||
+||L_Username||Forum account. *Do not edit*||
+||L_Password||Forum password. *Do not edit*||
+|| IEerror || Since the Interent Explorer is needed, the GA will check if it's installed. In case, it errors because it didn't find it, although it's there, set it to 1 to disable the GA's error. The IEerror also shows IE errors since v1.2.3. ||
+|| IEvisible || If set to 1, you can see the IE. If set to 0, it's hidden. ||
+||Warning||Shows the qlog.exe warning (1) or disables it (0).||
+||ReplayPath||Will be overwritten each time to save it for the next time.||
+
+=== How to save multiple triggers? ===
+
+You can only have multiple triggers by writing them in a list
+{{{
+triggers=flags=76,flags=68,flags=60
+}}}
+However, you can add a symbol (#) in front of it to save it and use something else. It is probably the best way to do it.
+{{{
+#triggers=flags=76,flags=68,
+triggers=0x000D020A,
+}}}

@@ -31,6 +31,13 @@ _The Game Crawler offers two options: Firstly, to scan through replays in your f
 ||Warning||Shows the qlog.exe warning (1) or disables it (0).||
 ||!ReplayPath||Will be overwritten each time to save it for the next time.||
 
+=== Index? ===
+
+The Index is a number which defines the amount of games to scan/download.
+By default, 200 games (maximum anyway) will be checked for. If you define the maximum to 20, only 20 will be d&s.
+
+The same applies to the off-line scanning from which the maximum is defined by the amount of .w3g files in the chosen folder.
+
 === How to save multiple triggers? ===
 
 You can only have multiple triggers by writing them in a list

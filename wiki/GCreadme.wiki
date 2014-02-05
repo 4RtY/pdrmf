@@ -12,7 +12,9 @@ _The Game Crawler offers two options: Firstly, to scan through replays in your f
 === How to start? ===
 
 # Start the tool (files will be created).
+
 # Edit the settings with [https://code.google.com/p/pdrmf/wiki/GCtriggers triggers] and press the reload tab.
+
 # Nothing more. 
 
 === Settings ===

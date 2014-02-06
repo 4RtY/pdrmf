@@ -42,6 +42,8 @@ By default, 200 games (maximum anyway) will be checked for. If you define the ma
 
 The same applies to the off-line scanning from which the maximum is defined by the amount of .w3g files in the chosen folder.
 
+The Index value can also be changed _while_ the qlog.exe process is running. This means, you can either use *Abort* (tab) to stop the whole scanning or you change the _Index_ to set a new maximum.
+
 === How to save multiple triggers? ===
 
 You can only have multiple triggers by writing them in a list

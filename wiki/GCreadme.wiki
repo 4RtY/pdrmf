@@ -6,7 +6,7 @@ _The Game Crawler offers two options: Firstly, to scan through replays in your f
 
 === Requirement ===
     * Internet Explorer must be installed (I suggest IE10)
-    * (v1.3+) *You must have admin access on [https://entgaming.net/ ENT] to use the tool*
+    * You must have admin access on [https://entgaming.net/ ENT] to use the tool.
 
 === Note ===
 

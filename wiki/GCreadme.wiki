@@ -4,6 +4,10 @@ _The Game Crawler offers two options: Firstly, to scan through replays in your f
 
 <wiki:toc max_depth="3" />
 
+=== Requirement ===
+    * Internet Explorer must be installed (I suggest IE10)
+    * (v1.3+) *You must have admin access on [https://entgaming.net/ ENT] to use the tool*
+
 === Note ===
 
     * Only official replays from ENT are currently supported. Means: The files must consist of digits.

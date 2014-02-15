@@ -67,9 +67,14 @@ The following maps are supported. Maps which are not listed below might not be l
     * Battleships :: http://198.251.81.118/replay/view_replay.php?file=
     * Castle Fight
     * Civilization Wars
-    * Hero Line Wars
-    * Island Defense
-    * Legion TD Mega
+    * Hero Line Wars :: http://198.251.81.43/replay/view_replay.php?file=
+    * Island Defense :: http://198.251.81.118/replay/view_replay.php?file=
+    * Legion TD
+
+Euro: n/a
+Beta: http://198.251.81.43/replay/view_replay.php?file=
+Mega: http://198.251.81.118/replay/view_replay.php?file=
+
     * Naruto Wars Unlimited
     * Rabbits vs Sheep
     * Risk Devolution

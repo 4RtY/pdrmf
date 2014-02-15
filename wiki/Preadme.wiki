@@ -75,15 +75,15 @@ The following maps are supported. Maps which are not listed below might not be l
     # Beta: http://198.251.81.43/replay/view_replay.php?file=
     # Mega: http://198.251.81.118/replay/view_replay.php?file=
 
-    * Naruto Wars Unlimited
-    * Rabbits vs Sheep
-    * Risk Devolution
+    * Naruto Wars Unlimited :: n/a
+    * Rabbits vs Sheep :: n/a
+    * Risk Devolution :: http://198.251.81.118/replay/view_replay.php?file=
     * Tree Tag
-    * Castle Fight 1v1
-    * Legion TD Mega HR
-    * LIHL (ENT LTD IHL)
-    * DotA euro
-    * DotA us/ca
+    * Castle Fight 1v1 :: http://198.251.81.43/replay/view_replay.php?file=
+    * Legion TD Mega HR :: n/a
+    * LIHL (ENT LTD IHL) :: http://198.251.81.118/replay/view_replay.php?file=
+    * DotA euro :: n/a
+    * DotA us/ca :: http://198.251.81.118/replay/view_replay.php?file=
 
 === Cryptography ===
 PRISM uses the cryptography from 'Deo' who [http://www.autohotkey.com/board/topic/67155-ahk-l-crypt-ahk-cryptography-class-encryption-hashing/ published the source code] on !AutoHotkey.net. I am not the owner nor the creater and don't claim any credit for it.

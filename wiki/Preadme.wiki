@@ -64,7 +64,7 @@ If you still get a login error, turn IEvisible to 1 and if it annoys you, you ca
 
 The following maps are supported. Maps which are not listed below might not be listed in the result due to server complications.
 
-    * Battleships
+    * Battleships :: http://198.251.81.118/replay/view_replay.php?file=
     * Castle Fight
     * Civilization Wars
     * Hero Line Wars

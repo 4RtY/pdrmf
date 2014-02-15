@@ -14,7 +14,7 @@
 
 === 15.02.2014 v1.0.1 ===
 
-*•* [https://drive.google.com/file/d/0B8JoWU-WbXbeMkxNblAtU0dTODA Download rar] | [https://drive.google.com/file/d/0B8JoWU-WbXbeblRtN2pKVDF3Z2c/ Download zip]
+*•* [https://drive.google.com/file/d/0B8JoWU-WbXbeOTBGS1BHaWYxNW8 Download rar] | [https://drive.google.com/file/d/0B8JoWU-WbXbeUDBSakptWW5DWHM Download zip] | [https://drive.google.com/file/d/0B8JoWU-WbXbeS3NMYlhaSE5sUGc/ Download GC.exe]
 
 *+* Added User specific game crawling
 

@@ -12,6 +12,12 @@
 
 ----
 
+=== v1.1 ===
+
+*~* Replaced Online with Off-Line for All-games GUI
+
+*~* Fixed wrong game info/link order with the corresponding ASs
+
 === 28.02.2014 v1.0.2 ===
 
 *•* Download [https://drive.google.com/file/d/0B8JoWU-WbXbeazJBdnJhMFZmdW8 exe], [https://drive.google.com/file/d/0B8JoWU-WbXbeTFBKdlRSVFp6Um8 rar], [https://drive.google.com/file/d/0B8JoWU-WbXbeRUFMWFJzS3RkQ0k zip]

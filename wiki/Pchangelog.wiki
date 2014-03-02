@@ -2,6 +2,12 @@
 
 <wiki:toc max_depth="3" />
 
+=== v1.3.5 ===
+
+*•* Download
+
+*~* Removed the "test" from lobby links (dunno why it was there)
+
 === 28.02.2014 v1.3.4.4 ===
 
 *•* [https://drive.google.com/file/d/0B8JoWU-WbXbebFNZOFlYZzVRU1E Download]

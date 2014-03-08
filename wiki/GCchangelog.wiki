@@ -16,7 +16,11 @@
 
 *~* Fixed error on trying to run the game url
 
-*~* 100% match accuracy
+*~* 99% match accuracy
+
+*~* Bug fixes
+
+*+* Added debugging for solo
 
 === 08.03.2014 v1.2 ===
 

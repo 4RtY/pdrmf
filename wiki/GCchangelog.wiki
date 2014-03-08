@@ -12,7 +12,9 @@
 
 ----
 
-=== v1.2.1 ===
+=== 08.03.2014 v1.2.1 ===
+
+*•* [https://drive.google.com/folderview?id=0B8JoWU-WbXbeeE5MYmVweDdSNXc Download]
 
 *~* Fixed error on trying to run the game url
 

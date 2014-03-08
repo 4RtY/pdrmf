@@ -24,6 +24,8 @@
 
 *~* Fixed index (<= counted IDs while changed in filtering) not to stop the process
 
+*~* Fixed results linking to their corresponding game info
+
 *~* Fixed missing ASs (qlog now produces the whole log)
 
 *+* Added scanned usernames to settings

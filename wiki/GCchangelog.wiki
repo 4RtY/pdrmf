@@ -16,7 +16,13 @@
 
 *~* Fixed datetime
 
+*~* Fixed title names
+
 *~* Fixed buttons with index
+
+*~* Fixed solo creating multiple folders (now uses the user's acc as name)
+
+*+* Added bigger breaks between qlog
 
 *+* Added scanned usernames to settings
 

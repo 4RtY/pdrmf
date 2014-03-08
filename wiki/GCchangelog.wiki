@@ -22,7 +22,7 @@
 
 *~* Fixed solo creating multiple folders (now uses the user's acc as name)
 
-*~* Fixed index (while changed in filtering) not to stop the process
+*~* Fixed index (<= counted IDs while changed in filtering) not to stop the process
 
 *~* Fixed missing ASs (qlog now produces the whole log)
 

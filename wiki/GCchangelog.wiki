@@ -12,6 +12,12 @@
 
 ----
 
+=== v1.2 ===
+
+*~* Fixed datetime
+
+*+* Added scanned usernames to settings
+
 === 01.03.2014 v1.1 ===
 
 *•* [https://drive.google.com/folderview?id=0B8JoWU-WbXbeT01XV0ZCYWtUT3c Download]

@@ -16,6 +16,8 @@
 
 *~* Fixed datetime
 
+*~* Fixed buttons with index
+
 *+* Added scanned usernames to settings
 
 === 01.03.2014 v1.1 ===

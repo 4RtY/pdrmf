@@ -22,6 +22,7 @@ _The Game Crawler offers two options: Firstly, to scan through replays in your f
 === Settings ===
 
 ||Version||Your current version.||
+||Debug||Logs tool's actions for solo user. (1)||
 ||Gamenames||List to choose a genre from (can be edited).||
 ||Size||Font size of the result.||
 ||triggers2||Raw filtering||

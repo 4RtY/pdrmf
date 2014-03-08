@@ -16,6 +16,8 @@
 
 *~* Fixed error on trying to run the game url
 
+*~* 100% match accuracy
+
 === 08.03.2014 v1.2 ===
 
 *•* [https://drive.google.com/folderview?id=0B8JoWU-WbXbeT01XV0ZCYWtUT3c Download]

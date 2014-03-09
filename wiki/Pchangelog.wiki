@@ -4,9 +4,9 @@
 
 === v1.3.5 ===
 
-*•* Download
-
 *~* Removed the "test" from lobby links (dunno why it was there)
+
+*~* Fixed time for game info
 
 === 28.02.2014 v1.3.4.4 ===
 

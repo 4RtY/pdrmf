@@ -16,7 +16,7 @@
 
 *~* Online (all) does not add its result anymore.
 
-*+* If _ClearClipboard_ is enabled (1), the clipboard will be cleared once a new result GUI pops up.
+*+* If _!ClearClipboard_ is enabled (1), the clipboard will be cleared once a new result GUI pops up.
 
 === 08.03.2014 v1.2.1 ===
 

@@ -2,11 +2,13 @@
 
 <wiki:toc max_depth="3" />
 
-=== v1.3.5 ===
+=== v1.4 ===
 
 *~* Removed the "test" from lobby links (dunno why it was there)
 
 *~* Fixed time for game info
+
+*+* Added _!ProxyCheck_ for IPs and _OBShostnames_ for hostname filters (keywords).
 
 === 28.02.2014 v1.3.4.4 ===
 

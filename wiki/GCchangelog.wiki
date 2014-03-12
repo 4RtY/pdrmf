@@ -12,6 +12,12 @@
 
 ----
 
+=== v1.2.2 ===
+
+*~* Online (all) does not add its result anymore.
+
+*+* If _ClearClipboard_ is enabled (1), the clipboard will be cleared once a new result GUI pops up.
+
 === 08.03.2014 v1.2.1 ===
 
 *•* [https://drive.google.com/folderview?id=0B8JoWU-WbXbeeE5MYmVweDdSNXc Download]

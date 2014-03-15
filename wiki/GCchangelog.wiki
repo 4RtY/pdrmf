@@ -16,7 +16,7 @@
 
 *~* Online (all) does not add its result anymore.
 
-*+* Added ResultCrawler
+*+* Added !ResultCrawler
 
 *+* If _!ClearClipboard_ is enabled (1), the clipboard will be cleared once a new result GUI pops up.
 

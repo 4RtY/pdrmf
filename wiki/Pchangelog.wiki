@@ -12,7 +12,7 @@
 
 *+* Double click on a result line triggers the username with a customized link (if a username is detected).
 
-*+* GameCrawler adds the game/lobby info to the result output.
+*+* !GameCrawler adds the game/lobby info to the result output.
 
 === 28.02.2014 v1.3.4.4 ===
 

@@ -18,6 +18,8 @@
 
 *+* Added !ResultCrawler
 
+*+* Result will be saved in a text file in the corresponding folder.
+
 *+* If _!ClearClipboard_ is enabled (1), the clipboard will be cleared once a new result GUI pops up.
 
 === 08.03.2014 v1.2.1 ===

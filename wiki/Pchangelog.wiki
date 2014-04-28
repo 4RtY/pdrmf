@@ -10,6 +10,8 @@
 
 *+* Added _!ProxyCheck_ for IPs and _OBShostnames_ for hostname filters (keywords).
 
+*+* Double click on a result line triggers the username with a customized link (if a username is detected).
+
 === 28.02.2014 v1.3.4.4 ===
 
 *•* [https://drive.google.com/file/d/0B8JoWU-WbXbebFNZOFlYZzVRU1E Download]

@@ -6,7 +6,7 @@
 Latest Version: [https://drive.google.com/file/d/0B8JoWU-WbXbeVTd3cVBGRjJPWG8 1.5.5] | [https://code.google.com/p/pdrmf/wiki/DRMF2changelog Changelog] | [https://code.google.com/p/pdrmf/wiki/DRMF2readme Readme] :: Filter extention for the DRM.
 
     * *GA* _(Game Announcer)_ `*`¹
-Latest Version: [https://docs.google.com/file/d/0B8JoWU-WbXbeZW0zaHN3ODNvbVU 1.4.3.1] | [https://code.google.com/p/pdrmf/wiki/GAchangelog Changelog] | [https://code.google.com/p/pdrmf/wiki/GAreadme Readme] :: Shows, observes and analyzes the ENT lobby.
+Latest Version: [https://drive.google.com/file/d/0B8JoWU-WbXbeR0Q4NzNNMEtCalE 1.4.4] | [https://code.google.com/p/pdrmf/wiki/GAchangelog Changelog] | [https://code.google.com/p/pdrmf/wiki/GAreadme Readme] :: Shows, observes and analyzes the ENT lobby.
 
     * *GC* _(Game Crawler)_ `*`¹
 Latest Version: [https://drive.google.com/folderview?id=0B8JoWU-WbXbeeE5MYmVweDdSNXc 1.2.1] | [https://code.google.com/p/pdrmf/wiki/GCchangelog Changelog] | [https://code.google.com/p/pdrmf/wiki/GCreadme Readme] :: Downloads & automatically scans replays (- has also off-line mode).

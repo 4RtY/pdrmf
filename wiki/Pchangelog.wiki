@@ -4,6 +4,8 @@
 
 === 09.06.2014 v1.4 ===
 
+*•* [https://drive.google.com/file/d/0B8JoWU-WbXbeRl95czI5QVdZaGs Download] | [https://www.virustotal.com/de/url/cb4bf5054720a8f43026cc051789736d8dcaf57445ad35ac7a8599885b4c96c4/analysis/1402324475/ Url Scan] | [https://drive.google.com/file/d/0B8JoWU-WbXbeVmdBLWZUWXozQW8 Source Code]
+
 *~* Removed the "test" from lobby links (dunno why it was there)
 
 *~* Fixed time for game info

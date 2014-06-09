@@ -31,7 +31,7 @@ _The Game Announcer is a powerful highly individually configurable tool which au
 || !RefreshDelay || The GA waits for the IE to finish refreshing the site. It's checking every x millisconds when it's done (x = the number you entered). Although, it should work with a pretty low number as well, tests have proven, it's fixing this problem with a higher one. Just test it out yourself. (3 min, 9 max) ||
 || GamenameX || Default gamename for the player information board. ||
 || !AlwaysOnTop2 || Makes the Player Information window always on top by default. ||
-|| !UserStatsLink || You can used any link you want which will be opened with the username.||
+|| !UserLink|| Customizable shortcut link.||
 || L_Username || The login username for IE ENT forum. *Don't manually edit this!* ||
 || L_Password || The password for the login. *Don't manually edit this!* ||
 || L_Option || To keep track if you wish to be automatically logged in ||

@@ -12,7 +12,7 @@ Latest Version: [https://drive.google.com/file/d/0B8JoWU-WbXbeR0Q4NzNNMEtCalE 1.
 Latest Version: [https://drive.google.com/folderview?id=0B8JoWU-WbXbeeE5MYmVweDdSNXc 1.2.1] | [https://code.google.com/p/pdrmf/wiki/GCchangelog Changelog] | [https://code.google.com/p/pdrmf/wiki/GCreadme Readme] :: Downloads & automatically scans replays (- has also off-line mode).
 
     * *PRISM* _(PRISM)_ `*`¹
-Latest Version: [https://drive.google.com/file/d/0B8JoWU-WbXbebFNZOFlYZzVRU1E/ 1.3.4.4] | [https://code.google.com/p/pdrmf/wiki/Pchangelog Changelog] | [https://code.google.com/p/pdrmf/wiki/Preadme Readme] :: Tool to gather intel.
+Latest Version: [https://drive.google.com/file/d/0B8JoWU-WbXbeRl95czI5QVdZaGs 1.4] | [https://code.google.com/p/pdrmf/wiki/Pchangelog Changelog] | [https://code.google.com/p/pdrmf/wiki/Preadme Readme] :: Tool to gather intel.
 
     * *DK* _(Defense Keys)_
 Latest Version: [https://code.google.com/p/pdrmf/downloads/detail?name=Defense%20Keys%20%28v1.3.1%29.exe 1.3.1] | [https://code.google.com/p/pdrmf/wiki/DKchangelog Changelog] | [https://code.google.com/p/pdrmf/wiki/DKreadme Readme] :: A hotkey tool for Island Defense which also changes the items' shop hotkeys.

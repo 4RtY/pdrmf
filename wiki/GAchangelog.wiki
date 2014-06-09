@@ -14,9 +14,9 @@
 
 === v1.4.3.2 ===
 
-*+* Added UserLink customization.
+*+* Added [https://code.google.com/p/pdrmf/wiki/GAreadme?ts=1402321302&updated=GAreadme#UserLink UserLink] customization.
 
-*+* Added IP ban check (50% on banlist).
+*+* Added [https://code.google.com/p/pdrmf/wiki/GAreadme?ts=1402321394&updated=GAreadme#Player_Information IP ban check] (50% on banlist).
 
 *+* Added manual logging of a player.
 

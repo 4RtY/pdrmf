@@ -55,12 +55,15 @@ If you still get a login error, turn IEvisible to 1 and if it annoys you, you ca
     * Keep a line right clicked (>750ms) to clear the clipboard
     * Double left click on a lobby/game info line which contains a link to the site to open it
     * Right click on a lobby/game info line and your clipboard clears (copies the info afterwards)
+    * The minimum and maximum in the GUI allows you to specify which games you want to have. E.g. an index of 20 and index2 of 100 skips the first 20 games and scans through to 100 with a total of 80 games.
 
 === Specific User GUI ===
     * If you choose no option at all, the given username's whole communication will be the unfiltered result.
     * If you choose no gateway, the first gateway with games on it will be chosen.
 
 === Supported maps ===
+
+*Supported Maps information is out-dated. You'll be able to edit the amount of maps you wanna have in the settings. Whether specific maps work or not, is another question.*
 
 The following maps are supported. Maps which are not listed below might not be listed in the result due to server complications.
 

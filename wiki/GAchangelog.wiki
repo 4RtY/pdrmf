@@ -12,7 +12,7 @@
 
 ----
 
-=== v1.4.4 ===
+=== 09.06.2014 v1.4.4 ===
 
 *+* Added [https://code.google.com/p/pdrmf/wiki/GAreadme?ts=1402321302&updated=GAreadme#UserLink UserLink] customization.
 

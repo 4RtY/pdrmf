@@ -15,6 +15,7 @@
 === 09.06.2014 v1.4.4 ===
 
 *•* [https://drive.google.com/file/d/0B8JoWU-WbXbeR0Q4NzNNMEtCalE Download] | [https://www.virustotal.com/de/url/089b223790812508c046d0b6142a17c4682c03c80dc849524f2cc2fb991589f6/analysis/1402323484/ Url Scan] | [https://drive.google.com/file/d/0B8JoWU-WbXbeaWNrWkdwR2NTbFU Source Code]
+
 *+* Added [https://code.google.com/p/pdrmf/wiki/GAreadme?ts=1402321302&updated=GAreadme#UserLink UserLink] customization.
 
 *+* Added [https://code.google.com/p/pdrmf/wiki/GAreadme?ts=1402321394&updated=GAreadme#Player_Information IP ban check] (50% on banlist).

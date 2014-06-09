@@ -80,7 +80,7 @@ _The Game Announcer is a powerful highly individually configurable tool which au
 *The Toggle Board and !AlwaysOnTop have been disabled.*
 
 === Player Information ===
-
+    * *Double click* on a line to open the detailed user info and link access.
     * You can copy each cell of a row by pressing _Alt_ and the corresponding column number (starting the number 1 for the column _Name_)
 
     * You can run links (default browser chosen) with the username. Select a line, press ctrl+1 and the link (!UserStatsLink in the settings) will be opened. You've got many possibilities now - depending on your access:

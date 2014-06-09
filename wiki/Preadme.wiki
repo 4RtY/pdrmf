@@ -1,6 +1,6 @@
 #summary Readme for the project P
 
-_Secret ENT staff tool for gathering information._
+_Gathers game information._
 
 *Readme is currently under construction.*
 

@@ -2,7 +2,7 @@
 
 <wiki:toc max_depth="3" />
 
-=== v1.4 ===
+=== 09.06.2014 v1.4 ===
 
 *~* Removed the "test" from lobby links (dunno why it was there)
 

@@ -14,6 +14,8 @@
 
 === v1.4.5 ===
 
+*+* Added _%url_ip2%_ (50% of an IP address).
+
 *~* Replace commas (,) in the OBS-settings with an _and_ (&) symbol. For more information, please read the [https://code.google.com/p/pdrmf/wiki/GAreadme?ts=1403609435&updated=GAreadme#Regular_Expressions readme].
 
 === 09.06.2014 v1.4.4 ===

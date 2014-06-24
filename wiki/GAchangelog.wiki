@@ -12,6 +12,10 @@
 
 ----
 
+=== v1.4.5 ===
+
+*~* Replace commas (,) in the settings for the OBS-settings with an _and_ (&) symbol. For more information, please read the readme.
+
 === 09.06.2014 v1.4.4 ===
 
 *•* [https://drive.google.com/file/d/0B8JoWU-WbXbeR0Q4NzNNMEtCalE Download] | [https://www.virustotal.com/de/url/089b223790812508c046d0b6142a17c4682c03c80dc849524f2cc2fb991589f6/analysis/1402323484/ Url Scan] | [https://drive.google.com/file/d/0B8JoWU-WbXbeaWNrWkdwR2NTbFU Source Code]

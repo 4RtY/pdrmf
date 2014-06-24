@@ -103,6 +103,7 @@ Available to use:
     * %url_realm%
     * %url_provider%
     * %url_ip%
+    * %url_ip2%
     * %url_sql%
     * %url_gn%
 
@@ -114,6 +115,10 @@ It allows proper alias checks via name and the actual realm or a quick hostname 
 For example an IP check:
 <code>https://entgaming.net/bans/namelookup.php?ip=111.222.333.444&gamename=%25island+defense%25</code>
 <code>UserLink=https://entgaming.net/bans/namelookup.php?ip=%url_ip%&gamename=%url_gn%</code>
+
+Example to check the banlist with 50% of the IP:
+<code>https://entgaming.net/bans/bans.php?search=%url_ip2%&filterbyhostname=yes</code>
+%url_ip% is the full IP whereas %url_ip2% is 50% of it.
 
 === Whitelist ===
 *>= v1.4.2*

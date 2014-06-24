@@ -128,6 +128,16 @@ Whitelist supports !RegEx, so you can also use _user1@(.`*`)west(.`*`)
 However, if _!DoubleLog_ is enabled, you also have to add _G/E_ if you make the realm specific:
 _user1@((.`*`)west(.`*`)|G/E)_
 
+
+*>= v1.4.5*
+
+Due to interference of the RegEx comma and the comma in the settings to split two entries, the settings will now be split by the _&_ symbol.
+
+Example: OBSnames=Tim&HelloPeter&aRtY&
+
+The comma, however, will be used for the RegEx in the settings.
+Example: OBSnames=Tim&HelloPeter[0-9]{1,3}&aRtY&
+
 === Log ===
 
 Format: 

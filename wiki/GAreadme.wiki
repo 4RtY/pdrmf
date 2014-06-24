@@ -128,16 +128,6 @@ Whitelist supports !RegEx, so you can also use _user1@(.`*`)west(.`*`)
 However, if _!DoubleLog_ is enabled, you also have to add _G/E_ if you make the realm specific:
 _user1@((.`*`)west(.`*`)|G/E)_
 
-
-*>= v1.4.5*
-
-Due to interference of the RegEx comma and the comma in the settings to split two entries, the settings will now be split by the _&_ symbol.
-
-Example: OBSnames=Tim&HelloPeter&aRtY&
-
-The comma, however, will be used for the RegEx in the settings.
-Example: OBSnames=Tim&HelloPeter[0-9]{1,3}&aRtY&
-
 === Log ===
 
 Format: 
@@ -228,6 +218,14 @@ To avoid this, make the search string case-insensitive:
 
 Please also note that using min and max _{x,y}_ is not possible for OBS settings because of the comma which interferes with the GA looping of the settings.
 
+*>= v1.4.5 :: Comma-Usage*
+
+Due to interference of the RegEx comma and the comma in the settings to split two entries, the settings will now be split by the _&_ symbol.
+
+Example: OBSnames=Tim&HelloPeter&aRtY&
+
+The comma, however, will be used for the RegEx in the settings.
+Example: OBSnames=Tim&HelloPeter[0-9]{1,3}&aRtY&
 === How to choose a good gamename? ===
 
 Choosing a good gamename to filter for, you'll first have to find out which gamenames exist. So check out this [https://entgaming.net/forum/games.php site]. As example, I'll use Island Defense. The gamename on the site is: `[`ENT`]` Island Defense #xxx. Since there're not any other gamenames, writing _Island Defense_ in the settings will be enough. However, there're other games like DotA. Simply writing DotA as a gamename won't be enough - it will find the first gamename containing DotA and it might not be the one you wanted.

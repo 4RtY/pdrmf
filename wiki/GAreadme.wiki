@@ -220,12 +220,12 @@ Please also note that using min and max _{x,y}_ is not possible for OBS settings
 
 *>= v1.4.5 :: Comma-Usage*
 
-Due to interference of the RegEx comma and the comma in the settings to split two entries, the settings will now be split by the _&_ symbol.
+Due to interference of the !RegEx comma and the comma in the settings to split two entries, the settings will now be split by the _&_ symbol.
 
-Example: OBSnames=Tim&HelloPeter&aRtY&
+Example: OBSnames=Tim&!HelloPeter&aRtY&
 
-The comma, however, will be used for the RegEx in the settings.
-Example: OBSnames=Tim&HelloPeter[0-9]{1,3}&aRtY&
+The comma, however, will be used for the !RegEx in the settings.
+Example: OBSnames=Tim&!HelloPeter[0-9]{1,3}&aRtY&
 === How to choose a good gamename? ===
 
 Choosing a good gamename to filter for, you'll first have to find out which gamenames exist. So check out this [https://entgaming.net/forum/games.php site]. As example, I'll use Island Defense. The gamename on the site is: `[`ENT`]` Island Defense #xxx. Since there're not any other gamenames, writing _Island Defense_ in the settings will be enough. However, there're other games like DotA. Simply writing DotA as a gamename won't be enough - it will find the first gamename containing DotA and it might not be the one you wanted.

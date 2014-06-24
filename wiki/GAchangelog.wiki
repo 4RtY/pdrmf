@@ -14,7 +14,7 @@
 
 === v1.4.5 ===
 
-*~* Replace commas (,) in the settings for the OBS-settings with an _and_ (&) symbol. For more information, please read the readme.
+*~* Replace commas (,) in the OBS-settings with an _and_ (&) symbol. For more information, please read the readme.
 
 === 09.06.2014 v1.4.4 ===
 

@@ -4,8 +4,6 @@
 
 === v1.4.1 ===
 
-*+* Added !RegEx support for !KeyWords (for P-all only tho).
-
 *+* Added save button for the result (will create a text file).
 
 *-* Proxy Check via website removed. The option !ProxyCheck will now only scan the hostnames of players for key words (like GA).

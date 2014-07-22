@@ -6,7 +6,11 @@
 
 *+* Added save button for the result (will create a text file).
 
-*-* Proxy Check via website removed. The option !ProxyCheck will now only scan the hostnames of players for key words (like GA).
+*~* Fixed the filter.
+
+*~* Fixed the space in the settings name.
+
+*-* Removed everything Proxy and Hostname related.
 
 === 09.06.2014 v1.4 ===
 

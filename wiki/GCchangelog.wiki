@@ -12,7 +12,9 @@
 
 ----
 
-=== v1.2.2 ===
+=== 23.07.2014 v1.2.2 ===
+
+*•* [https://drive.google.com/folderview?id=0B8JoWU-WbXbeQVVGYjZZajdaY00 Download]
 
 *~* Online (all) does not add its result anymore.
 

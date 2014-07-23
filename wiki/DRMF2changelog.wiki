@@ -16,7 +16,11 @@
 
 *+* Added drag/drop for LTD gui.
 
+*+* Added LTD unit IDs replacement.
+
 *+* Added [http://entwiki.net/index.php?title=EntGaming:Qlog qlog] support (no need to start the DRM anymore if option chosen, [https://code.google.com/p/pdrmf/wiki/DRMF2readme?ts=1406111197&updated=DRMF2readme#qlog read more]).
+
+*+* Added toggle option in the menu to disable/enable unit IDs replacement (for maps which are not supported by DRMF).
 
 *~* Fixed replay drop not to start the DRM properly.
 

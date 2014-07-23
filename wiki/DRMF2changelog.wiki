@@ -15,6 +15,7 @@
 === 23.07.2014 v1.5.6 ===
 
 *•* [https://drive.google.com/file/d/0B8JoWU-WbXbeOV9RM2RZX28wcHc Download]
+
 *+* Added drag/drop for LTD gui.
 
 *+* Added LTD unit IDs replacement.

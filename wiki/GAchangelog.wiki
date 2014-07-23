@@ -12,11 +12,17 @@
 
 ----
 
-=== v1.4.5 ===
+=== 23.07.2014 v1.4.5 ===
+
+*•* [https://drive.google.com/file/d/0B8JoWU-WbXbeQS1qOF9GYnRsS2M Download]
 
 *+* Added _%url_ip2%_ (50% of an IP address).
 
+*~* Slight GUI size change to work for win8.
+
 *~* Replace commas (,) in the OBS-settings with an _and_ (&) symbol. For more information, please read the [https://code.google.com/p/pdrmf/wiki/GAreadme?ts=1403609435&updated=GAreadme#Regular_Expressions readme].
+
+*-* ProxyCheck removed since the API interval is 5 minutes.
 
 === 09.06.2014 v1.4.4 ===
 

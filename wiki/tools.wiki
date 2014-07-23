@@ -9,7 +9,7 @@ Latest Version: [https://drive.google.com/file/d/0B8JoWU-WbXbeOV9RM2RZX28wcHc 1.
 Latest Version: [https://drive.google.com/file/d/0B8JoWU-WbXbeQS1qOF9GYnRsS2M 1.4.5] | [https://code.google.com/p/pdrmf/wiki/GAchangelog Changelog] | [https://code.google.com/p/pdrmf/wiki/GAreadme Readme] :: Shows, observes and analyzes the ENT lobby.
 
     * *GC* _(Game Crawler)_ `*`¹
-Latest Version: [https://drive.google.com/folderview?id=0B8JoWU-WbXbeeE5MYmVweDdSNXc 1.2.1] | [https://code.google.com/p/pdrmf/wiki/GCchangelog Changelog] | [https://code.google.com/p/pdrmf/wiki/GCreadme Readme] :: Downloads & automatically scans replays (- has also off-line mode).
+Latest Version: [https://drive.google.com/folderview?id=0B8JoWU-WbXbeQVVGYjZZajdaY00 1.2.2] | [https://code.google.com/p/pdrmf/wiki/GCchangelog Changelog] | [https://code.google.com/p/pdrmf/wiki/GCreadme Readme] :: Downloads & automatically scans replays (has also off-line mode).
 
     * *PRISM* _(PRISM)_ `*`¹
 Latest Version: [https://drive.google.com/file/d/0B8JoWU-WbXbeRl95czI5QVdZaGs 1.4] | [https://code.google.com/p/pdrmf/wiki/Pchangelog Changelog] | [https://code.google.com/p/pdrmf/wiki/Preadme Readme] :: Tool to gather intel.

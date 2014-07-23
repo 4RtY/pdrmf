@@ -162,6 +162,10 @@ Displays both teams (the users and the colour). Example: t
 
 You can simply drag a replay/file (must have .w3g extension) on one of the three GUIs and it will open the replay with the DRM. After 1.5 seconds, the playerlist will be refreshed automatically.
 
+==== qlog ====
+
+Generating action logs via the qlog.exe is now supported. In the options, add *qlog=1* to enable it. It will disable the prompts to start DRM. Once you did that, drag and drop a replay on the qlog.exe and then drag and drop the log file on the DRM*F*. DRMF will then temporarily use it as the default path and load the log, allowing you to apply the filters.
+
 ==== Tray Icon ====
 
     * Double click on it to toggle the windows (minimizes the window or makes it foremost)

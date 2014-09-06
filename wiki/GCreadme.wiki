@@ -56,3 +56,32 @@ However, you can add a symbol (#) in front of it to save it and use something el
 #triggers=flags=76,flags=68,
 triggers=0x000D020A,
 }}}
+
+----
+
+LTD merc pick:
+{{{
+triggers=u00P,R00I,
+triggers2=0x10,0x19,
+}}}
+u00P is the subgroup and R00I is selecting the builder in the menu (indicating the picking - 0x10 action).
+
+LTD antistuck usage:
+{{{
+triggers=0x000D020A,0x02,0x01
+triggers2=0x60
+}}}
+
+ID deto usage:
+{{{
+triggers=0x02,0x01,0x000D00B1
+triggers2=0x60
+}}}
+
+0x02 and 0x01 both indicate un- & pausing.
+
+NWU Kankuro pick:
+{{{
+triggers=H011
+triggers2=0x19
+}}}

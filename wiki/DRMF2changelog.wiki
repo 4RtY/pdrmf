@@ -20,7 +20,7 @@
 
 *~* Drag and Drop fixed for replays to open the DRM and refresh the playerlist
 
-*~* Drag and Drop fixed to use the dragged log as new source so you can start filtering.
+*~* Drag and Drop fixed to use the dragged log as new source so you can start filtering. Also added an inputbox to enter a username to filter for.
 
 *-* Removed the !TreeTag unit ID system.
 

@@ -18,7 +18,7 @@
 
 *~* Fixed loading the playerlist for ltd beta.
 
-*-* Removed the TreeTag unit ID system.
+*-* Removed the !TreeTag unit ID system.
 
 === 23.07.2014 v1.5.6 ===
 

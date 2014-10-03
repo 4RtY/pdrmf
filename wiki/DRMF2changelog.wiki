@@ -18,6 +18,10 @@
 
 *~* Fixed loading the playerlist for ltd beta.
 
+*~* Drag and Drop fixed for replays to open the DRM and refresh the playerlist
+
+*~* Drag and Drop fixed to use the dragged log as new source so you can start filtering.
+
 *-* Removed the !TreeTag unit ID system.
 
 === 23.07.2014 v1.5.6 ===

@@ -12,6 +12,14 @@
 
 ----
 
+=== v1.5.7 ===
+
+*+* Added Altar Glitch scan for LTD.
+
+*~* Fixed loading the playerlist for ltd beta.
+
+*-* Removed the TreeTag unit ID system.
+
 === 23.07.2014 v1.5.6 ===
 
 *•* [https://drive.google.com/file/d/0B8JoWU-WbXbeOV9RM2RZX28wcHc Download]

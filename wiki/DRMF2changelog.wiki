@@ -14,7 +14,7 @@
 
 === 05.10.2014 v1.5.7.1 ===
 
-*•* [https://drive.google.com/file/d/0B8JoWU-WbXbeNlJaOHBJb3hWR2c Download]
+*•* [https://drive.google.com/file/d/0B8JoWU-WbXbeNlJaOHBJb3hWR2c Download], [https://drive.google.com/file/d/0B8JoWU-WbXbeaXgtd3FNbUs5ekU Zip with drmf2 and qlog.exe]
 
 *~* Fixed something in the installation process.
 

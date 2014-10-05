@@ -160,11 +160,15 @@ Displays both teams (the users and the colour). Example: t
 
 ==== Drag & Drop ====
 
-You can simply drag a replay/file (must have .w3g extension) on one of the three GUIs and it will open the replay with the DRM. After 1.5 seconds, the playerlist will be refreshed automatically.
+Following options possible:
+
+    * D&D a replay (.w3g) on the GUI to open it in the DRM (action log loaded automatically, same for playerlist). You can also watch the replay in wc3 via one click.
+    * D&D a log.txt on the GUI to load it and start filter it.
+    * D&D a replay (e.g. LoD) in qlog mode to not start the DRM. You can still filter it directly tho.
 
 ==== qlog ====
 
-Generating action logs via the qlog.exe is now supported. In the options, add *qlog=1* to enable it. It will disable the prompts to start DRM. Once you did that, drag and drop a replay on the qlog.exe and then drag and drop the log file on the DRMF. DRMF will then temporarily use it as the default path and load the log, allowing you to apply the filters.
+Generating action logs via the qlog.exe is now supported. In the options, add *qlog=1* to enable it (or toggle it via gui). It will disable the prompts to start DRM. Once you did that, drag and drop the replay on the DRMF and it will then temporarily use it as the default path and load the log, allowing you to apply the filters.
 
 ==== Tray Icon ====
 

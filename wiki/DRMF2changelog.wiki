@@ -18,15 +18,15 @@
 
 *+* Added Altar Glitch scan for LTD.
 
-*+* Switch qlog mode on/off in gui.
+*+* Switch qlog mode on/off in gui or settings.
 
-*+* Start replay via GUI which you dropped on it.
+*+* Start a replay in DRM which you dropped on the gui.
 
-*+* Start watching a replay via gui.
+*+* Start watching a replay in wc3 via gui.
 
 *~* Fixed qlog
 
-*~* Fixed loading the playerlist for ltd beta.
+*~* Fixed loading the playerlist for ltd beta and the general "Please start DRM"-message.
 
 *~* Drag and Drop fixed for replays to open the DRM and refresh the playerlist
 

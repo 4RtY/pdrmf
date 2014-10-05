@@ -12,9 +12,19 @@
 
 ----
 
-=== v1.5.7 ===
+=== 05.10.2014 v1.5.7 ===
+
+*•* [https://drive.google.com/file/d/0B8JoWU-WbXbeNldRV0ZPRTVPbms Download], [https://code.google.com/p/pdrmf/wiki/DRMF2readme Readme]
 
 *+* Added Altar Glitch scan for LTD.
+
+*+* Switch qlog mode on/off in gui.
+
+*+* Start replay via GUI which you dropped on it.
+
+*+* Start watching a replay via gui.
+
+*~* Fixed qlog
 
 *~* Fixed loading the playerlist for ltd beta.
 

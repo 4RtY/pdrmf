@@ -12,9 +12,17 @@
 
 ----
 
+=== 05.10.2014 v1.5.7.1 ===
+
+*•* [https://drive.google.com/file/d/0B8JoWU-WbXbeNlJaOHBJb3hWR2c Download]
+
+*~* Fixed something in the installation process.
+
 === 05.10.2014 v1.5.7 ===
 
 *•* [https://drive.google.com/file/d/0B8JoWU-WbXbeNldRV0ZPRTVPbms Download], [https://code.google.com/p/pdrmf/wiki/DRMF2readme Readme]
+
+*•* Error: If your qlog doesn't work, ensure to open the settings.ini and edit them manually. qlog=0 to deactivate it. You can then toggle it on/off in the gui. The same might apply to other settings, too, which are then set on "ERROR".
 
 *+* Added Altar Glitch scan for LTD.
 

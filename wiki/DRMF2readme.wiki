@@ -164,7 +164,7 @@ Following options possible:
 
     * D&D a replay (.w3g) on the GUI to open it in the DRM (action log loaded automatically, same for playerlist). You can also watch the replay in wc3 via one click.
     * D&D a log.txt on the GUI to load it and start filter it.
-    * D&D a replay (e.g. LoD) in qlog mode to not start the DRM. You can still filter it directly tho.
+    * D&D a replay (e.g. LoD) in qlog mode to generate a log and filter it directly.
 
 ==== qlog ====
 

@@ -12,6 +12,10 @@
 
 ----
 
+=== v1.5.7.2 ===
+
+*~* Added placeholder icon for the "Watch replay." menu to be the same size (30x30) as the other options.
+
 === 05.10.2014 v1.5.7.1 ===
 
 *•* [https://drive.google.com/file/d/0B8JoWU-WbXbeNlJaOHBJb3hWR2c Download], [https://drive.google.com/file/d/0B8JoWU-WbXbeaXgtd3FNbUs5ekU Zip with drmf2 and qlog.exe]

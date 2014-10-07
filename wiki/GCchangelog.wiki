@@ -14,6 +14,8 @@
 
 === v1.2.3 ===
 
+*+* Added "Save as.." option.
+
 *~* qlog.exe is not invisible and you can do other things while it generates the action log
 
 === 23.07.2014 v1.2.2 ===

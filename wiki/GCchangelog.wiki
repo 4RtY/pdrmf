@@ -12,11 +12,17 @@
 
 ----
 
-=== v1.2.3 ===
+=== 11.10.2014 v1.2.3 ===
+
+*•* [https://drive.google.com/folderview?id=0B8JoWU-WbXbeQWJuSHMtWTE2b3c Download] exe or zip (exe & qlog).
 
 *+* Added "Save as.." option.
 
-*~* qlog.exe is invisible and you can do other things while it generates the action log
+*+* New icon.
+
+*~* qlog.exe is invisible and you can do other things while it generates the action log.
+
+*~* Minor bug fixes.
 
 === 23.07.2014 v1.2.2 ===
 

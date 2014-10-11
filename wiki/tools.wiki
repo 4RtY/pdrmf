@@ -9,7 +9,7 @@ Latest Version: [https://drive.google.com/file/d/0B8JoWU-WbXbeNlJaOHBJb3hWR2c 1.
 Latest Version: [https://drive.google.com/file/d/0B8JoWU-WbXbeQS1qOF9GYnRsS2M 1.4.5] | [https://code.google.com/p/pdrmf/wiki/GAchangelog Changelog] | [https://code.google.com/p/pdrmf/wiki/GAreadme Readme] | [https://drive.google.com/folderview?id=0B8JoWU-WbXbeemtFUlVvTm56eEk Source Code] :: Shows, observes and analyzes the ENT lobby.
 
     * *GC* _(Game Crawler)_ `*`¹
-Latest Version: [https://drive.google.com/folderview?id=0B8JoWU-WbXbeQVVGYjZZajdaY00 1.2.2] | [https://code.google.com/p/pdrmf/wiki/GCchangelog Changelog] | [https://code.google.com/p/pdrmf/wiki/GCreadme Readme] | [https://drive.google.com/folderview?id=0B8JoWU-WbXbeTWRMaVN5TUItV2M Source Code] :: Downloads & automatically scans replays (has also off-line mode).
+Latest Version: [https://drive.google.com/folderview?id=0B8JoWU-WbXbeQWJuSHMtWTE2b3c 1.2.3] | [https://code.google.com/p/pdrmf/wiki/GCchangelog Changelog] | [https://code.google.com/p/pdrmf/wiki/GCreadme Readme] | [https://drive.google.com/folderview?id=0B8JoWU-WbXbeTWRMaVN5TUItV2M Source Code] :: Downloads & automatically scans replays (has also off-line mode).
 
     * *PRISM* _(PRISM)_ `*`¹
 Latest Version: [https://drive.google.com/file/d/0B8JoWU-WbXbeME1oRUVJQ0h3dEE 1.4.1] | [https://code.google.com/p/pdrmf/wiki/Pchangelog Changelog] | [https://code.google.com/p/pdrmf/wiki/Preadme Readme] | [https://drive.google.com/folderview?id=0B8JoWU-WbXbeQTA1R3dUVms0cmc Source Code] :: Tool to gather intel.

@@ -66,6 +66,15 @@ triggers2=0x10,0x19,
 }}}
 u00P is the subgroup and R00I is selecting the builder in the menu (indicating the picking - 0x10 action).
 
+ID Tome of Retraining & Power
+{{{
+triggers=I05S,I008
+triggers2=0x10
+}}}
+I05S = Manual of Retraining
+
+I008 = Manual of Power
+
 LTD antistuck usage:
 {{{
 triggers=0x000D020A,0x02,0x01

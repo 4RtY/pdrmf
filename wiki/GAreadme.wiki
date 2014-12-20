@@ -47,8 +47,6 @@ _The Game Announcer is a powerful highly individually configurable tool which au
 || Whitelist || A list of names for which will not be logged even if his infos contain some from them above ||
 || !GameHistory || Makes a duplicate of the current lobby as a new GUI. Can be useful if you are ingame and would like to have the information of a player without browsing the forums. ||
 || namelist || Disables the alert system for a player once it informed you about him (to avoid mass spamming) ||
-|| proxycheck || Enables proxy checking ||
-|| !ProxyFilter || A list of key words to check for while scanning IP for proxy ||
 || !DisableSound || (0) turns sound on, (1) turns sound off ||
 || !MultiGames || Enables the !MutliGames feature (see below) ||
 || Debug || Logs variables' content and shows certain progress steps. (Should only be activated if you encounter errors/bugs.)||
@@ -190,7 +188,7 @@ _Gamename4=DotA apem us/ca,DotA arem us/ca_
 This will check both games and uses the Profile4 settings for both of them.
 If you use such a multi-game name profile, the last game name in the setting will be used for the player information board (after shortly showing the first game name).
 
-=== Proxy Check ===
+=== Proxy Check <removed> ===
 
 *Proxy Check should no longer be used due to a limit of one query per 5 minutes by the site. If you've a better source than the two below, please email me.*
 
@@ -203,6 +201,12 @@ If at least one detected an ip as proxy, it will be logged. However, it doesn't 
 The IPs are being saved to avoid mass checking of the same IP which delays the process. However, after a restart, it starts from zero again.
 
 !ProxyCheck works only for the current loaded profile.
+
+=== OverWriteObsIPs ===
+
+Create a text file called "iplog.txt" in the same folder where the GA.exe is.
+Paste proxy IPs in there (one IP on each line) and set OverWriteObsIPs on 1.
+GA will now add the proxy IPs to the normal OBS ips.
 
 === Regular Expressions ===
 

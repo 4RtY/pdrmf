@@ -12,6 +12,12 @@
 
 ----
 
+=== v1.4.6 ===
+
+*~* Fixed the settings GUI style and added new options (!ProxyLink1 and !ProxyLink2 for the OBSinfo GUI)
+
+*+* Added OverWriteObsIPs to read the IPs from a text file (allows more IPs to be checked) - for the proxycollector.
+
 === 23.07.2014 v1.4.5 ===
 
 *•* [https://drive.google.com/file/d/0B8JoWU-WbXbeQS1qOF9GYnRsS2M Download]

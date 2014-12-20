@@ -1,0 +1,5 @@
+#summary Changelog for the Proxy Collector.
+
+=== 20.12.2014 v1.0 ===
+
+*•* [https://drive.google.com/folderview?id=0B8JoWU-WbXbeOGlMdGY5a2R6dzQ Download]

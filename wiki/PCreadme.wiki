@@ -1,3 +1,5 @@
+#summary Readme for the Proxy Collector
+
 === Websites ===
 
     * http://torstatus.blutmagie.de/

@@ -1,0 +1,15 @@
+#summary Changelog for the DotA Replay Manager Filter written in C# (C-Sharp).
+<wiki:toc max_depth="4" />
+== Legend ==
+*+* Added
+
+*-* Removed
+
+*~* Fixed/Changed
+
+*•* Comment/Info
+
+----
+
+=== 05.02.2015 ===
+*•* Started.

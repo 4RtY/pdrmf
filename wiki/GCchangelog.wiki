@@ -12,6 +12,12 @@
 
 ----
 
+=== v1.2.4 ===
+
+*~* Updated BIDs
+
+*~* Increased waiting delay for the qlog.exe to generate the correct log size
+
 === 11.10.2014 v1.2.3 ===
 
 *•* [https://drive.google.com/folderview?id=0B8JoWU-WbXbeQWJuSHMtWTE2b3c Download] exe or zip (exe & qlog).

@@ -78,7 +78,7 @@ I008 = Manual of Power
 LTD antistuck usage:
 {{{
 triggers=0x000D020A,0x02,0x01
-triggers2=0x60
+triggers2=flags=64
 }}}
 
 ID deto usage:
@@ -99,135 +99,69 @@ triggers2=0x19
 
 The gamenames in your settings must match those below 1:1 or the BID wont be recognized.
 
-If (game = "Castle Fight")
-	game = 1
-If (game = "Are you a lucker")
-	game = 2
-If (game = "Pokemon Defense")
-	game = 3
-If (game = "Castle Fight 2v2")
-	game = 4
-If (game = "DotA ap us/ca")
-	game = 5
-If (game = "Tropical Tower Wars")
-	game = 6
-If (game = "DotA rdem us/ca")
-	game = 7
-If (game = "DotA sd us/ca")
-	game = 8
-If (game = "DotA sdem us/ca")
-	game = 9
-If (game = "DotA ar us/ca")
-	game = 10
-If (game = "DotA apem us/ca")
-	game = 11
-If (game = "Fortress Survival")
-	game = 12
-If (game = "Wintermaul One")
-	game = 13
-If (game = "Gem TD")
-	game = 14
-If (game = "Tree Tag")
-	game = 15
-If (game = "Civilization Wars")
-	game = 16
-If (game = "Legion TD Mega")
-	game = 18
-If (game = "Battleships Pro 5v5")
-	game = 19
-If (game = "YouTD v1.01")
-	game = 20
-If (game = "Hero Wars")
-	game = 21
-If (game = "Troll and Elves")
-	game = 23
-If (game = "Pudge Wars")
-	game = 25
-If (game = "lihl26")
-	game = 26
-If (game = "lihl27")
-	game = 27
-If (game = "lihl28")
-	game = 28
-If (game = "Rabbits vs Sheep")
-	game = 29
-If (game = "Legion TD Mega 1100")
-	game = 31
-If (game = "LoD -sds6d2")
-	game = 32
-If (game = "Pig Farm TD")
-	game = 33
-If (game = "Power Towers")
-	game = 34
-If (game = "Legion TD Mega 1v1")
-	game = 35
-If (game = "Line Tower Wars")
-	game = 36
-If (game = "Angel Arena Allstars")
-	game = 37
-If (game = "DotA arem us/ca")
-	game = 38
-If (game = "\/\/ /\/\ \/\/")
-	game = 39
-If (game = "Azeroth Wars")
-	game = 41
-If (game = "Jurassic Park Survival")
-	game = 47
-If (game = "Green TD Mega")
-	game = 48
-If (game = "Enfo's TS")
-	game = 49
-If (game = "Team Line Tower Wars")
-	game = 51
-If (game = "Blood Tournament TD")
-	game = 52
-If (game = "Castle Defense")
-	game = 53
-If (game = "Hero Line Wars")
-	game = 54
-If (game = "Legion TD 3.5 Beta")
-	game = 57
-If (game = "Hero Line Wars Deluxe")
-	game = 59
-If (game = "Island Defense")
-	game = 60
-If (game = "Broken Alliances")
-	game = 61
-If (game = "Custom Hero Arena")
-	game = 62
-If (game = "X Hero Siege")
-	game = 63
-If (game = "Dragon Ball X")
-	game = 64
-If (game = "Castle Fight 1v1")
-	game = 65
-If (game = "NWU -sdsm")
-	game = 71
-If (game = "LoD -sdems6bod2")
-	game = 73
-If (game = "Element TD")
-	game = 74
-If (game = "Hero Line Wars RoC")
-	game = 78
-If (game = "Legion TD Mega A-BAL")
-	game = 79
-If (game = "LoD -sds6bod2")
-	game = 83
-If (game = "Burbenog TD")
-	game = 86
-If (game = "Risk Devolution")
-	game = 87
-If (game = "Tom and Jerry")
-	game = 89
-If (game = "DotA apem euro")
-	game = 90
-If (game = "DotA ap euro")
-	game = 91
-If (game = "DotA LoD -sds6bod2 EU")
-	game = 92
-If (game = "DotA ar euro")
-	game = 93
-If (game = "DotA sd euro")
-	game = 94
-If (game = "legion TD Mega euro")
-	game = 96
+|| Castle Fight || 1||
+||Are you a lucker||2||
+||Pokemon Defense||3||
+||Castle Fight 2v2||4||
+||DotA ap us/ca||5||
+||Tropical Tower Wars||6||
+||DotA rdem us/ca||7||
+||DotA sd us/ca||8||
+||DotA sdem us/ca||9||
+||DotA ar us/ca||10||
+||DotA apem us/ca||11||
+||Fortress Survival||12||
+||Wintermaul One||13||
+||Gem TD||14||
+||Tree Tag||15||
+||Civilization Wars||16||
+||Legion TD Mega||18||
+||Battleships Pro 5v5||19||
+||YouTD v1.01||20||
+||Hero Wars||21||
+||Troll and Elves||23||
+||Pudge Wars||25||
+||lihl26||26||
+||lihl27||27||
+||lihl28||28||
+||Rabbits vs Sheep||29||
+||Legion TD Mega 1100||31||
+||LoD -sds6d2||32||
+||Pig Farm TD||33||
+||Power Towers||34||
+||Legion TD Mega 1v1||35||
+||Line Tower Wars||36||
+||Angel Arena Allstars||37||
+||DotA arem us/ca||38||
+||\/\/ /\/\ \/\/||39||
+||Azeroth Wars||41||
+||Jurassic Park Survival||47||
+||Green TD Mega||48||
+||Enfo's TS||49||
+||Team Line Tower Wars||51||
+||Blood Tournament TD||52||
+||Castle Defense||53||||
+||Hero Line Wars||54||
+||Legion TD 3.5 Beta||57||
+||Hero Line Wars Deluxe||59||
+||Island Defense||60||
+||Broken Alliances||61||
+||Custom Hero Arena||62||
+||X Hero Siege||63||
+||Dragon Ball X||64||
+||Castle Fight 1v1||65||
+||NWU -sdsm||71||
+||LoD -sdems6bod2||73||
+||Element TD||74||
+||Hero Line Wars RoC||78||
+||Legion TD Mega A-BAL||79||
+||LoD -sds6bod2||83||
+||Burbenog TD||86||
+||Risk Devolution||87||
+||Tom and Jerry||89||
+||DotA apem euro||90||
+||DotA ap euro||91||
+||DotA LoD -sds6bod2 EU||92||
+||DotA ar euro||93||
+||DotA sd euro||94||
+||legion TD Mega euro||96||

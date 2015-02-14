@@ -84,7 +84,7 @@ triggers2=flags=64
 ID deto usage:
 {{{
 triggers=0x02,0x01,0x000D00B1
-triggers2=0x60
+triggers2=0x11
 }}}
 
 0x02 and 0x01 both indicate un- & pausing.
@@ -95,11 +95,13 @@ triggers=H011
 triggers2=0x19
 }}}
 
+*Make sure to check whether it is an action (0xAB) or a flag (flags=AB).
+
 === Supported Games ===
 
 The gamenames in your settings must match those below 1:1 or the BID wont be recognized.
 
-|| Castle Fight || 1||
+||Castle Fight||1||
 ||Are you a lucker||2||
 ||Pokemon Defense||3||
 ||Castle Fight 2v2||4||

@@ -7,13 +7,13 @@ The DRMF# version will only work with the qlog.exe for now.
 
 === Result Windows ===
 
-   * Select lines via shift or ctrl and click on the column header to copy the lines.
+   * Select lines via a normal, shift or ctrl click and click on the column header to copy the lines.
    * Double click anywhere on the listview to clear the clipboard.
 
 === Drag & Drop ===
 
-   * Drag a .txt file on the DRMF window to load the log content.
-   * Drag and drop a .w3g file on the DRMF window to load the replay with qlog.
+   * Drag a .txt file on the DRMF window to load the log content & the playerlist.
+   * Drag and drop a .w3g file on the DRMF window to load the replay with qlog (and do the same as with the log.txt above).
 
 === Links & Paths ===
 

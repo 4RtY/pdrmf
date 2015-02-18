@@ -9,6 +9,7 @@ The DRMF# version will only work with the qlog.exe for now.
 
    * Select lines via a normal, shift or ctrl click and click on the column header to copy the lines.
    * Double click anywhere on the listview to clear the clipboard.
+   * The search is case sensitive. You can query for any keywords you want or select a player's name.
 
 === Drag & Drop ===
 

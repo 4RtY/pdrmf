@@ -3,7 +3,8 @@
 
 === Take Note ===
 
-The DRMF# version will only work with the qlog.exe and does no longer need the DotA Replay Manager.
+    * The DRMF# version will only work with the qlog.exe and does no longer need the DotA Replay Manager.
+    * You need to have [http://www.microsoft.com/de-de/download/details.aspx?id=30653 Microsoft .NET Framework 4.5 (x86 and x64)] installed.
 
 === How it works ===
 

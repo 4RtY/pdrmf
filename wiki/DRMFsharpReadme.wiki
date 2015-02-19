@@ -7,7 +7,7 @@ The DRMF# version will only work with the qlog.exe and does no longer need the D
 
 === How it works ===
 
-Drag a replay or a DRM or Qlog generated log file on it and you are ready to go!
+Drag a replay or a DRM/Qlog generated log file on it and you are ready to go!
 
 === Result Windows ===
 

@@ -3,7 +3,7 @@
 
 === Take Note ===
 
-The DRMF# version will only work with the qlog.exe.
+The DRMF# version will only work with the qlog.exe and does no longer need the DotA Replay Manager.
 
 === How it works ===
 

@@ -17,8 +17,8 @@ Drag a replay or a DRM/Qlog generated log file on it and you are ready to go!
 
 === Drag & Drop ===
 
-   * Drag a .txt file on the DRMF window to load the log content & the playerlist.
-   * Drag and drop a .w3g file on the DRMF window to load the replay with qlog (and do the same as with the log.txt above).
+   * D&D a *.txt file on the DRMF window to load the log content & the playerlist.
+   * D&D a *.w3g file on the DRMF window to load the replay with qlog (and do the same as with the log.txt above).
 
 === Links & Paths ===
 

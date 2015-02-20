@@ -13,6 +13,8 @@
 
 === 20.02.2015 v1.0.1 ===
 
+*•* [https://drive.google.com/file/d/0B8JoWU-WbXbeUTFlbGN4VTFfbW8 Download]
+
 *~* Removed name restrictions for setting paths.
 
 *~* One bug fix and notification fixes.

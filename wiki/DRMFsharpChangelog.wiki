@@ -11,9 +11,11 @@
 
 ----
 
-=== v1.0.1 ===
+=== 20.02.2015 v1.0.1 ===
 
 *~* Removed name restrictions for setting paths.
+
+*~* One bug fix and notification fixes.
 
 === 19.02.2015 v1.0 ===
 *•* Private Beta.

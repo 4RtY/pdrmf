@@ -5,6 +5,9 @@
     * *DRMF* _(DotA Replay Manager Filter)_
 Latest Version: [https://drive.google.com/file/d/0B8JoWU-WbXbeNlJaOHBJb3hWR2c#list 1.5.7.1] | [https://code.google.com/p/pdrmf/wiki/DRMF2changelog Changelog] | [https://code.google.com/p/pdrmf/wiki/DRMF2readme Readme] | [https://drive.google.com/folderview?id=0B8JoWU-WbXbeVXFDNkxZUFFpLTQ#list Source Code] :: Filter extention for the DRM.
 
+    * *DRMF#* _(DotA Replay Manager Filter # (C-Sharp))_
+Latest Version: [https://drive.google.com/file/d/0B8JoWU-WbXbeUTFlbGN4VTFfbW8 1.0.1] | [https://code.google.com/p/pdrmf/wiki/DRMFsharpReadme Readme] | [https://code.google.com/p/pdrmf/wiki/DRMFsharpChangelog Changelog] :: DRMF rewritten in # (C-Sharp). New layout/faster/easier. Does no longer need the DRM to be run/opened.
+
     * *GA* _(Game Announcer)_ `*`¹
 Latest Version: [https://drive.google.com/file/d/0B8JoWU-WbXbeQS1qOF9GYnRsS2M#list 1.4.5.0] | [https://code.google.com/p/pdrmf/wiki/GAchangelog Changelog] | [https://code.google.com/p/pdrmf/wiki/GAreadme Readme] | [https://drive.google.com/folderview?id=0B8JoWU-WbXbeemtFUlVvTm56eEk#list Source Code] :: Shows, observes and analyzes the ENT lobby.
 

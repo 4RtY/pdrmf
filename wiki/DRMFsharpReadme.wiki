@@ -8,7 +8,7 @@
 
 === How it works ===
 
-Drag a replay or a DRM/Qlog generated log file on it and you are ready to go!
+After you start the DRMF#, for the first time installation, go in the settings (the menu tab) and select the qlog.exe path. Save and close the settings and drag a replay or a DRM/Qlog generated log file on it and you are ready to go!
 
 === Result Windows ===
 

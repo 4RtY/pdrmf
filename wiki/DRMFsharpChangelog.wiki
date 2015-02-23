@@ -15,6 +15,8 @@
 
 *•* [https://drive.google.com/file/d/0B8JoWU-WbXbeUTFlbGN4VTFfbW8 Download]
 
+*+* Multiple result windows possible.
+
 *~* Removed name restrictions for setting paths.
 
 *~* One bug fix and notification fixes.

@@ -2,9 +2,16 @@
 
 <wiki:toc max_depth="3" />
 
+=== 30.04.2015 v1.4.2 ===
+
+*•* [https://drive.google.com/file/d/0B8JoWU-WbXbeMFJyS2NVaGpKb2c Download]
+
+*~* Updated lobby links.
+
 === 23.07.2014 v1.4.1 ===
 
 *•* [https://drive.google.com/file/d/0B8JoWU-WbXbeME1oRUVJQ0h3dEE Download]
+
 *+* Added save button for the result (will create a text file).
 
 *~* Fixed the filter.
